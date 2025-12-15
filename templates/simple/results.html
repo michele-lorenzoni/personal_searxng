@@ -23,6 +23,16 @@
   {% set highlight_urls = config.ui.highlight_urls %}
 {% endif %}
 
+<!-- DEBUG BOX -->
+<div style="background: yellow; color: black; padding: 15px; margin: 10px; border: 3px solid red; font-size: 14px;">
+  <strong>🔍 DEBUG INFO:</strong><br>
+  <strong>Highlight URLs:</strong> {{ highlight_urls }}<br>
+  <strong>Tipo:</strong> {{ highlight_urls.__class__.__name__ }}<br>
+  <strong>Lunghezza:</strong> {{ highlight_urls|length }}<br>
+  <strong>Config disponibile:</strong> {{ 'ui' in config }}<br>
+  <strong>Numero risultati:</strong> {{ results|length }}
+</div>
+
 <div id="results" class="{{ only_template }}">
 
   {%- if answers -%}
@@ -70,8 +80,10 @@
     <div id="urls" role="main">
     {% for result in results -%}
         {%- set is_highlighted = False -%}
+        {%- set result_url_clean = result.url|replace('https://', '')|replace('http://', '')|replace('www.', '') -%}
         {%- for h_url in highlight_urls -%}
-          {%- if h_url in result.url -%}
+          {%- set h_url_clean = h_url|replace('https://', '')|replace('http://', '')|replace('www.', '') -%}
+          {%- if h_url_clean in result_url_clean -%}
             {%- set is_highlighted = True -%}
           {%- endif -%}
         {%- endfor -%}
