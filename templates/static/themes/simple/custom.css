@@ -1,1 +1,8 @@
-
+.highlight-url {
+  text-decoration: underline;
+  color: #d22;
+  font-weight: bold;
+  background-color: #fff3cd;
+  border-left: 4px solid #d22;
+  padding-left: 6px;
+}
