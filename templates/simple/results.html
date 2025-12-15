@@ -18,15 +18,7 @@
   {% set only_template = '' %}
 {% endif %}
 
-<!-- HIGHLIGHT URLs CONFIGURATION -->
 {% set highlight_urls = settings.ui.highlight_urls or [] %}
-
-<!-- DEBUG BOX - REMOVE AFTER TESTING -->
-<div style="background: yellow; color: black; padding: 15px; margin: 10px; border: 3px solid red;">
-  <strong>🔍 DEBUG INFO:</strong><br>
-  Highlight URLs configurati: {{ highlight_urls }}<br>
-  Numero risultati: {{ results|length }}
-</div>
 
 <div id="results" class="{{ only_template }}">
 
@@ -73,28 +65,21 @@
     {%- endif -%}
 
     <div id="urls" role="main">
-    {% for result in results %}
-        <!-- DEBUG per ogni risultato -->
-        <div style="font-size: 11px; background: #eee; padding: 5px; margin: 5px;">
-          URL: {{ result.url }}<br>
-          Match: {% for h_url in highlight_urls %}{% if h_url in result.url %}✅ SI{% endif %}{% endfor %}
-        </div>
+    {% for result in results -%}
+        {%- set is_highlighted = False -%}
+        {%- for h_url in highlight_urls -%}
+          {%- if h_url in result.url -%}
+            {%- set is_highlighted = True -%}
+          {%- endif -%}
+        {%- endfor -%}
         
-        <!-- Applica classe highlight-url se l'URL matcha -->
-        {% set is_highlighted = namespace(value=false) %}
-        {% for h_url in highlight_urls %}
-          {% if h_url in result.url %}
-            {% set is_highlighted.value = true %}
-          {% endif %}
-        {% endfor %}
-        
-        <div class="{% if is_highlighted.value %}highlight-url{% endif %}">
-        {% if result.open_group and not only_template %}<div class="template_group_{{ result['template']|replace('.html', '') }}">{% endif %}
-        {% set index = loop.index %}
-        {% include get_result_template('simple', result['template']) %}
-        {% if result.close_group and not only_template %}</div>{% endif %}
+        <div class="{% if is_highlighted %}highlight-url{% endif %}">
+        {%- if result.open_group and not only_template -%}<div class="template_group_{{ result['template']|replace('.html', '') }}">{%- endif -%}
+        {%- set index = loop.index -%}
+        {%- include get_result_template('simple', result['template']) -%}
+        {%- if result.close_group and not only_template -%}</div>{%- endif -%}
         </div>
-    {% endfor %}
+    {%- endfor %}
     {% if not results and not answers %}
         {% include 'simple/messages/no_results.html' %}
     {% endif %}
