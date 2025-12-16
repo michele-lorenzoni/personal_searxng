@@ -102,6 +102,49 @@
     <div id="backToTop">
       <a href="#" aria-label="{{ _('Back to top') }}">{{ icon_small('navigate-up') }}</a>
     </div>
+    
+<script>
+console.log('🚀 SCRIPT LOADED!');
+
+window.addEventListener('load', function() {
+  console.log('⏰ Page fully loaded, running highlight script');
+  
+  const highlightUrls = ['openrailwaymap.org'];
+  
+  // Trova TUTTI i div nella pagina
+  const allDivs = document.querySelectorAll('div');
+  console.log('Total divs in page:', allDivs.length);
+  
+  // Trova specificamente #urls
+  const urlsContainer = document.getElementById('urls');
+  console.log('Found #urls container:', urlsContainer ? 'YES' : 'NO');
+  
+  if (urlsContainer) {
+    const children = urlsContainer.children;
+    console.log('#urls has', children.length, 'children');
+    
+    Array.from(children).forEach(function(child, index) {
+      console.log('Child', index, ':', child.tagName, child.className);
+      
+      const links = child.querySelectorAll('a[href]');
+      console.log('  Links found:', links.length);
+      
+      Array.from(links).forEach(function(link) {
+        const url = link.href;
+        console.log('    URL:', url);
+        
+        if (url.indexOf('openrailwaymap.org') !== -1) {
+          console.log('    ✅ MATCH! Applying styles...');
+          child.style.backgroundColor = 'yellow';
+          child.style.border = '5px solid red';
+          child.style.padding = '20px';
+        }
+      });
+    });
+  }
+});
+</script>
+
     {% if paging %}
     <nav id="pagination" role="navigation">
         {% if pageno > 1 %}
