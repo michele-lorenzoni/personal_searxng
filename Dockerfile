@@ -3,7 +3,7 @@ FROM searxng/searxng:latest
 # Build timestamp: 2025-12-15-23-30
 COPY settings.yml /etc/searxng/settings.yml
 COPY templates/simple/results.html /usr/local/searxng/searx/templates/simple/results.html
-COPY static/themes/simple/custom.css /usr/local/searxng/searx/static/themes/simple/custom.css
+COPY templates/static/themes/simple/custom.css /usr/local/searxng/searx/static/themes/simple/custom.css
 
 USER root
 
