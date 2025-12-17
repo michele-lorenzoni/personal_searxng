@@ -117,9 +117,13 @@ valkey:
   url: false
 
 ui:
-  # Custom static path - leave it blank if you didn't change
   highlight_urls:
-    - "https://www.openrailwaymap.org/"
+    - "openrailwaymap.org"
+  unwanted_urls:
+    - "claude.ai"
+  favorite_urls:
+    - "github.com"
+    - "stackoverflow.com"
     
   static_path: ""
   # Custom templates path - leave it blank if you didn't change
