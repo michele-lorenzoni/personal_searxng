@@ -119,8 +119,9 @@ valkey:
 ui:
   highlight_urls:
     - "openrailwaymap.org"
-  unwanted_urls:
     - "claude.ai"
+  unwanted_urls:
+    - "railway.com"
   favorite_urls:
     - "github.com"
     - "stackoverflow.com"
