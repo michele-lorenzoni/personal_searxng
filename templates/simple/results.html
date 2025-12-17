@@ -19,8 +19,18 @@
 {% endif %}
 
 {% set highlight_urls = [] %}
-{% if 'ui' in config and 'highlight_urls' in config.ui %}
-  {% set highlight_urls = config.ui.highlight_urls %}
+{% set unwanted_urls = [] %}
+{% set favorite_urls = [] %}
+{% if 'ui' in config %}
+  {% if 'highlight_urls' in config.ui %}
+    {% set highlight_urls = config.ui.highlight_urls %}
+  {% endif %}
+  {% if 'unwanted_urls' in config.ui %}
+    {% set unwanted_urls = config.ui.unwanted_urls %}
+  {% endif %}
+  {% if 'favorite_urls' in config.ui %}
+    {% set favorite_urls = config.ui.favorite_urls %}
+  {% endif %}
 {% endif %}
 
 <div id="results" class="{{ only_template }}">
