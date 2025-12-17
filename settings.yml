@@ -263,6 +263,7 @@ hostnames:
 #     '(.*\.)?redd\.it$': 'teddit.example.com'
 #     '(www\.)?twitter\.com$': 'nitter.example.com'
   remove:
+    - '(.*\.)?online-ide.com$'
     - '(.*\.)?emeditor.com$'
     - '(.*\.)?ciaocomo.it$'
     - '(.*\.)?ciaokombucha.com$'
