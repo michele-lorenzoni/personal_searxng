@@ -118,7 +118,6 @@ valkey:
 
 ui:
   highlight_urls:
-    - "openrailwaymap.org"
     - "claude.ai"
   unwanted_urls:
     - "railway.com"
