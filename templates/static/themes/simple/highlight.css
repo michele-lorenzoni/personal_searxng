@@ -24,6 +24,11 @@
   outline: none !important;
 }
 
+/* Rimuovi bordi arrotondati dai risultati in evidenza */
+#sidebar .infobox {
+  border-radius: 0 !important;
+}
+
 /* Tablet (max 800px) */
 @media screen and (max-width: 800px) {
   #urls > div.highlight-url {
