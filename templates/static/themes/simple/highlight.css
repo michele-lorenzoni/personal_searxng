@@ -44,6 +44,10 @@ footer {
   visibility: hidden;
 }
 
+.dialog-error-block {
+	border-radius: 0 !important;
+}
+
 /* Tablet (max 800px) */
 @media screen and (max-width: 800px) {
   #urls > div.highlight-url {
