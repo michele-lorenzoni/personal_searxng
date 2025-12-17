@@ -1,4 +1,4 @@
-/* Stili per URL evidenziati - Desktop */
+/* URL evidenziati (già visitati) - Arancione */
 #urls > div.highlight-url {
   border-left: 4px solid #ff6b35 !important;
   background: rgba(255, 107, 53, 0.1) !important;
@@ -10,7 +10,6 @@
   border-bottom: none !important;
 }
 
-/* Rimuovi background e bordi dagli elementi interni */
 #urls > div.highlight-url .result,
 #urls > div.highlight-url article {
   background: transparent !important;
@@ -18,39 +17,64 @@
   border: none !important;
 }
 
-/* Rimuovi sottolineatura link */
 #urls > div.highlight-url a {
   text-decoration: none !important;
   outline: none !important;
 }
 
-/* Rimuovi bordi arrotondati dall'input di ricerca nella home */
-#q {
-  border-radius: 0 !important;
+/* URL indesiderati - Rosso */
+#urls > div.unwanted-url {
+  border-left: 4px solid #dc3545 !important;
+  background: rgba(220, 53, 69, 0.1) !important;
+  padding-left: 12px !important;
+  margin: 8px 0 !important;
+  margin-left: -4px !important;
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
 }
 
-/* Rimuovi bordi arrotondati dal bottone di ricerca nella home */
-#send_search {
-  border-radius: 0 !important;
+#urls > div.unwanted-url .result,
+#urls > div.unwanted-url article {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
 }
 
-/* Rimuovi bordi arrotondati dai risultati in evidenza */
-#sidebar .infobox {
-  border-radius: 0 !important;
+#urls > div.unwanted-url a {
+  text-decoration: none !important;
+  outline: none !important;
 }
 
-/* Rimuovi footer */
-footer {
-  visibility: hidden;
+/* URL preferiti - Verde */
+#urls > div.favorite-url {
+  border-left: 4px solid #28a745 !important;
+  background: rgba(40, 167, 69, 0.1) !important;
+  padding-left: 12px !important;
+  margin: 8px 0 !important;
+  margin-left: -4px !important;
+  border-top: none !important;
+  border-right: none !important;
+  border-bottom: none !important;
 }
 
-.dialog-error-block {
-	border-radius: 0 !important;
+#urls > div.favorite-url .result,
+#urls > div.favorite-url article {
+  background: transparent !important;
+  background-color: transparent !important;
+  border: none !important;
+}
+
+#urls > div.favorite-url a {
+  text-decoration: none !important;
+  outline: none !important;
 }
 
 /* Tablet (max 800px) */
 @media screen and (max-width: 800px) {
-  #urls > div.highlight-url {
+  #urls > div.highlight-url,
+  #urls > div.unwanted-url,
+  #urls > div.favorite-url {
     border-left-width: 3px !important;
     padding-left: 10px !important;
     margin: 6px 0 !important;
@@ -60,7 +84,9 @@ footer {
 
 /* Mobile (max 480px) */
 @media screen and (max-width: 480px) {
-  #urls > div.highlight-url {
+  #urls > div.highlight-url,
+  #urls > div.unwanted-url,
+  #urls > div.favorite-url {
     border-left-width: 2px !important;
     padding-left: 8px !important;
     margin: 4px 0 !important;
@@ -70,7 +96,9 @@ footer {
 
 /* Mobile piccolo (max 360px) */
 @media screen and (max-width: 360px) {
-  #urls > div.highlight-url {
+  #urls > div.highlight-url,
+  #urls > div.unwanted-url,
+  #urls > div.favorite-url {
     padding-left: 6px !important;
     margin: 3px 0 !important;
   }
