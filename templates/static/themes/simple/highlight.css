@@ -1,7 +1,7 @@
 /* URL evidenziati (già visitati) - Arancione */
 #urls div.highlight-url {
-  border-left: 4px solid #ff6b35 !important;
-  background: rgba(255, 107, 53, 0.1) !important;
+  border-left: 4px solid #FFD600 !important;
+  background: rgba(255, 214, 0, 0.1) !important;
   padding-left: 12px !important;
   margin: 8px 0 !important;
   margin-left: -4px !important;
@@ -24,8 +24,8 @@
 
 /* URL indesiderati - Rosso */
 #urls div.unwanted-url {
-  border-left: 4px solid #dc3545 !important;
-  background: rgba(220, 53, 69, 0.1) !important;
+  border-left: 4px solid #DD2C00 !important;
+  background: rgba(221, 44, 0, 0.1) !important;
   padding-left: 12px !important;
   margin: 8px 0 !important;
   margin-left: -4px !important;
@@ -48,8 +48,8 @@
 
 /* URL preferiti - Verde */
 #urls div.favorite-url {
-  border-left: 4px solid #28a745 !important;
-  background: rgba(40, 167, 69, 0.1) !important;
+  border-left: 4px solid #00C853 !important;
+  background: rgba(0, 200, 83, 0.1) !important;
   padding-left: 12px !important;
   margin: 8px 0 !important;
   margin-left: -4px !important;
