@@ -81,22 +81,22 @@
     
 <script>
 window.addEventListener('load', function() {
-  // 🟠 ARANCIONE - URL già visitati (AGGIUNGI I TUOI URL QUI)
+  // 🟠 ARANCIONE - URL ESATTI già visitati (AGGIUNGI GLI URL COMPLETI QUI)
   const highlightUrls = [
-    'openrailwaymap.org',
-    'claude.ai'
+    'https://www.openrailwaymap.org/',
+    'https://claude.ai/chat'
   ];
   
-  // 🔴 ROSSO - URL indesiderati (AGGIUNGI I TUOI URL QUI)
+  // 🔴 ROSSO - URL ESATTI indesiderati (AGGIUNGI GLI URL COMPLETI QUI)
   const unwantedUrls = [
-    'reddit.com',
-    'pinterest.com'
+    'https://www.reddit.com/r/something',
+    'https://www.pinterest.com/pin/12345'
   ];
   
-  // 🟢 VERDE - URL preferiti (AGGIUNGI I TUOI URL QUI)
+  // 🟢 VERDE - URL ESATTI preferiti (AGGIUNGI GLI URL COMPLETI QUI)
   const favoriteUrls = [
-    'https://github.com/',
-    'stackoverflow.com'
+    'https://github.com/user/repo',
+    'https://stackoverflow.com/questions/12345'
   ];
   
   const urlsContainer = document.getElementById('urls');
@@ -112,27 +112,27 @@ window.addEventListener('load', function() {
         if (matched) return;
         const url = link.href;
         
-        // Check UNWANTED (rosso - priorità più alta)
+        // Check UNWANTED (rosso - match esatto)
         unwantedUrls.forEach(function(unwantedUrl) {
-          if (url.indexOf(unwantedUrl) !== -1) {
+          if (url === unwantedUrl) {
             child.classList.add('unwanted-url');
             matched = true;
           }
         });
         if (matched) return;
         
-        // Check FAVORITE (verde)
+        // Check FAVORITE (verde - match esatto)
         favoriteUrls.forEach(function(favoriteUrl) {
-          if (url.indexOf(favoriteUrl) !== -1) {
+          if (url === favoriteUrl) {
             child.classList.add('favorite-url');
             matched = true;
           }
         });
         if (matched) return;
         
-        // Check HIGHLIGHT (arancione)
+        // Check HIGHLIGHT (arancione - match esatto)
         highlightUrls.forEach(function(highlightUrl) {
-          if (url.indexOf(highlightUrl) !== -1) {
+          if (url === highlightUrl) {
             child.classList.add('highlight-url');
             matched = true;
           }
