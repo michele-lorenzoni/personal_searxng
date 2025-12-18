@@ -81,7 +81,7 @@
     
 <script>
 window.addEventListener('load', function() {
-  // 🟠 ARANCIONE - URL ESATTI già visitati (AGGIUNGI GLI URL COMPLETI QUI)
+  // 🟠 ARANCIONE - URL ESATTI già visitati
   const highlightUrls = [
     'https://claude.com/resources/use-cases',
     'https://aws.amazon.com/it/bedrock/anthropic/',
@@ -90,12 +90,12 @@ window.addEventListener('load', function() {
     'https://www.anthropic.com/news/claude-haiku-4-5'
   ];
   
-  // 🔴 ROSSO - URL ESATTI indesiderati (AGGIUNGI GLI URL COMPLETI QUI)
+  // 🔴 ROSSO - URL ESATTI indesiderati
   const unwantedUrls = [
     'https://www.openrailwaymap.org/'
   ];
   
-  // 🟢 VERDE - URL ESATTI preferiti (AGGIUNGI GLI URL COMPLETI QUI)
+  // 🟢 VERDE - URL ESATTI preferiti
   const favoriteUrls = [
     'https://www.anthropic.com/',
     'https://github.com/',
@@ -109,38 +109,43 @@ window.addEventListener('load', function() {
   const urlsContainer = document.getElementById('urls');
   
   if (urlsContainer) {
-    const children = urlsContainer.children;
+    // Trova tutti gli article (ogni article è un risultato)
+    const articles = urlsContainer.querySelectorAll('article');
     
-    Array.from(children).forEach(function(child) {
-      const links = child.querySelectorAll('a[href]');
+    articles.forEach(function(article) {
+      // Trova il div parent dell'article
+      const resultDiv = article.closest('#urls > div');
+      if (!resultDiv) return;
+      
+      const links = article.querySelectorAll('a[href]');
       let matched = false;
       
       Array.from(links).forEach(function(link) {
         if (matched) return;
         const url = link.href;
         
-        // Check UNWANTED (rosso - match esatto)
+        // Check UNWANTED (rosso)
         unwantedUrls.forEach(function(unwantedUrl) {
           if (url === unwantedUrl) {
-            child.classList.add('unwanted-url');
+            resultDiv.classList.add('unwanted-url');
             matched = true;
           }
         });
         if (matched) return;
         
-        // Check FAVORITE (verde - match esatto)
+        // Check FAVORITE (verde)
         favoriteUrls.forEach(function(favoriteUrl) {
           if (url === favoriteUrl) {
-            child.classList.add('favorite-url');
+            resultDiv.classList.add('favorite-url');
             matched = true;
           }
         });
         if (matched) return;
         
-        // Check HIGHLIGHT (arancione - match esatto)
+        // Check HIGHLIGHT (arancione)
         highlightUrls.forEach(function(highlightUrl) {
           if (url === highlightUrl) {
-            child.classList.add('highlight-url');
+            resultDiv.classList.add('highlight-url');
             matched = true;
           }
         });
