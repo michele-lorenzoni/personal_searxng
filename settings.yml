@@ -111,7 +111,7 @@ server:
     Referrer-Policy: no-referrer
 
 ui:
-  default_locale: it
+  default_locale: en
 
 valkey:
   # URL to connect valkey database. Is overwritten by ${SEARXNG_VALKEY_URL}.
