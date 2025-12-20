@@ -308,6 +308,7 @@ hostnames:
     - '(.*\.)?fashiontrendsetter.com$'
     - '(.*\.)?gettyimages.it$'
     - '(.*\.)?illustrae.co$'
+    - '(.*\.)?ford-trucks.com$'
     - '(.*\.)?farrow-ball.com$'
     - '(.*\.)?culturahistorica.org$'
     - '(.*\.)?freeillustrations.xyz$'
