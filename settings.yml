@@ -310,6 +310,7 @@ hostnames:
     - '(.*\.)?culturahistorica.org$'
     - '(.*\.)?freeillustrations.xyz$'
     - '(.*\.)?promeai.pro$'
+    - '(.*\.)?colourlovers.com$'
     - '(.*\.)?1000logos.net$'
     - '(.*\.)?tiledesk.com$'
     - '(.*\.)?albertovalerio.com$'
