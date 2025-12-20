@@ -281,6 +281,7 @@ hostnames:
     - '(.*\.)?freellustrations.com$'
     - '(.*\.)?clipsafari.com$'
     - '(.*\.)?illustration.so$'
+    - '(.*\.)?color-meanings.com$'
     - '(.*\.)?gettyimages.it$'
     - '(.*\.)?illustrae.co$'
     - '(.*\.)?culturahistorica.org$'
