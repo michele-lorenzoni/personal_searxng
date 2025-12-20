@@ -274,6 +274,7 @@ hostnames:
     - '(.*\.)?ettavee.com$'
     - '(.*\.)?houzz.com$'
     - '(.*\.)?blog.chickabug.com$'
+    - '(.*\.)?forums.warframe.com$'
     - '(.*\.)?zanvis.com$'
     - '(.*\.)?oasisneonsigns.co.uk$'
     - '(.*\.)?colorxs.com$'
