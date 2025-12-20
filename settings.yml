@@ -305,6 +305,7 @@ hostnames:
     - '(.*\.)?fashiontrendsetter.com$'
     - '(.*\.)?gettyimages.it$'
     - '(.*\.)?illustrae.co$'
+    - '(.*\.)?farrow-ball.com$'
     - '(.*\.)?culturahistorica.org$'
     - '(.*\.)?freeillustrations.xyz$'
     - '(.*\.)?promeai.pro$'
