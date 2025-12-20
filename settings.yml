@@ -303,6 +303,7 @@ hostnames:
     - '(.*\.)?illustrae.co$'
     - '(.*\.)?culturahistorica.org$'
     - '(.*\.)?freeillustrations.xyz$'
+    - '(.*\.)?promeai.pro$'
     - '(.*\.)?1000logos.net$'
     - '(.*\.)?tiledesk.com$'
     - '(.*\.)?albertovalerio.com$'
