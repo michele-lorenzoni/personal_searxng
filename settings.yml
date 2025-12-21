@@ -288,6 +288,7 @@ hostnames:
     - '(.*\.)?broncosports.com$'
     - '(.*\.)?clairejefford.com$'
     - '(.*\.)?gilisoft.com$'
+    - '(.*\.)?imagecolorpicker.com$'
     - '(.*\.)?artisttilldeath.com$'
     - '(.*\.)?pincel.app$'
     - '(.*\.)?anthropics.com$'
