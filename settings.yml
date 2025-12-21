@@ -309,6 +309,7 @@ hostnames:
     - '(.*\.)?pixelcut.ai$'
     - '(.*\.)?ritdye.com$'
     - '(.*\.)?clipdrop.co$'
+    - '(.*\.)?photoscissors.com$'
     - '(.*\.)?pixteller.com$'
     - '(.*\.)?spyne.ai$'
     - '(.*\.)?lightxeditor.com$'
