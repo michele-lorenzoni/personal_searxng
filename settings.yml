@@ -291,6 +291,7 @@ hostnames:
     - '(.*\.)?houzz.com$'
     - '(.*\.)?eterstock.com$'
     - '(.*\.)?blog.chickabug.com$'
+    - '(.*\.)?monicaheilmanart.com$'
     - '(.*\.)?sellercircle.co.uk$'
     - '(.*\.)?thespruce.com$'
     - '(.*\.)?svgomg.net$'
