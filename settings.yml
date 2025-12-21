@@ -331,6 +331,7 @@ hostnames:
     - '(.*\.)?azconversion.com$'
     - '(.*\.)?resizepng.com$'
     - '(.*\.)?thecolorpalettestudio.com$'
+    - '(.*\.)?onlineimageditor.com$'
     - '(.*\.)?svgeditor.com$'
     - '(.*\.)?picwand.ai$'
     - '(.*\.)?jswpaints.in$'
