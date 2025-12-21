@@ -354,6 +354,7 @@ hostnames:
     - '(.*\.)?mediamodifier.com$'
     - '(.*\.)?imagen-ai.com$'
     - '(.*\.)?azconversion.com$'
+    - '(.*\.)?fallontravels.com$'
     - '(.*\.)?resizepng.com$'
     - '(.*\.)?thecolorpalettestudio.com$'
     - '(.*\.)?onlineimageditor.com$'
