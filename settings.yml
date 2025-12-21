@@ -321,6 +321,7 @@ hostnames:
     - '(.*\.)?online.visual-paradigm.com$'
     - '(.*\.)?picwish.com$'
     - '(.*\.)?pixcores.com$'
+    - '(.*\.)?colors.dopely.top$'
     - '(.*\.)?photoeditor.com$'
     - '(.*\.)?bitstudio.ai$'
     - '(.*\.)?svgeditoronline.com$'
