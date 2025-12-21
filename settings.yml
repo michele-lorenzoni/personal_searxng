@@ -332,6 +332,7 @@ hostnames:
     - '(.*\.)?standardwool.uk$'
     - '(.*\.)?colorspire.com$'
     - '(.*\.)?ipiccy.com$'
+    - '(.*\.)?fotojet.com$'
     - '(.*\.)?ilovehue.co$'
     - '(.*\.)?emojiterra.com$'
     - '(.*\.)?shrink.media$'
