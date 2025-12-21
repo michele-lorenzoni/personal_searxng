@@ -319,6 +319,7 @@ hostnames:
     - '(.*\.)?jswpaints.in$'
     - '(.*\.)?standardwool.uk$'
     - '(.*\.)?colorspire.com$'
+    - '(.*\.)?ipiccy.com$'
     - '(.*\.)?ilovehue.co$'
     - '(.*\.)?emojiterra.com$'
     - '(.*\.)?shrink.media$'
