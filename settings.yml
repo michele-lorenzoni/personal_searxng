@@ -338,6 +338,7 @@ hostnames:
     - '(.*\.)?yaytext.com$'
     - '(.*\.)?amazingalgorithms.com$'
     - '(.*\.)?cuttle.xyz$'
+    - '(.*\.)?inpixio.com$'
     - '(.*\.)?moshlife.com$'
     - '(.*\.)?moshplanner.com$'
     - '(.*\.)?anytools.pro$'
