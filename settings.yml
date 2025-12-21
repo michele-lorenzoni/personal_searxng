@@ -291,6 +291,7 @@ hostnames:
     - '(.*\.)?retouchinglabs.com$'
     - '(.*\.)?mockofun.com$'
     - '(.*\.)?snappa.com$'
+    - '(.*\.)?photofunia.com$'
     - '(.*\.)?piktochart.com$'
     - '(.*\.)?aiarty.com$'
     - '(.*\.)?expertclipping.com$'
