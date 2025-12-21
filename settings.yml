@@ -306,6 +306,7 @@ hostnames:
     - '(.*\.)?colors.codes$'
     - '(.*\.)?pixelmator.com$'
     - '(.*\.)?wikihow.tech$'
+    - '(.*\.)?myperfectcolor.com$'
     - '(.*\.)?graphicdesignresource.com$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?imggen.ai$'
