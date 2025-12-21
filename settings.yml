@@ -293,6 +293,7 @@ hostnames:
     - '(.*\.)?imageresizer.uk$'
     - '(.*\.)?photoleapapp.com$'
     - '(.*\.)?icedit.net$'
+    - '(.*\.)?imageworkindia.com$'
     - '(.*\.)?goinnobuds.com$'
     - '(.*\.)?online.visual-paradigm.com$'
     - '(.*\.)?picwish.com$'
