@@ -313,6 +313,7 @@ hostnames:
     - '(.*\.)?venngage.com$'
     - '(.*\.)?svg-editor.com$'
     - '(.*\.)?lushome.com$'
+    - '(.*\.)?anytools.pro$'
     - '(.*\.)?eesforjobs.com$'
     - '(.*\.)?classpop.com$'
     - '(.*\.)?akulakreative.com$'
