@@ -306,6 +306,7 @@ hostnames:
     - '(.*\.)?artincontext.org$'
     - '(.*\.)?brittanyavenue.com$'
     - '(.*\.)?venngage.com$'
+    - '(.*\.)?svg-editor.com$'
     - '(.*\.)?lushome.com$'
     - '(.*\.)?eesforjobs.com$'
     - '(.*\.)?classpop.com$'
