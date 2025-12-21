@@ -302,6 +302,7 @@ hostnames:
     - '(.*\.)?bhg.com$'
     - '(.*\.)?codewithmosh.com$'
     - '(.*\.)?resizehood.com$'
+    - '(.*\.)?fastcompany.com$'
     - '(.*\.)?oakcitycoatings.com$'
     - '(.*\.)?designworklife.com$'
     - '(.*\.)?customneon.co.uk$'
