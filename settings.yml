@@ -301,6 +301,7 @@ hostnames:
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?imageresizer.work$'
     - '(.*\.)?insmind.com$'
+    - '(.*\.)?flexclip.com$'
     - '(.*\.)?muncievoice.com$'
     - '(.*\.)?picnik.com$'
     - '(.*\.)?pixelcut.ai$'
