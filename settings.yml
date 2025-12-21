@@ -293,6 +293,7 @@ hostnames:
     - '(.*\.)?pixteller.com$'
     - '(.*\.)?flatfee.io$'
     - '(.*\.)?thedandyliar.com$'
+    - '(.*\.)?phot.ai$'
     - '(.*\.)?podbase.com$'
     - '(.*\.)?orangetitles.com$'
     - '(.*\.)?houzz.com$'
