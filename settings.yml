@@ -282,6 +282,7 @@ hostnames:
     - '(.*\.)?photoleapapp.com$'
     - '(.*\.)?icedit.net$'
     - '(.*\.)?picwish.com$'
+    - '(.*\.)?photoeditor.com$'
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?imageresizer.work$'
     - '(.*\.)?muncievoice.com$'
