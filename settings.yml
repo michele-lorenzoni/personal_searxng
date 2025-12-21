@@ -281,6 +281,7 @@ hostnames:
     - '(.*\.)?pincel.app$'
     - '(.*\.)?anthropics.com$'
     - '(.*\.)?colors.codes$'
+    - '(.*\.)?pixelmator.com$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?imageresizer.uk$'
     - '(.*\.)?photoleapapp.com$'
