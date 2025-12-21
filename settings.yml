@@ -351,6 +351,7 @@ hostnames:
     - '(.*\.)?color-meanings.com$'
     - '(.*\.)?fashiontrendsetter.com$'
     - '(.*\.)?gettyimages.it$'
+    - '(.*\.)?creazilla.com$'
     - '(.*\.)?illustrae.co$'
     - '(.*\.)?ford-trucks.com$'
     - '(.*\.)?farrow-ball.com$'
