@@ -273,6 +273,7 @@ hostnames:
     - '(.*\.)?24gen.ai$'
     - '(.*\.)?emojidb.org$'
     - '(.*\.)?flyingmeat.com$'
+    - '(.*\.)?editpictureonline.com$'
     - '(.*\.)?hypic.app$'
     - '(.*\.)?facetuneapp.com$'
     - '(.*\.)?evoto.ai$'
