@@ -290,6 +290,7 @@ hostnames:
     - '(.*\.)?houzz.com$'
     - '(.*\.)?eterstock.com$'
     - '(.*\.)?blog.chickabug.com$'
+    - '(.*\.)?sellercircle.co.uk$'
     - '(.*\.)?thespruce.com$'
     - '(.*\.)?svgomg.net$'
     - '(.*\.)?editsvgcode.com$'
