@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?forums.warframe.com$'
     - '(.*\.)?zanvis.com$'
     - '(.*\.)?oasisneonsigns.co.uk$'
+    - '(.*\.)?editsvg.online$'
     - '(.*\.)?colorxs.com$'
     - '(.*\.)?bhg.com$'
     - '(.*\.)?codewithmosh.com$'
