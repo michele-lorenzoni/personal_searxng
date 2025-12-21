@@ -297,6 +297,7 @@ hostnames:
     - '(.*\.)?imageworkindia.com$'
     - '(.*\.)?clippingphotoexperts.com$'
     - '(.*\.)?goinnobuds.com$'
+    - '(.*\.)?aiease.ai$'
     - '(.*\.)?online.visual-paradigm.com$'
     - '(.*\.)?picwish.com$'
     - '(.*\.)?photoeditor.com$'
