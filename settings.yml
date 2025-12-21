@@ -309,6 +309,7 @@ hostnames:
     - '(.*\.)?imggen.ai$'
     - '(.*\.)?pixoate.com$'
     - '(.*\.)?imageresizer.uk$'
+    - '(.*\.)?colormemine.com$'
     - '(.*\.)?photoleapapp.com$'
     - '(.*\.)?myedit.online$'
     - '(.*\.)?icedit.net$'
