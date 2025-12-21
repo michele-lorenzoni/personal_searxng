@@ -278,6 +278,7 @@ hostnames:
     - '(.*\.)?colors.codes$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?imageresizer.uk$'
+    - '(.*\.)?photoleapapp.com$'
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?imageresizer.work$'
     - '(.*\.)?muncievoice.com$'
