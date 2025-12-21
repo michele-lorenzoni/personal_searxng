@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?onlinepngtools.com$'
     - '(.*\.)?colors.codes$'
     - '(.*\.)?pixelmator.com$'
+    - '(.*\.)?wikihow.tech$'
     - '(.*\.)?graphicdesignresource.com$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?imggen.ai$'
