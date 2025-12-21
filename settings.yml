@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?photofunia.com$'
     - '(.*\.)?colorwowhair.com$'
     - '(.*\.)?piktochart.com$'
+    - '(.*\.)?lacolors.com$'
     - '(.*\.)?aiarty.com$'
     - '(.*\.)?expertclipping.com$'
     - '(.*\.)?onlinepngtools.com$'
