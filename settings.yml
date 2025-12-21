@@ -325,6 +325,7 @@ hostnames:
     - '(.*\.)?resizepanda.com$'
     - '(.*\.)?svgvisualize.com$'
     - '(.*\.)?kettlewellcolours.co.uk$'
+    - '(.*\.)?batchtools.pro$'
     - '(.*\.)?freellustrations.com$'
     - '(.*\.)?clipsafari.com$'
     - '(.*\.)?carlaaston.com$'
