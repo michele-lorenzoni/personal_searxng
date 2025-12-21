@@ -331,6 +331,7 @@ hostnames:
     - '(.*\.)?brittanyavenue.com$'
     - '(.*\.)?venngage.com$'
     - '(.*\.)?svg-editor.com$'
+    - '(.*\.)?yce.perfectcorp.com$'
     - '(.*\.)?lushome.com$'
     - '(.*\.)?yaytext.com$'
     - '(.*\.)?amazingalgorithms.com$'
