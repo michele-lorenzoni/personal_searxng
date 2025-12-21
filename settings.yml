@@ -293,6 +293,7 @@ hostnames:
     - '(.*\.)?anthropics.com$'
     - '(.*\.)?adeptclippingpath.com$'
     - '(.*\.)?retouchinglabs.com$'
+    - '(.*\.)?colorline.com$'
     - '(.*\.)?mockofun.com$'
     - '(.*\.)?snappa.com$'
     - '(.*\.)?photofunia.com$'
