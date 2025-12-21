@@ -344,6 +344,7 @@ hostnames:
     - '(.*\.)?venngage.com$'
     - '(.*\.)?svg-editor.com$'
     - '(.*\.)?yce.perfectcorp.com$'
+    - '(.*\.)?wps.com$'
     - '(.*\.)?lushome.com$'
     - '(.*\.)?yaytext.com$'
     - '(.*\.)?aiimageeditor.ai$'
