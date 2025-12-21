@@ -314,6 +314,7 @@ hostnames:
     - '(.*\.)?oakcitycoatings.com$'
     - '(.*\.)?designworklife.com$'
     - '(.*\.)?emojipedia.org$'
+    - '(.*\.)?dzine.ai$'
     - '(.*\.)?customneon.co.uk$'
     - '(.*\.)?customneon.com$'
     - '(.*\.)?mediamodifier.com$'
