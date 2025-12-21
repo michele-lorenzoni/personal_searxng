@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?photoleapapp.com$'
     - '(.*\.)?icedit.net$'
     - '(.*\.)?imageworkindia.com$'
+    - '(.*\.)?clippingphotoexperts.com$'
     - '(.*\.)?goinnobuds.com$'
     - '(.*\.)?online.visual-paradigm.com$'
     - '(.*\.)?picwish.com$'
