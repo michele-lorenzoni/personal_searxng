@@ -327,6 +327,7 @@ hostnames:
     - '(.*\.)?emojiterra.com$'
     - '(.*\.)?shrink.media$'
     - '(.*\.)?schemecolor.com$'
+    - '(.*\.)?photokit.com$'
     - '(.*\.)?mindgems.com$'
     - '(.*\.)?artincontext.org$'
     - '(.*\.)?brittanyavenue.com$'
