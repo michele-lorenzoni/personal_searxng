@@ -276,6 +276,7 @@ hostnames:
     - '(.*\.)?artisttilldeath.com$'
     - '(.*\.)?colors.codes$'
     - '(.*\.)?digitalcolorwheel.com$'
+    - '(.*\.)?imageresizer.uk$'
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?imageresizer.work$'
     - '(.*\.)?muncievoice.com$'
