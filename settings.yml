@@ -299,6 +299,7 @@ hostnames:
     - '(.*\.)?svgomg.net$'
     - '(.*\.)?editsvgcode.com$'
     - '(.*\.)?forums.warframe.com$'
+    - '(.*\.)?photopos.com$'
     - '(.*\.)?zanvis.com$'
     - '(.*\.)?oasisneonsigns.co.uk$'
     - '(.*\.)?editsvg.online$'
