@@ -277,6 +277,7 @@ hostnames:
     - '(.*\.)?clairejefford.com$'
     - '(.*\.)?artisttilldeath.com$'
     - '(.*\.)?pincel.app$'
+    - '(.*\.)?anthropics.com$'
     - '(.*\.)?colors.codes$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?imageresizer.uk$'
