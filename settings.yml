@@ -318,6 +318,7 @@ hostnames:
     - '(.*\.)?blog.chickabug.com$'
     - '(.*\.)?lightroom.adobe.com$'
     - '(.*\.)?aienhancer.ai$'
+    - '(.*\.)?photoaid.com$'
     - '(.*\.)?monicaheilmanart.com$'
     - '(.*\.)?sellercircle.co.uk$'
     - '(.*\.)?picsvg.com$'
