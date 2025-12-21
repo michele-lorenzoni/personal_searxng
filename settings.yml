@@ -321,6 +321,7 @@ hostnames:
     - '(.*\.)?thebrief.ai$'
     - '(.*\.)?edit.svgomg.net$'
     - '(.*\.)?colorany.com$'
+    - '(.*\.)?resizepanda.com$'
     - '(.*\.)?svgvisualize.com$'
     - '(.*\.)?kettlewellcolours.co.uk$'
     - '(.*\.)?freellustrations.com$'
