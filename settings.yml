@@ -282,6 +282,7 @@ hostnames:
     - '(.*\.)?hypic.app$'
     - '(.*\.)?facetuneapp.com$'
     - '(.*\.)?evoto.ai$'
+    - '(.*\.)?svgcolor.com$'
     - '(.*\.)?colorfactory.co$'
     - '(.*\.)?colorwise.me$'
     - '(.*\.)?annporter.wordpress.com$'
