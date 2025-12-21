@@ -309,6 +309,7 @@ hostnames:
     - '(.*\.)?photoeditor.com$'
     - '(.*\.)?bitstudio.ai$'
     - '(.*\.)?svgeditoronline.com$'
+    - '(.*\.)?clippingoutsourcing.com$'
     - '(.*\.)?imageresizer.work$'
     - '(.*\.)?insmind.com$'
     - '(.*\.)?flexclip.com$'
