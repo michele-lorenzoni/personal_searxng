@@ -292,6 +292,7 @@ hostnames:
     - '(.*\.)?bitstudio.ai$'
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?imageresizer.work$'
+    - '(.*\.)?insmind.com$'
     - '(.*\.)?muncievoice.com$'
     - '(.*\.)?picnik.com$'
     - '(.*\.)?pixelcut.ai$'
