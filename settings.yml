@@ -287,6 +287,7 @@ hostnames:
     - '(.*\.)?anthropics.com$'
     - '(.*\.)?retouchinglabs.com$'
     - '(.*\.)?snappa.com$'
+    - '(.*\.)?aiarty.com$'
     - '(.*\.)?onlinepngtools.com$'
     - '(.*\.)?colors.codes$'
     - '(.*\.)?pixelmator.com$'
