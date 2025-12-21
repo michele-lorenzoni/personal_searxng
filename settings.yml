@@ -313,6 +313,7 @@ hostnames:
     - '(.*\.)?aiease.ai$'
     - '(.*\.)?online.visual-paradigm.com$'
     - '(.*\.)?picwish.com$'
+    - '(.*\.)?pixcores.com$'
     - '(.*\.)?photoeditor.com$'
     - '(.*\.)?bitstudio.ai$'
     - '(.*\.)?svgeditoronline.com$'
