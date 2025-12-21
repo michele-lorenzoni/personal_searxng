@@ -306,6 +306,7 @@ hostnames:
     - '(.*\.)?ritdye.com$'
     - '(.*\.)?clipdrop.co$'
     - '(.*\.)?pixteller.com$'
+    - '(.*\.)?lightxeditor.com$'
     - '(.*\.)?pokecut.com$'
     - '(.*\.)?flatfee.io$'
     - '(.*\.)?thedandyliar.com$'
