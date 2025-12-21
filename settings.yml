@@ -272,6 +272,7 @@ hostnames:
   remove:
     - '(.*\.)?hubdigitalcontent.com$'
     - '(.*\.)?24gen.ai$'
+    - '(.*\.)?the-image-editor.com$'
     - '(.*\.)?emojidb.org$'
     - '(.*\.)?metaclippingpath.com$'
     - '(.*\.)?flyingmeat.com$'
