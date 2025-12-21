@@ -277,6 +277,7 @@ hostnames:
     - '(.*\.)?colors.codes$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?svgeditoronline.com$'
+    - '(.*\.)?imageresizer.work$'
     - '(.*\.)?muncievoice.com$'
     - '(.*\.)?ritdye.com$'
     - '(.*\.)?flatfee.io$'
