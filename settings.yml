@@ -302,6 +302,7 @@ hostnames:
     - '(.*\.)?pixoate.com$'
     - '(.*\.)?imageresizer.uk$'
     - '(.*\.)?photoleapapp.com$'
+    - '(.*\.)?myedit.online$'
     - '(.*\.)?icedit.net$'
     - '(.*\.)?imageworkindia.com$'
     - '(.*\.)?clippingphotoexperts.com$'
