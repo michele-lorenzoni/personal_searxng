@@ -316,6 +316,7 @@ hostnames:
     - '(.*\.)?drawsvg.org$'
     - '(.*\.)?edit.svgomg.net$'
     - '(.*\.)?colorany.com$'
+    - '(.*\.)?svgvisualize.com$'
     - '(.*\.)?kettlewellcolours.co.uk$'
     - '(.*\.)?freellustrations.com$'
     - '(.*\.)?clipsafari.com$'
