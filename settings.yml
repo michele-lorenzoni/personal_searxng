@@ -308,6 +308,7 @@ hostnames:
     - '(.*\.)?flexclip.com$'
     - '(.*\.)?muncievoice.com$'
     - '(.*\.)?picnik.com$'
+    - '(.*\.)?touchupimage.com$'
     - '(.*\.)?pixelcut.ai$'
     - '(.*\.)?ritdye.com$'
     - '(.*\.)?clipdrop.co$'
