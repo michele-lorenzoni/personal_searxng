@@ -276,6 +276,7 @@ hostnames:
     - '(.*\.)?artisttilldeath.com$'
     - '(.*\.)?colors.codes$'
     - '(.*\.)?digitalcolorwheel.com$'
+    - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?muncievoice.com$'
     - '(.*\.)?ritdye.com$'
     - '(.*\.)?flatfee.io$'
