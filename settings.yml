@@ -306,6 +306,7 @@ hostnames:
     - '(.*\.)?fastcompany.com$'
     - '(.*\.)?oakcitycoatings.com$'
     - '(.*\.)?designworklife.com$'
+    - '(.*\.)?emojipedia.org$'
     - '(.*\.)?customneon.co.uk$'
     - '(.*\.)?customneon.com$'
     - '(.*\.)?mediamodifier.com$'
