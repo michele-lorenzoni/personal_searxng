@@ -324,6 +324,7 @@ hostnames:
     - '(.*\.)?lushome.com$'
     - '(.*\.)?amazingalgorithms.com$'
     - '(.*\.)?moshlife.com$'
+    - '(.*\.)?moshplanner.com$'
     - '(.*\.)?anytools.pro$'
     - '(.*\.)?eesforjobs.com$'
     - '(.*\.)?classpop.com$'
