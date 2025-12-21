@@ -314,6 +314,7 @@ hostnames:
     - '(.*\.)?ilovehue.co$'
     - '(.*\.)?shrink.media$'
     - '(.*\.)?schemecolor.com$'
+    - '(.*\.)?mindgems.com$'
     - '(.*\.)?artincontext.org$'
     - '(.*\.)?brittanyavenue.com$'
     - '(.*\.)?venngage.com$'
