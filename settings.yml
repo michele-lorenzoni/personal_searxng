@@ -309,6 +309,7 @@ hostnames:
     - '(.*\.)?photopos.com$'
     - '(.*\.)?zanvis.com$'
     - '(.*\.)?oasisneonsigns.co.uk$'
+    - '(.*\.)?imageinpixel.com$'
     - '(.*\.)?editsvg.online$'
     - '(.*\.)?colorxs.com$'
     - '(.*\.)?bhg.com$'
