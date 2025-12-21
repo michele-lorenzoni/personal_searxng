@@ -305,6 +305,7 @@ hostnames:
     - '(.*\.)?orangetitles.com$'
     - '(.*\.)?houzz.com$'
     - '(.*\.)?ettavee.com$'
+    - '(.*\.)?anymaking.com$'
     - '(.*\.)?houzz.com$'
     - '(.*\.)?visualgpt.io$'
     - '(.*\.)?eterstock.com$'
