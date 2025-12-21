@@ -281,6 +281,7 @@ hostnames:
     - '(.*\.)?imageresizer.uk$'
     - '(.*\.)?photoleapapp.com$'
     - '(.*\.)?icedit.net$'
+    - '(.*\.)?picwish.com$'
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?imageresizer.work$'
     - '(.*\.)?muncievoice.com$'
