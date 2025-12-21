@@ -310,6 +310,7 @@ hostnames:
     - '(.*\.)?standardwool.uk$'
     - '(.*\.)?colorspire.com$'
     - '(.*\.)?ilovehue.co$'
+    - '(.*\.)?shrink.media$'
     - '(.*\.)?schemecolor.com$'
     - '(.*\.)?artincontext.org$'
     - '(.*\.)?brittanyavenue.com$'
