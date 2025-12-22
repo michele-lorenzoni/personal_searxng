@@ -278,6 +278,7 @@ hostnames:
     - '(.*\.)?fontstand.com$'
     - '(.*\.)?legian.nl$'
     - '(.*\.)?24gen.ai$'
+    - '(.*\.)?iconsflow.com$'
     - '(.*\.)?fontchanger.net$'
     - '(.*\.)?mockitt.com$'
     - '(.*\.)?notebookandpenguin.com$'
