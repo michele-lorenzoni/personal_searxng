@@ -312,6 +312,7 @@ hostnames:
     - '(.*\.)?fontdownload.org$'
     - '(.*\.)?pincel.app$'
     - '(.*\.)?fbcd.co$'
+    - '(.*\.)?fontbundles.net$'
     - '(.*\.)?fontbolt.com$'
     - '(.*\.)?ifonts.xyz$'
     - '(.*\.)?iconian.com$'
