@@ -372,6 +372,7 @@ hostnames:
     - '(.*\.)?houzz.com$'
     - '(.*\.)?ettavee.com$'
     - '(.*\.)?anymaking.com$'
+    - '(.*\.)?fontget.com$'
     - '(.*\.)?houzz.com$'
     - '(.*\.)?visualgpt.io$'
     - '(.*\.)?eterstock.com$'
