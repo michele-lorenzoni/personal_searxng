@@ -149,7 +149,3 @@ a.link_on_top_about {
 .center-alignment-no #links_on_top span {
 	display: none !important;
 }
-
-div#search_url {
-	visibility: hidden !important;
-}
