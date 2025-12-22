@@ -309,6 +309,7 @@ hostnames:
     - '(.*\.)?colorsafe.co$'
     - '(.*\.)?dafonthub.com$'
     - '(.*\.)?kiwifonts.com$'
+    - '(.*\.)?usafonts.pro$'
     - '(.*\.)?snappa.com$'
     - '(.*\.)?photofunia.com$'
     - '(.*\.)?colorwowhair.com$'
