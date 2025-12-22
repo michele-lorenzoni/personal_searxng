@@ -290,6 +290,7 @@ hostnames:
     - '(.*\.)?yourcolorguru.com$'
     - '(.*\.)?1000fonts.com$'
     - '(.*\.)?karbonhq.com$'
+    - '(.*\.)?onassar.github.io$'
     - '(.*\.)?flyingmeat.com$'
     - '(.*\.)?editpictureonline.com$'
     - '(.*\.)?leftfootforward.org$'
