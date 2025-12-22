@@ -297,6 +297,7 @@ hostnames:
     - '(.*\.)?clairejefford.com$'
     - '(.*\.)?legian.com$'
     - '(.*\.)?gilisoft.com$'
+    - '(.*\.)?legianbeachbali.com$'
     - '(.*\.)?imagecolorpicker.com$'
     - '(.*\.)?artisttilldeath.com$'
     - '(.*\.)?fontdownload.org$'
