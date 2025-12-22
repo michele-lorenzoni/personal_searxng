@@ -286,6 +286,7 @@ hostnames:
     - '(.*\.)?dafontvn.com$'
     - '(.*\.)?coolfont.org$'
     - '(.*\.)?font-generator.com$'
+    - '(.*\.)?fontgenerator.name$'
     - '(.*\.)?hypic.app$'
     - '(.*\.)?legian.ee$'
     - '(.*\.)?facetuneapp.com$'
