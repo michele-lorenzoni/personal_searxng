@@ -296,6 +296,7 @@ hostnames:
     - '(.*\.)?gilisoft.com$'
     - '(.*\.)?imagecolorpicker.com$'
     - '(.*\.)?artisttilldeath.com$'
+    - '(.*\.)?fontdownload.org$'
     - '(.*\.)?pincel.app$'
     - '(.*\.)?ifonts.xyz$'
     - '(.*\.)?colorabout.com$'
