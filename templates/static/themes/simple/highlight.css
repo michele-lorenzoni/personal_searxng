@@ -145,3 +145,7 @@ input[type=submit], #results button[type=submit], .button {
 a.link_on_top_about {
 	visibility: hidden !important;
 }
+
+.center-alignment-no #links_on_top span {
+	display: none !important;
+}
