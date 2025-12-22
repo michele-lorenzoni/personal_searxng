@@ -321,6 +321,7 @@ hostnames:
     - '(.*\.)?photofunia.com$'
     - '(.*\.)?colorwowhair.com$'
     - '(.*\.)?piktochart.com$'
+    - '(.*\.)?igfonts.io$'
     - '(.*\.)?lacolors.com$'
     - '(.*\.)?aiarty.com$'
     - '(.*\.)?expertclipping.com$'
