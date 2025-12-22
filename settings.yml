@@ -289,6 +289,7 @@ hostnames:
     - '(.*\.)?facetuneapp.com$'
     - '(.*\.)?evoto.ai$'
     - '(.*\.)?svgcolor.com$'
+    - '(.*\.)?lingojam.com$'
     - '(.*\.)?colorfactory.co$'
     - '(.*\.)?colorwise.me$'
     - '(.*\.)?annporter.wordpress.com$'
