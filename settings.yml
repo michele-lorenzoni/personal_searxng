@@ -327,6 +327,7 @@ hostnames:
     - '(.*\.)?colorline.com$'
     - '(.*\.)?mockofun.com$'
     - '(.*\.)?colorsafe.co$'
+    - '(.*\.)?cufonfonts.com$'
     - '(.*\.)?dafonthub.com$'
     - '(.*\.)?kiwifonts.com$'
     - '(.*\.)?usafonts.pro$'
