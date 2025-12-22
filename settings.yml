@@ -301,6 +301,7 @@ hostnames:
     - '(.*\.)?legianbeachbali.com$'
     - '(.*\.)?imagecolorpicker.com$'
     - '(.*\.)?artisttilldeath.com$'
+    - '(.*\.)?fontsonic.com$'
     - '(.*\.)?fontdownload.org$'
     - '(.*\.)?pincel.app$'
     - '(.*\.)?fbcd.co$'
