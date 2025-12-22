@@ -323,6 +323,7 @@ hostnames:
     - '(.*\.)?lacolors.com$'
     - '(.*\.)?aiarty.com$'
     - '(.*\.)?expertclipping.com$'
+    - '(.*\.)?dafontfree.co$'
     - '(.*\.)?onlinepngtools.com$'
     - '(.*\.)?colors.codes$'
     - '(.*\.)?pixelmator.com$'
