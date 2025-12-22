@@ -322,6 +322,7 @@ hostnames:
     - '(.*\.)?wikihow.tech$'
     - '(.*\.)?dafont.vn$'
     - '(.*\.)?myperfectcolor.com$'
+    - '(.*\.)?fontjedi.com$'
     - '(.*\.)?graphicdesignresource.com$'
     - '(.*\.)?digitalcolorwheel.com$'
     - '(.*\.)?imggen.ai$'
