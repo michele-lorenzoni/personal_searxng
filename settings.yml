@@ -341,6 +341,7 @@ hostnames:
     - '(.*\.)?bitstudio.ai$'
     - '(.*\.)?svgeditoronline.com$'
     - '(.*\.)?flatai.org$'
+    - '(.*\.)?whatfontis.com$'
     - '(.*\.)?colormatters.com$'
     - '(.*\.)?clippingoutsourcing.com$'
     - '(.*\.)?imageresizer.work$'
