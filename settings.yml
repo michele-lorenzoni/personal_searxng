@@ -329,6 +329,7 @@ hostnames:
     - '(.*\.)?online.visual-paradigm.com$'
     - '(.*\.)?picwish.com$'
     - '(.*\.)?pixcores.com$'
+    - '(.*\.)?instafonts.io$'
     - '(.*\.)?colors.dopely.top$'
     - '(.*\.)?photoeditor.com$'
     - '(.*\.)?bitstudio.ai$'
