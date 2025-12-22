@@ -290,6 +290,7 @@ hostnames:
     - '(.*\.)?annporter.wordpress.com$'
     - '(.*\.)?pcmag.com$'
     - '(.*\.)?broncosports.com$'
+    - '(.*\.)?dafont.de$'
     - '(.*\.)?clairejefford.com$'
     - '(.*\.)?gilisoft.com$'
     - '(.*\.)?imagecolorpicker.com$'
