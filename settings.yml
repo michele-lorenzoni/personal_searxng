@@ -307,6 +307,7 @@ hostnames:
     - '(.*\.)?pincel.app$'
     - '(.*\.)?fbcd.co$'
     - '(.*\.)?ifonts.xyz$'
+    - '(.*\.)?iconian.com$'
     - '(.*\.)?colorabout.com$'
     - '(.*\.)?anthropics.com$'
     - '(.*\.)?adeptclippingpath.com$'
