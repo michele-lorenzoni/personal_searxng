@@ -298,6 +298,7 @@ hostnames:
     - '(.*\.)?fontgenerator.name$'
     - '(.*\.)?hypic.app$'
     - '(.*\.)?legian.ee$'
+    - '(.*\.)?karbonbikes.com$'
     - '(.*\.)?facetuneapp.com$'
     - '(.*\.)?fontadvice.com$'
     - '(.*\.)?evoto.ai$'
