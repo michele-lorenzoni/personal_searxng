@@ -295,6 +295,7 @@ hostnames:
     - '(.*\.)?leftfootforward.org$'
     - '(.*\.)?dafontvn.com$'
     - '(.*\.)?coolfont.org$'
+    - '(.*\.)?interlacekit.com$'
     - '(.*\.)?font-generator.com$'
     - '(.*\.)?gravit.io$'
     - '(.*\.)?karboncard.com$'
