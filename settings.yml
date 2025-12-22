@@ -272,6 +272,7 @@ hostnames:
   remove:
     - '(.*\.)?hubdigitalcontent.com$'
     - '(.*\.)?educba.com$'
+    - '(.*\.)?legian.nl$'
     - '(.*\.)?24gen.ai$'
     - '(.*\.)?the-image-editor.com$'
     - '(.*\.)?emojidb.org$'
