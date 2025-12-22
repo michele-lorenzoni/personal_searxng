@@ -316,6 +316,7 @@ hostnames:
     - '(.*\.)?artisttilldeath.com$'
     - '(.*\.)?fontsonic.com$'
     - '(.*\.)?afontgenerator.com$'
+    - '(.*\.)?fontsgoogle.com$'
     - '(.*\.)?fontdownload.org$'
     - '(.*\.)?pincel.app$'
     - '(.*\.)?fbcd.co$'
