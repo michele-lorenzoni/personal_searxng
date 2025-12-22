@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?annporter.wordpress.com$'
     - '(.*\.)?movie.linksind.net$'
     - '(.*\.)?pcmag.com$'
+    - '(.*\.)?truefonts.net$'
     - '(.*\.)?fontsempire.com$'
     - '(.*\.)?broncosports.com$'
     - '(.*\.)?dafont.de$'
