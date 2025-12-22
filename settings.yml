@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?hypic.app$'
     - '(.*\.)?legian.ee$'
     - '(.*\.)?facetuneapp.com$'
+    - '(.*\.)?fontadvice.com$'
     - '(.*\.)?evoto.ai$'
     - '(.*\.)?svgcolor.com$'
     - '(.*\.)?lingojam.com$'
