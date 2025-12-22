@@ -282,6 +282,7 @@ hostnames:
     - '(.*\.)?dafontvn.com$'
     - '(.*\.)?coolfont.org$'
     - '(.*\.)?hypic.app$'
+    - '(.*\.)?legian.ee$'
     - '(.*\.)?facetuneapp.com$'
     - '(.*\.)?evoto.ai$'
     - '(.*\.)?svgcolor.com$'
