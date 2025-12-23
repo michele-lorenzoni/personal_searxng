@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?flyingmeat.com$'
     - '(.*\.)?editpictureonline.com$'
     - '(.*\.)?leftfootforward.org$'
+    - '(.*\.)?gizmodo.com$'
     - '(.*\.)?dafontvn.com$'
     - '(.*\.)?coolfont.org$'
     - '(.*\.)?interlacekit.com$'
