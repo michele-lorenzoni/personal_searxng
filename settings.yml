@@ -332,6 +332,7 @@ hostnames:
     - '(.*\.)?clairejefford.com$'
     - '(.*\.)?legian.com$'
     - '(.*\.)?gilisoft.com$'
+    - '(.*\.)?colorlib.com$'
     - '(.*\.)?legianbeachbali.com$'
     - '(.*\.)?karbon.com$'
     - '(.*\.)?imagecolorpicker.com$'
