@@ -362,6 +362,7 @@ hostnames:
     - '(.*\.)?kiwifonts.com$'
     - '(.*\.)?usafonts.pro$'
     - '(.*\.)?snappa.com$'
+    - '(.*\.)?codelucky.com$'
     - '(.*\.)?photofunia.com$'
     - '(.*\.)?colorwowhair.com$'
     - '(.*\.)?piktochart.com$'
