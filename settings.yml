@@ -308,6 +308,7 @@ hostnames:
     - '(.*\.)?leftfootforward.org$'
     - '(.*\.)?gizmodo.com$'
     - '(.*\.)?dafontvn.com$'
+    - '(.*\.)?pocket-lint.com$'
     - '(.*\.)?coolfont.org$'
     - '(.*\.)?shadowboxes.com$'
     - '(.*\.)?interlacekit.com$'
