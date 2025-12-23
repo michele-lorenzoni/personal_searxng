@@ -151,5 +151,6 @@ a.link_on_top_about {
 }
 
 #links_on_top {
-	top: 1rem !important;
+	top: 2rem !important;
+	right: 2rem !important;
 }
