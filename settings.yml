@@ -319,6 +319,7 @@ hostnames:
     - '(.*\.)?gravit.io$'
     - '(.*\.)?karboncard.com$'
     - '(.*\.)?fontgenerator.name$'
+    - '(.*\.)?timberland.com$'
     - '(.*\.)?hypic.app$'
     - '(.*\.)?masterbundles.com$'
     - '(.*\.)?legian.ee$'
