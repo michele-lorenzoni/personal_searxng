@@ -291,6 +291,7 @@ hostnames:
     - '(.*\.)?drupaljedimaster.co.uk$'
     - '(.*\.)?metaclippingpath.com$'
     - '(.*\.)?cssgenerator.pl$'
+    - '(.*\.)?angrytools.com$'
     - '(.*\.)?urbanfonts.com$'
     - '(.*\.)?yourcolorguru.com$'
     - '(.*\.)?1000fonts.com$'
