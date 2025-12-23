@@ -297,6 +297,7 @@ hostnames:
     - '(.*\.)?gizmodo.com$'
     - '(.*\.)?dafontvn.com$'
     - '(.*\.)?coolfont.org$'
+    - '(.*\.)?shadowboxes.com$'
     - '(.*\.)?interlacekit.com$'
     - '(.*\.)?font-generator.com$'
     - '(.*\.)?gravit.io$'
