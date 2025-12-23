@@ -156,6 +156,6 @@ a.link_on_top_about {
 }
 
 :root.theme-auto {
-	--color-base-background: #222222 !important;
-	--color-base-background-mobile: #222222 !important;
+	--color-base-background: #212121 !important;
+	--color-base-background-mobile: #212121 !important;
 }
