@@ -154,3 +154,8 @@ a.link_on_top_about {
 	top: 2rem !important;
 	right: 2rem !important;
 }
+
+:root.theme-auto {
+	--color-base-background: #222222 !important;
+	--color-base-background-mobile: #222222 !important;
+}
