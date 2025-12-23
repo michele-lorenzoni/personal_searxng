@@ -278,6 +278,7 @@ hostnames:
     - '(.*\.)?fontshop.com$'
     - '(.*\.)?educba.com$'
     - '(.*\.)?frontendhack.com$'
+    - '(.*\.)?icongenerate.com$'
     - '(.*\.)?fontstand.com$'
     - '(.*\.)?legian.nl$'
     - '(.*\.)?iconseq.org$'
