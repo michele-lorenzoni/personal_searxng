@@ -275,6 +275,7 @@ hostnames:
     - '(.*\.)?iconduck.com$'
     - '(.*\.)?fontshop.com$'
     - '(.*\.)?educba.com$'
+    - '(.*\.)?frontendhack.com$'
     - '(.*\.)?fontstand.com$'
     - '(.*\.)?legian.nl$'
     - '(.*\.)?boxshadows.com$'
