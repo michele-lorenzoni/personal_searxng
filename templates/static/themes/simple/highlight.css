@@ -168,3 +168,7 @@ a.link_on_top_about {
 #clear_search {
 	padding: .8rem !important;
 }
+
+#clear_search {
+	width: auto;
+}
