@@ -180,3 +180,7 @@ body {
 	background-color: #212121 !important;
 	/* background-image: url('http://www.transparenttextures.com/patterns/triangles.png') !important; */
 }
+
+#links_on_top a svg {
+	margin: 0 !important;
+}
