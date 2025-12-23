@@ -359,6 +359,7 @@ hostnames:
     - '(.*\.)?retouchinglabs.com$'
     - '(.*\.)?fontchanger.cool$'
     - '(.*\.)?legionfonts.com$'
+    - '(.*\.)?iconsguru.com$'
     - '(.*\.)?colorline.com$'
     - '(.*\.)?mockofun.com$'
     - '(.*\.)?colorsafe.co$'
