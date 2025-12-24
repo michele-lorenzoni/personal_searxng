@@ -289,6 +289,7 @@ hostnames:
     - '(.*\.)?3disometricicon.com$'
     - '(.*\.)?3dlogo.site$'
     - '(.*\.)?3dlogolab.io$'
+    - '(.*\.)?icones8.fr$'
     - '(.*\.)?3movs.com$'
     - '(.*\.)?4easysoft.com$'
     - '(.*\.)?4kwallpapers.com$'
