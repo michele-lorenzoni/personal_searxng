@@ -274,6 +274,7 @@ hostnames:
     - '(.*\.)?amazon.nl$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?thiings.co$'
+    - '(.*\.)?uniteforliteracy.com$'
     - '(.*\.)?365webresources.com$'
     - '(.*\.)?speckyboy.com$'
     - '(.*\.)?freeebooks.com$'
