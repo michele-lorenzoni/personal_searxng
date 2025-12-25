@@ -319,6 +319,7 @@ hostnames:
     - '(.*\.)?1000logos.net$'
     - '(.*\.)?1001fonts.com$'
     - '(.*\.)?2003.jres.org$'
+    - '(.*\.)?bibliotheekaanzet.nl$'
     - '(.*\.)?10015.io$'
     - '(.*\.)?aadisol.in$'
     - '(.*\.)?abc7.com$'
