@@ -272,6 +272,7 @@ hostnames:
   remove:
     - '(.*\.)?getepic.com$'
     - '(.*\.)?amazon.nl$'
+    - '(.*\.)?designrr.io$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
