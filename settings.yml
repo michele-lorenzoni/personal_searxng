@@ -277,6 +277,7 @@ hostnames:
     - '(.*\.)?365webresources.com$'
     - '(.*\.)?speckyboy.com$'
     - '(.*\.)?iconcity.com$'
+    - '(.*\.)?bookshelf.vitalsource.com$'
     - '(.*\.)?pixcap.com$'
     - '(.*\.)?designmodo.com$'
     - '(.*\.)?graphicdesignjunction.com$'
