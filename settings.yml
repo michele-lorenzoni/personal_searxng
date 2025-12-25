@@ -303,6 +303,7 @@ hostnames:
     - '(.*\.)?4kwallpapers.com$'
     - '(.*\.)?4sysops.com$'
     - '(.*\.)?4tube.com$'
+    - '(.*\.)?ebookselibrary.com$'
     - '(.*\.)?6sigma.us$'
     - '(.*\.)?9mod.com$'
     - '(.*\.)?10wallpaper.com$'
