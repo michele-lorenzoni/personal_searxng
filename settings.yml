@@ -303,6 +303,7 @@ hostnames:
     - '(.*\.)?gadgettechstore.com.au$'
     - '(.*\.)?coolcatlovesyou.com$'
     - '(.*\.)?booknook.biz$'
+    - '(.*\.)?nha.nl$'
     - '(.*\.)?gadgethacks.com$'
     - '(.*\.)?speckyboy.com$'
     - '(.*\.)?freeebooks.com$'
