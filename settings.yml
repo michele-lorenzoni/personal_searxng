@@ -282,6 +282,7 @@ hostnames:
     - '(.*\.)?123freebook.com$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
+    - '(.*\.)?ebookdaily.com$'
     - '(.*\.)?365webresources.com$'
     - '(.*\.)?coolcatlovesyou.com$'
     - '(.*\.)?speckyboy.com$'
