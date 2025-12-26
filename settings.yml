@@ -298,6 +298,7 @@ hostnames:
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
     - '(.*\.)?readshop.nl$'
+    - '(.*\.)?gospelebooks.net$'
     - '(.*\.)?ebooksgratuits.com$'
     - '(.*\.)?ebookdaily.com$'
     - '(.*\.)?365webresources.com$'
