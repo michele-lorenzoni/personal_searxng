@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?speckyboy.com$'
     - '(.*\.)?freeebooks.com$'
     - '(.*\.)?transrealbooks.com$'
+    - '(.*\.)?bright.nl$'
     - '(.*\.)?mybard.com$'
     - '(.*\.)?technave.com$'
     - '(.*\.)?geeky-gadgets.com$'
