@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?123freebook.com$'
     - '(.*\.)?hebban.nl$'
     - '(.*\.)?bookcreator.com$'
+    - '(.*\.)?vanderveldeboeken.nl$'
     - '(.*\.)?saclibrary.org'
     - '(.*\.)?gadgets360.com$'
     - '(.*\.)?thiings.co$'
