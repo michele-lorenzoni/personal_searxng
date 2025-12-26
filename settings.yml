@@ -292,6 +292,7 @@ hostnames:
     - '(.*\.)?bestebooksworld.com$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?onlinebibliotheek.nl$'
+    - '(.*\.)?prize.supplyframe.com$'
     - '(.*\.)?123freebook.com$'
     - '(.*\.)?hebban.nl$'
     - '(.*\.)?bookcreator.com$'
