@@ -277,6 +277,7 @@ hostnames:
     - '(.*\.)?svedic.org$'
     - '(.*\.)?mybookcave.com$'
     - '(.*\.)?letsreadasia.org$'
+    - '(.*\.)?bestebooksworld.com$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
