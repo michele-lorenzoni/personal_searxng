@@ -301,6 +301,7 @@ hostnames:
     - '(.*\.)?gadgethacks.com$'
     - '(.*\.)?speckyboy.com$'
     - '(.*\.)?freeebooks.com$'
+    - '(.*\.)?ebooks.edu.gr$'
     - '(.*\.)?transrealbooks.com$'
     - '(.*\.)?bright.nl$'
     - '(.*\.)?myebooks.mheducation.com$'
