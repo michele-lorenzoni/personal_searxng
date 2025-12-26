@@ -280,6 +280,7 @@ hostnames:
     - '(.*\.)?bestebooksworld.com$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?123freebook.com$'
+    - '(.*\.)?gadgets360.com$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
     - '(.*\.)?ebookdaily.com$'
