@@ -297,6 +297,7 @@ hostnames:
     - '(.*\.)?gadgets360.com$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
+    - '(.*\.)?riverheadnewsreview.timesreview.com$'
     - '(.*\.)?readshop.nl$'
     - '(.*\.)?gospelebooks.net$'
     - '(.*\.)?ebooksgratuits.com$'
