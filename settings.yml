@@ -290,6 +290,7 @@ hostnames:
     - '(.*\.)?ebook-fieber.de$'
     - '(.*\.)?indiebound.org$'
     - '(.*\.)?bestebooksworld.com$'
+    - '(.*\.)?cse-axima.fr$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?onlinebibliotheek.nl$'
     - '(.*\.)?prize.supplyframe.com$'
