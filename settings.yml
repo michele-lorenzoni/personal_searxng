@@ -291,6 +291,7 @@ hostnames:
     - '(.*\.)?gadgets360.com$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
+    - '(.*\.)?ebooksgratuits.com$'
     - '(.*\.)?ebookdaily.com$'
     - '(.*\.)?365webresources.com$'
     - '(.*\.)?gadgettechstore.com.au$'
