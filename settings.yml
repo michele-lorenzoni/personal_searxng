@@ -297,6 +297,7 @@ hostnames:
     - '(.*\.)?freeebooks.com$'
     - '(.*\.)?transrealbooks.com$'
     - '(.*\.)?bright.nl$'
+    - '(.*\.)?myebooks.mheducation.com$'
     - '(.*\.)?mybard.com$'
     - '(.*\.)?technave.com$'
     - '(.*\.)?geeky-gadgets.com$'
