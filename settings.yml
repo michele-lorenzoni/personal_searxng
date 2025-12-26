@@ -276,6 +276,7 @@ hostnames:
     - '(.*\.)?designrr.io$'
     - '(.*\.)?svedic.org$'
     - '(.*\.)?mybookcave.com$'
+    - '(.*\.)?letsreadasia.org$'
     - '(.*\.)?ebook.nl$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
