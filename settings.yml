@@ -281,6 +281,7 @@ hostnames:
     - '(.*\.)?coolcatlovesyou.com$'
     - '(.*\.)?speckyboy.com$'
     - '(.*\.)?freeebooks.com$'
+    - '(.*\.)?transrealbooks.com$'
     - '(.*\.)?mybard.com$'
     - '(.*\.)?iconcity.com$'
     - '(.*\.)?bookshelf.vitalsource.com$'
