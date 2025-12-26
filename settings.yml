@@ -295,6 +295,7 @@ hostnames:
     - '(.*\.)?iconcity.com$'
     - '(.*\.)?bookshelf.vitalsource.com$'
     - '(.*\.)?e-booksdirectory.com$'
+    - '(.*\.)?thegadgetflow.com$'
     - '(.*\.)?pixcap.com$'
     - '(.*\.)?designmodo.com$'
     - '(.*\.)?graphicdesignjunction.com$'
