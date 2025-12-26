@@ -336,6 +336,7 @@ hostnames:
     - '(.*\.)?tweakers.net$'
     - '(.*\.)?gadgetstouse.com$'
     - '(.*\.)?queenslibrary.overdrive.com$'
+    - '(.*\.)?hockaday.org$'
     - '(.*\.)?gratis-boek.nl$'
     - '(.*\.)?gadgetman.ie$'
     - '(.*\.)?bookboon.com$'
