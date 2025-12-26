@@ -293,6 +293,7 @@ hostnames:
     - '(.*\.)?freeebooks.com$'
     - '(.*\.)?transrealbooks.com$'
     - '(.*\.)?mybard.com$'
+    - '(.*\.)?technave.com$'
     - '(.*\.)?geeky-gadgets.com$'
     - '(.*\.)?iconcity.com$'
     - '(.*\.)?bookshelf.vitalsource.com$'
