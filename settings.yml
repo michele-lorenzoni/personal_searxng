@@ -283,6 +283,7 @@ hostnames:
     - '(.*\.)?svedic.org$'
     - '(.*\.)?openebooks.org$'
     - '(.*\.)?mybookcave.com$'
+    - '(.*\.)?boekenwereld.com$'
     - '(.*\.)?letsreadasia.org$'
     - '(.*\.)?ebook-fieber.de$'
     - '(.*\.)?bestebooksworld.com$'
