@@ -286,6 +286,7 @@ hostnames:
     - '(.*\.)?ebook-fieber.de$'
     - '(.*\.)?bestebooksworld.com$'
     - '(.*\.)?ebook.nl$'
+    - '(.*\.)?onlinebibliotheek.nl$'
     - '(.*\.)?123freebook.com$'
     - '(.*\.)?gadgets360.com$'
     - '(.*\.)?thiings.co$'
