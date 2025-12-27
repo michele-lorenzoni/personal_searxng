@@ -275,6 +275,7 @@ hostnames:
     - '(.*\.)?readme.linderhassinger.dev$'
     - '(.*\.)?books2ebooks.eu$'
     - '(.*\.)?amazon.nl$'
+    - '(.*\.)?gitglance.vercel.app$'
     - '(.*\.)?daily.dev$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
