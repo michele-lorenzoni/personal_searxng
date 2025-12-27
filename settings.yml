@@ -288,6 +288,7 @@ hostnames:
     - '(.*\.)?gh-stats-gen.vercel.app$'
     - '(.*\.)?soraapp.com$'
     - '(.*\.)?gadgetzone.nl$'
+    - '(.*\.)?yhype.me$'
     - '(.*\.)?designrr.io$'
     - '(.*\.)?gadgetadvisor.com$'
     - '(.*\.)?gitdevtool.com$'
