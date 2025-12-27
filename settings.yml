@@ -288,6 +288,7 @@ hostnames:
     - '(.*\.)?gitdevtool.com$'
     - '(.*\.)?readme-gen.streamlit.app$'
     - '(.*\.)?techgadget.gr$'
+    - '(.*\.)?gitread.dev$'
     - '(.*\.)?gadgetgear.nl$'
     - '(.*\.)?gadget-rumours.com$'
     - '(.*\.)?svedic.org$'
