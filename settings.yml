@@ -286,6 +286,7 @@ hostnames:
     - '(.*\.)?designrr.io$'
     - '(.*\.)?gadgetadvisor.com$'
     - '(.*\.)?gitdevtool.com$'
+    - '(.*\.)?readme-gen.streamlit.app$'
     - '(.*\.)?techgadget.gr$'
     - '(.*\.)?gadgetgear.nl$'
     - '(.*\.)?gadget-rumours.com$'
