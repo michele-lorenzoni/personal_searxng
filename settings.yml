@@ -290,6 +290,7 @@ hostnames:
     - '(.*\.)?gitdevtool.com$'
     - '(.*\.)?readme-gen.streamlit.app$'
     - '(.*\.)?techgadget.gr$'
+    - '(.*\.)?hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app$'
     - '(.*\.)?gitread.dev$'
     - '(.*\.)?gadgetgear.nl$'
     - '(.*\.)?gadget-rumours.com$'
