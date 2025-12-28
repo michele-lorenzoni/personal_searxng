@@ -288,6 +288,7 @@ hostnames:
     - '(.*\.)?github-profile-gpt.vercel.app$'
     - '(.*\.)?gifpal.com$'
     - '(.*\.)?ebooks2go.com$'
+    - '(.*\.)?gififyai.com$'
     - '(.*\.)?genreadme.cloud$'
     - '(.*\.)?ggithubprofile.vercel.app$'
     - '(.*\.)?profileme.dev$'
