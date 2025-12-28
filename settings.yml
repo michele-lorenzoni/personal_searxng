@@ -295,6 +295,7 @@ hostnames:
     - '(.*\.)?gadgetadvisor.com$'
     - '(.*\.)?gitdevtool.com$'
     - '(.*\.)?nano.komputronik.pl$'
+    - '(.*\.)?biographies.net$'
     - '(.*\.)?readme-gen.streamlit.app$'
     - '(.*\.)?gitranks.com$'
     - '(.*\.)?git-hub-streak-stats.vercel.app$'
