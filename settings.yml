@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?designrr.io$'
     - '(.*\.)?gadgetadvisor.com$'
     - '(.*\.)?gitdevtool.com$'
+    - '(.*\.)?nano.komputronik.pl$'
     - '(.*\.)?readme-gen.streamlit.app$'
     - '(.*\.)?gitranks.com$'
     - '(.*\.)?git-hub-streak-stats.vercel.app$'
