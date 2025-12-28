@@ -272,6 +272,7 @@ hostnames:
   remove:
     - '(.*\.)?getepic.com$'
     - '(.*\.)?genreadme.cloud$'
+    - '(.*\.)?prezo.jp$'
     - '(.*\.)?readme.linderhassinger.dev$'
     - '(.*\.)?books2ebooks.eu$'
     - '(.*\.)?amazon.nl$'
