@@ -275,6 +275,7 @@ hostnames:
     - '(.*\.)?emojifinder.com$'
     - '(.*\.)?prezo.jp$'
     - '(.*\.)?readme.linderhassinger.dev$'
+    - '(.*\.)?emojirepo.org$'
     - '(.*\.)?books2ebooks.eu$'
     - '(.*\.)?amazon.nl$'
     - '(.*\.)?endorphinbath.com$'
