@@ -288,6 +288,7 @@ hostnames:
     - '(.*\.)?sabr.org$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
     - '(.*\.)?devuurwerkhandel.nl$'
+    - '(.*\.)?emojigraph.org$'
     - '(.*\.)?emojihub.org$'
     - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?coderstats.net$'
