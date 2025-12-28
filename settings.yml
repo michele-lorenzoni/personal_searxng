@@ -283,6 +283,7 @@ hostnames:
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?sabr.org$'
     - '(.*\.)?coderstats.net$'
+    - '(.*\.)?blinkysbar.com$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
     - '(.*\.)?biography.jrank.org$'
     - '(.*\.)?github-profile-gpt.vercel.app$'
