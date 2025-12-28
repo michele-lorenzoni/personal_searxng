@@ -311,6 +311,7 @@ hostnames:
     - '(.*\.)?soraapp.com$'
     - '(.*\.)?nbe.com.eg$'
     - '(.*\.)?makegif.org$'
+    - '(.*\.)?iemoji.com$'
     - '(.*\.)?freegifmaker.me$'
     - '(.*\.)?gadgetzone.nl$'
     - '(.*\.)?yhype.me$'
