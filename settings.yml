@@ -284,6 +284,7 @@ hostnames:
     - '(.*\.)?biographynyc.com$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?ahaemoji.com$'
+    - '(.*\.)?ziggo.nl$'
     - '(.*\.)?sabr.org$'
     - '(.*\.)?devuurwerkhandel.nl$'
     - '(.*\.)?emojihub.org$'
