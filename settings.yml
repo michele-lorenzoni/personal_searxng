@@ -292,6 +292,7 @@ hostnames:
     - '(.*\.)?ggithubprofile.vercel.app$'
     - '(.*\.)?profileme.dev$'
     - '(.*\.)?gh-stats-gen.vercel.app$'
+    - '(.*\.)?gifrun.com$'
     - '(.*\.)?soraapp.com$'
     - '(.*\.)?nbe.com.eg$'
     - '(.*\.)?gadgetzone.nl$'
