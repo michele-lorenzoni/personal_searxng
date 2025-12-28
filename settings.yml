@@ -291,6 +291,7 @@ hostnames:
     - '(.*\.)?emojihub.org$'
     - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?coderstats.net$'
+    - '(.*\.)?makeemoji.com$'
     - '(.*\.)?blinkysbar.com$'
     - '(.*\.)?theblinkies.com$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
