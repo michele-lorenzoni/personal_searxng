@@ -284,6 +284,7 @@ hostnames:
     - '(.*\.)?sabr.org$'
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?blinkysbar.com$'
+    - '(.*\.)?theblinkies.com$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
     - '(.*\.)?biography.jrank.org$'
     - '(.*\.)?github-profile-gpt.vercel.app$'
