@@ -292,6 +292,7 @@ hostnames:
     - '(.*\.)?devuurwerkhandel.nl$'
     - '(.*\.)?emojigraph.org$'
     - '(.*\.)?emojihub.org$'
+    - '(.*\.)?worldemojiawards.com$'
     - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?makeemoji.com$'
