@@ -287,6 +287,7 @@ hostnames:
     - '(.*\.)?sabr.org$'
     - '(.*\.)?devuurwerkhandel.nl$'
     - '(.*\.)?emojihub.org$'
+    - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?blinkysbar.com$'
     - '(.*\.)?theblinkies.com$'
