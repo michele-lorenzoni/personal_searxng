@@ -288,6 +288,7 @@ hostnames:
     - '(.*\.)?profileme.dev$'
     - '(.*\.)?gh-stats-gen.vercel.app$'
     - '(.*\.)?soraapp.com$'
+    - '(.*\.)?nbe.com.eg$'
     - '(.*\.)?gadgetzone.nl$'
     - '(.*\.)?yhype.me$'
     - '(.*\.)?designrr.io$'
