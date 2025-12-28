@@ -324,6 +324,7 @@ hostnames:
     - '(.*\.)?ebook-fieber.de$'
     - '(.*\.)?indiebound.org$'
     - '(.*\.)?bestebooksworld.com$'
+    - '(.*\.)?makeagif.com$'
     - '(.*\.)?cse-axima.fr$'
     - '(.*\.)?statsforgit.com$'
     - '(.*\.)?githubstatsfordevs.netlify.app$'
