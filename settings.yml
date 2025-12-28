@@ -344,6 +344,7 @@ hostnames:
     - '(.*\.)?gitranks.com$'
     - '(.*\.)?git-hub-streak-stats.vercel.app$'
     - '(.*\.)?pc.net$'
+    - '(.*\.)?emojivoter.com$'
     - '(.*\.)?techgadget.gr$'
     - '(.*\.)?hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app$'
     - '(.*\.)?gitread.dev$'
