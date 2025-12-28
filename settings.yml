@@ -306,6 +306,7 @@ hostnames:
     - '(.*\.)?ggithubprofile.vercel.app$'
     - '(.*\.)?profileme.dev$'
     - '(.*\.)?gh-stats-gen.vercel.app$'
+    - '(.*\.)?textemoji.org$'
     - '(.*\.)?emojicopy.com$'
     - '(.*\.)?emoji-translator.com$'
     - '(.*\.)?emoji.aranja.com$'
