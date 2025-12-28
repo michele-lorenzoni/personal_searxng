@@ -282,6 +282,7 @@ hostnames:
     - '(.*\.)?biographynyc.com$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?sabr.org$'
+    - '(.*\.)?devuurwerkhandel.nl$'
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?blinkysbar.com$'
     - '(.*\.)?theblinkies.com$'
