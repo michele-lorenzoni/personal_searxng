@@ -313,6 +313,7 @@ hostnames:
     - '(.*\.)?biographies.net$'
     - '(.*\.)?infoplease.com$'
     - '(.*\.)?readme-gen.streamlit.app$'
+    - '(.*\.)?bestelvuurwerk.nl$'
     - '(.*\.)?gitranks.com$'
     - '(.*\.)?git-hub-streak-stats.vercel.app$'
     - '(.*\.)?techgadget.gr$'
