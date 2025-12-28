@@ -304,6 +304,7 @@ hostnames:
     - '(.*\.)?bitmoji.com$'
     - '(.*\.)?blinki.fr$'
     - '(.*\.)?emojikeyboard.org$'
+    - '(.*\.)?copyandpasteemoji.com$'
     - '(.*\.)?emojipedia.nl$'
     - '(.*\.)?ebooks2go.com$'
     - '(.*\.)?gififyai.com$'
