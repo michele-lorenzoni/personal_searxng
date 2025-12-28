@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
     - '(.*\.)?biography.jrank.org$'
     - '(.*\.)?github-profile-gpt.vercel.app$'
+    - '(.*\.)?emojibetekenis.nl$'
     - '(.*\.)?gifpal.com$'
     - '(.*\.)?bitmoji.com$'
     - '(.*\.)?blinki.fr$'
