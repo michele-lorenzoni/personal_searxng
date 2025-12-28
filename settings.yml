@@ -298,6 +298,7 @@ hostnames:
     - '(.*\.)?designrr.io$'
     - '(.*\.)?gadgetadvisor.com$'
     - '(.*\.)?gitdevtool.com$'
+    - '(.*\.)?biographyonline.net$'
     - '(.*\.)?nano.komputronik.pl$'
     - '(.*\.)?biographies.net$'
     - '(.*\.)?readme-gen.streamlit.app$'
