@@ -296,6 +296,7 @@ hostnames:
     - '(.*\.)?gifpal.com$'
     - '(.*\.)?bitmoji.com$'
     - '(.*\.)?blinki.fr$'
+    - '(.*\.)?emojikeyboard.org$'
     - '(.*\.)?emojipedia.nl$'
     - '(.*\.)?ebooks2go.com$'
     - '(.*\.)?gififyai.com$'
