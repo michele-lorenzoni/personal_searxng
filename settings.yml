@@ -335,6 +335,7 @@ hostnames:
     - '(.*\.)?hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app$'
     - '(.*\.)?gitread.dev$'
     - '(.*\.)?gadgetgear.nl$'
+    - '(.*\.)?onzetaal.nl$'
     - '(.*\.)?gadget-rumours.com$'
     - '(.*\.)?svedic.org$'
     - '(.*\.)?git-readme-generator.vercel.app$'
