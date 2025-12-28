@@ -314,6 +314,7 @@ hostnames:
     - '(.*\.)?biographies.net$'
     - '(.*\.)?infoplease.com$'
     - '(.*\.)?readme-gen.streamlit.app$'
+    - '(.*\.)?getemoji.com$'
     - '(.*\.)?bestelvuurwerk.nl$'
     - '(.*\.)?gitranks.com$'
     - '(.*\.)?git-hub-streak-stats.vercel.app$'
