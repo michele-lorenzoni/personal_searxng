@@ -298,6 +298,7 @@ hostnames:
     - '(.*\.)?gadgetzone.nl$'
     - '(.*\.)?yhype.me$'
     - '(.*\.)?linguee.nl$'
+    - '(.*\.)?3dgifmaker.com$'
     - '(.*\.)?designrr.io$'
     - '(.*\.)?gadgetadvisor.com$'
     - '(.*\.)?gitdevtool.com$'
