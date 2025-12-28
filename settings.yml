@@ -278,6 +278,7 @@ hostnames:
     - '(.*\.)?endorphinbath.com$'
     - '(.*\.)?gitglance.vercel.app$'
     - '(.*\.)?daily.dev$'
+    - '(.*\.)?biographynyc.com$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?sabr.org$'
     - '(.*\.)?coderstats.net$'
