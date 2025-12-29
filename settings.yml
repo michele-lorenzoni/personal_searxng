@@ -331,6 +331,7 @@ hostnames:
     - '(.*\.)?comingsoon.it$'
     - '(.*\.)?hisoftsroll.web.app$'
     - '(.*\.)?waltsbeefjerky.net$'
+    - '(.*\.)?programmazionetv.com$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
     - '(.*\.)?caseconverter.tools$'
     - '(.*\.)?eurostreaming.pet$'
