@@ -296,6 +296,7 @@ hostnames:
     - '(.*\.)?books2ebooks.eu$'
     - '(.*\.)?sproutvideo.com$'
     - '(.*\.)?communaute.ebay.fr$'
+    - '(.*\.)?cssscript.com$'
     - '(.*\.)?amazon.nl$'
     - '(.*\.)?patternify.com$'
     - '(.*\.)?streamingcommunity.computer$'
