@@ -284,6 +284,7 @@ hostnames:
     - '(.*\.)?spolecznosc.ing.pl$'
     - '(.*\.)?staseraintv.com$'
     - '(.*\.)?emojirepo.org$'
+    - '(.*\.)?summerlandfestival.it$'
     - '(.*\.)?cinemalibero.city$'
     - '(.*\.)?today.it$'
     - '(.*\.)?fsymbols.com$'
