@@ -276,6 +276,7 @@ hostnames:
     - '(.*\.)?emojipicker.com$'
     - '(.*\.)?moviemeter.nl$'
     - '(.*\.)?streamingcommunityz.email$'
+    - '(.*\.)?televideoteca.it$'
     - '(.*\.)?prezo.jp$'
     - '(.*\.)?readme.linderhassinger.dev$'
     - '(.*\.)?streamingcommunityz.fun$'
