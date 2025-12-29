@@ -310,6 +310,7 @@ hostnames:
     - '(.*\.)?github-profile-gpt.vercel.app$'
     - '(.*\.)?emojibetekenis.nl$'
     - '(.*\.)?gifpal.com$'
+    - '(.*\.)?altadefinizione.bet$'
     - '(.*\.)?bitmoji.com$'
     - '(.*\.)?kaomojikuma.com$'
     - '(.*\.)?blinki.fr$'
