@@ -335,6 +335,7 @@ hostnames:
     - '(.*\.)?copyandpasteemoji.com$'
     - '(.*\.)?emojipedia.nl$'
     - '(.*\.)?altadefinizione.bio$'
+    - '(.*\.)?moviefone.com$'
     - '(.*\.)?ebooks2go.com$'
     - '(.*\.)?gififyai.com$'
     - '(.*\.)?genreadme.cloud$'
