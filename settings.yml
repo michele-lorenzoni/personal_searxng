@@ -289,6 +289,7 @@ hostnames:
     - '(.*\.)?biographynyc.com$'
     - '(.*\.)?1337x.to$'
     - '(.*\.)?githubprofile.com$'
+    - '(.*\.)?c13.radioboss.fm$'
     - '(.*\.)?ahaemoji.com$'
     - '(.*\.)?ziggo.nl$'
     - '(.*\.)?ciakmagazine.it$'
