@@ -291,6 +291,7 @@ hostnames:
     - '(.*\.)?ziggo.nl$'
     - '(.*\.)?tv8.it$'
     - '(.*\.)?emojis.com$'
+    - '(.*\.)?mncollegedems.org$'
     - '(.*\.)?sabr.org$'
     - '(.*\.)?textcompare.io$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
