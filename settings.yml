@@ -309,6 +309,7 @@ hostnames:
     - '(.*\.)?bitmoji.com$'
     - '(.*\.)?kaomojikuma.com$'
     - '(.*\.)?blinki.fr$'
+    - '(.*\.)?min2win.org$'
     - '(.*\.)?wellgames.com$'
     - '(.*\.)?emojikeyboard.org$'
     - '(.*\.)?copyandpasteemoji.com$'
