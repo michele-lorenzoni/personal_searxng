@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?makeemoji.com$'
     - '(.*\.)?blinkysbar.com$'
     - '(.*\.)?theblinkies.com$'
+    - '(.*\.)?screenworld.it$'
     - '(.*\.)?comingsoon.it$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
     - '(.*\.)?caseconverter.tools$'
