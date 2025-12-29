@@ -320,6 +320,7 @@ hostnames:
     - '(.*\.)?cb01.pizza$'
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?streamingcommunity.family$'
+    - '(.*\.)?ilcorsaronero.link$'
     - '(.*\.)?makeemoji.com$'
     - '(.*\.)?superguidatv.it$'
     - '(.*\.)?blinkysbar.com$'
