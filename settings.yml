@@ -330,6 +330,7 @@ hostnames:
     - '(.*\.)?emojikeyboard.org$'
     - '(.*\.)?copyandpasteemoji.com$'
     - '(.*\.)?emojipedia.nl$'
+    - '(.*\.)?altadefinizione.bio$'
     - '(.*\.)?ebooks2go.com$'
     - '(.*\.)?gififyai.com$'
     - '(.*\.)?genreadme.cloud$'
