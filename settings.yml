@@ -299,6 +299,7 @@ hostnames:
     - '(.*\.)?ahaemoji.com$'
     - '(.*\.)?ziggo.nl$'
     - '(.*\.)?ciakmagazine.it$'
+    - '(.*\.)?oggiintv.eu$'
     - '(.*\.)?postcode.nl$'
     - '(.*\.)?tv8.it$'
     - '(.*\.)?it.ign.com$'
