@@ -301,6 +301,7 @@ hostnames:
     - '(.*\.)?adessoin.tv$'
     - '(.*\.)?1337x.to$'
     - '(.*\.)?githubprofile.com$'
+    - '(.*\.)?oggiintv.kaleidosstudio.com$'
     - '(.*\.)?robadadonne.it$'
     - '(.*\.)?c13.radioboss.fm$'
     - '(.*\.)?ahaemoji.com$'
