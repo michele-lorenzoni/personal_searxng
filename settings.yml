@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?ahaemoji.com$'
     - '(.*\.)?corriere.it$'
     - '(.*\.)?ziggo.nl$'
+    - '(.*\.)?tvprofil.com$'
     - '(.*\.)?ciakmagazine.it$'
     - '(.*\.)?oggiintv.eu$'
     - '(.*\.)?guida-tv.org$'
