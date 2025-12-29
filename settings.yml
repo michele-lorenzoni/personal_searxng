@@ -300,6 +300,7 @@ hostnames:
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?makeemoji.com$'
     - '(.*\.)?blinkysbar.com$'
+    - '(.*\.)?filmsenzalimiti.name$'
     - '(.*\.)?theblinkies.com$'
     - '(.*\.)?screenworld.it$'
     - '(.*\.)?comingsoon.it$'
