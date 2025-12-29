@@ -328,6 +328,7 @@ hostnames:
     - '(.*\.)?foodandwine.com$'
     - '(.*\.)?guida-tv.org$'
     - '(.*\.)?de.bing.com$'
+    - '(.*\.)?dotbadges.com$'
     - '(.*\.)?file.io$'
     - '(.*\.)?netflix-news.atsit.in$'
     - '(.*\.)?postcode.nl$'
