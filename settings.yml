@@ -334,6 +334,7 @@ hostnames:
     - '(.*\.)?tg24.sky.it$'
     - '(.*\.)?gifpal.com$'
     - '(.*\.)?hnews42.com$'
+    - '(.*\.)?1337x.st$'
     - '(.*\.)?guidatv.quotidiano.net$'
     - '(.*\.)?altadefinizione.bet$'
     - '(.*\.)?bitmoji.com$'
