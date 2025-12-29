@@ -279,6 +279,7 @@ hostnames:
     - '(.*\.)?box-shadow.art$'
     - '(.*\.)?streamingcommunityz.email$'
     - '(.*\.)?televideoteca.it$'
+    - '(.*\.)?pathtoeagle.org$'
     - '(.*\.)?prezo.jp$'
     - '(.*\.)?lenadesign.org$'
     - '(.*\.)?cssgenerator.org$'
