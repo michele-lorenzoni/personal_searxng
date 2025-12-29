@@ -304,6 +304,7 @@ hostnames:
     - '(.*\.)?oggiintv.kaleidosstudio.com$'
     - '(.*\.)?robadadonne.it$'
     - '(.*\.)?tv.zam.it$'
+    - '(.*\.)?sendvid.com$'
     - '(.*\.)?c13.radioboss.fm$'
     - '(.*\.)?ahaemoji.com$'
     - '(.*\.)?corriere.it$'
