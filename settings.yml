@@ -292,6 +292,7 @@ hostnames:
     - '(.*\.)?welstech.wels.net$'
     - '(.*\.)?summerlandfestival.it$'
     - '(.*\.)?random.css-pattern.com$'
+    - '(.*\.)?juststickers.in$'
     - '(.*\.)?cinemalibero.city$'
     - '(.*\.)?today.it$'
     - '(.*\.)?fsymbols.com$'
