@@ -298,6 +298,7 @@ hostnames:
     - '(.*\.)?ciakmagazine.it$'
     - '(.*\.)?postcode.nl$'
     - '(.*\.)?tv8.it$'
+    - '(.*\.)?it.ign.com$'
     - '(.*\.)?emojis.com$'
     - '(.*\.)?mncollegedems.org$'
     - '(.*\.)?sabr.org$'
