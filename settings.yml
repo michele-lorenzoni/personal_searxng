@@ -303,6 +303,7 @@ hostnames:
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?oggiintv.kaleidosstudio.com$'
     - '(.*\.)?robadadonne.it$'
+    - '(.*\.)?tv.zam.it$'
     - '(.*\.)?c13.radioboss.fm$'
     - '(.*\.)?ahaemoji.com$'
     - '(.*\.)?corriere.it$'
