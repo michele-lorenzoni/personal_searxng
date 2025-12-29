@@ -284,6 +284,7 @@ hostnames:
     - '(.*\.)?gitglance.vercel.app$'
     - '(.*\.)?daily.dev$'
     - '(.*\.)?biographynyc.com$'
+    - '(.*\.)?1337x.to$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?ahaemoji.com$'
     - '(.*\.)?ziggo.nl$'
