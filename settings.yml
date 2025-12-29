@@ -325,6 +325,7 @@ hostnames:
     - '(.*\.)?emojicopy.com$'
     - '(.*\.)?emoji-translator.com$'
     - '(.*\.)?emoji.aranja.com$'
+    - '(.*\.)?studenti.it$'
     - '(.*\.)?gifrun.com$'
     - '(.*\.)?soraapp.com$'
     - '(.*\.)?nbe.com.eg$'
