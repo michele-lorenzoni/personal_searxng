@@ -283,6 +283,7 @@ hostnames:
     - '(.*\.)?amazon.nl$'
     - '(.*\.)?endorphinbath.com$'
     - '(.*\.)?gitglance.vercel.app$'
+    - '(.*\.)?streamingcommunityz.digital$'
     - '(.*\.)?daily.dev$'
     - '(.*\.)?biographynyc.com$'
     - '(.*\.)?1337x.to$'
