@@ -331,6 +331,7 @@ hostnames:
     - '(.*\.)?min2win.org$'
     - '(.*\.)?streamingita.altadefinizione.ioch.org$'
     - '(.*\.)?wellgames.com$'
+    - '(.*\.)?nientepopcorn.it$'
     - '(.*\.)?emojikeyboard.org$'
     - '(.*\.)?copyandpasteemoji.com$'
     - '(.*\.)?emojipedia.nl$'
