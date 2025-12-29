@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?daily.dev$'
     - '(.*\.)?biographynyc.com$'
     - '(.*\.)?slashfilm.com$'
+    - '(.*\.)?adessoin.tv$'
     - '(.*\.)?1337x.to$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?c13.radioboss.fm$'
