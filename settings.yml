@@ -325,6 +325,7 @@ hostnames:
     - '(.*\.)?tv8.it$'
     - '(.*\.)?it.ign.com$'
     - '(.*\.)?emojis.com$'
+    - '(.*\.)?shecodes.io$'
     - '(.*\.)?mncollegedems.org$'
     - '(.*\.)?sabr.org$'
     - '(.*\.)?textcompare.io$'
