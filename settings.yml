@@ -280,6 +280,7 @@ hostnames:
     - '(.*\.)?streamingcommunityz.email$'
     - '(.*\.)?televideoteca.it$'
     - '(.*\.)?prezo.jp$'
+    - '(.*\.)?lenadesign.org$'
     - '(.*\.)?readme.linderhassinger.dev$'
     - '(.*\.)?streamingcommunityz.fun$'
     - '(.*\.)?spolecznosc.ing.pl$'
