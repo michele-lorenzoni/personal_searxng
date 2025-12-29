@@ -345,6 +345,7 @@ hostnames:
     - '(.*\.)?gitdevtool.com$'
     - '(.*\.)?biographyonline.net$'
     - '(.*\.)?nano.komputronik.pl$'
+    - '(.*\.)?streamingcommunity.broker$'
     - '(.*\.)?biographies.net$'
     - '(.*\.)?copyandpastesymbols.net$'
     - '(.*\.)?infoplease.com$'
