@@ -297,6 +297,7 @@ hostnames:
     - '(.*\.)?sproutvideo.com$'
     - '(.*\.)?communaute.ebay.fr$'
     - '(.*\.)?amazon.nl$'
+    - '(.*\.)?patternify.com$'
     - '(.*\.)?streamingcommunity.computer$'
     - '(.*\.)?endorphinbath.com$'
     - '(.*\.)?gitglance.vercel.app$'
