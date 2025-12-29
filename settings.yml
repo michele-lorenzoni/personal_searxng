@@ -307,6 +307,7 @@ hostnames:
     - '(.*\.)?emojigraph.org$'
     - '(.*\.)?emojihub.org$'
     - '(.*\.)?worldemojiawards.com$'
+    - '(.*\.)?invistanet.com.br$'
     - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?cb01.pizza$'
     - '(.*\.)?coderstats.net$'
