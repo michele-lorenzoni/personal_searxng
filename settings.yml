@@ -338,6 +338,7 @@ hostnames:
     - '(.*\.)?shecodes.io$'
     - '(.*\.)?mncollegedems.org$'
     - '(.*\.)?sabr.org$'
+    - '(.*\.)?scoutlife.org$'
     - '(.*\.)?textcompare.io$'
     - '(.*\.)?pastebin.freeswitch.org$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
