@@ -301,6 +301,7 @@ hostnames:
     - '(.*\.)?emojidictionary.emojifoundation.com$'
     - '(.*\.)?cineblog01.tattoo$'
     - '(.*\.)?devuurwerkhandel.nl$'
+    - '(.*\.)?busymombandworkouts.com$'
     - '(.*\.)?emojigraph.org$'
     - '(.*\.)?emojihub.org$'
     - '(.*\.)?worldemojiawards.com$'
