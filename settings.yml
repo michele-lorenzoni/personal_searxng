@@ -272,6 +272,7 @@ hostnames:
   remove:
     - '(.*\.)?getepic.com$'
     - '(.*\.)?genreadme.cloud$'
+    - '(.*\.)?screenrant.com$'
     - '(.*\.)?emojifinder.com$'
     - '(.*\.)?emojipicker.com$'
     - '(.*\.)?moviemeter.nl$'
