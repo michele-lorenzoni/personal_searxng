@@ -284,6 +284,7 @@ hostnames:
     - '(.*\.)?emojirepo.org$'
     - '(.*\.)?cinemalibero.city$'
     - '(.*\.)?fsymbols.com$'
+    - '(.*\.)?movieswatchfreeonline.com$'
     - '(.*\.)?books2ebooks.eu$'
     - '(.*\.)?amazon.nl$'
     - '(.*\.)?streamingcommunity.computer$'
