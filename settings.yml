@@ -313,6 +313,7 @@ hostnames:
     - '(.*\.)?tvprofil.com$'
     - '(.*\.)?ciakmagazine.it$'
     - '(.*\.)?oggiintv.eu$'
+    - '(.*\.)?zhidao.baidu.com$'
     - '(.*\.)?guida-tv.org$'
     - '(.*\.)?file.io$'
     - '(.*\.)?netflix-news.atsit.in$'
