@@ -294,6 +294,7 @@ hostnames:
     - '(.*\.)?sabr.org$'
     - '(.*\.)?textcompare.io$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
+    - '(.*\.)?cineblog01.tattoo$'
     - '(.*\.)?devuurwerkhandel.nl$'
     - '(.*\.)?emojigraph.org$'
     - '(.*\.)?emojihub.org$'
