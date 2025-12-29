@@ -296,6 +296,7 @@ hostnames:
     - '(.*\.)?mncollegedems.org$'
     - '(.*\.)?sabr.org$'
     - '(.*\.)?textcompare.io$'
+    - '(.*\.)?pastebin.freeswitch.org$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
     - '(.*\.)?cineblog01.tattoo$'
     - '(.*\.)?devuurwerkhandel.nl$'
