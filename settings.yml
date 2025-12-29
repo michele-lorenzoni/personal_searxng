@@ -314,6 +314,7 @@ hostnames:
     - '(.*\.)?kaomojikuma.com$'
     - '(.*\.)?blinki.fr$'
     - '(.*\.)?min2win.org$'
+    - '(.*\.)?streamingita.altadefinizione.ioch.org$'
     - '(.*\.)?wellgames.com$'
     - '(.*\.)?emojikeyboard.org$'
     - '(.*\.)?copyandpasteemoji.com$'
