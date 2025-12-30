@@ -494,6 +494,7 @@ hostnames:
     - '(.*\.)?github-stats.com$'
     - '(.*\.)?saclibrary.org'
     - '(.*\.)?gadgets360.com$'
+    - '(.*\.)?transfermyfile.com$'
     - '(.*\.)?thiings.co$'
     - '(.*\.)?uniteforliteracy.com$'
     - '(.*\.)?teamhackaday.com$'
