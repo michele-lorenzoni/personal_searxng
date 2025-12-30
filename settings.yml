@@ -312,6 +312,7 @@ hostnames:
     - '(.*\.)?amazon.nl$'
     - '(.*\.)?sewsweetness.com$'
     - '(.*\.)?e-gadgetify.com$'
+    - '(.*\.)?gadgetifyverse.com$'
     - '(.*\.)?patternify.com$'
     - '(.*\.)?streamingcommunity.computer$'
     - '(.*\.)?dropsend.com$'
