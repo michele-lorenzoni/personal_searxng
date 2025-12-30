@@ -394,6 +394,7 @@ hostnames:
     - '(.*\.)?eurostreaming.pet$'
     - '(.*\.)?colmeia.blog.br$'
     - '(.*\.)?biography.jrank.org$'
+    - '(.*\.)?snapdrop.net$'
     - '(.*\.)?jadwaltv.net$'
     - '(.*\.)?github-profile-gpt.vercel.app$'
     - '(.*\.)?emojibetekenis.nl$'
