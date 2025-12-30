@@ -311,6 +311,7 @@ hostnames:
     - '(.*\.)?streamingcommunityz.digital$'
     - '(.*\.)?scoutles.com$'
     - '(.*\.)?programmerhumor.io$'
+    - '(.*\.)?aliexpress.com$'
     - '(.*\.)?daily.dev$'
     - '(.*\.)?biographynyc.com$'
     - '(.*\.)?badges.mybluemix.net$'
