@@ -472,6 +472,7 @@ hostnames:
     - '(.*\.)?github-states-generator.vercel.app$'
     - '(.*\.)?boekenwereld.com$'
     - '(.*\.)?pinmaker.supercell.com$'
+    - '(.*\.)?getshared.com$'
     - '(.*\.)?libris.nl$'
     - '(.*\.)?letsreadasia.org$'
     - '(.*\.)?github-readme-maker.vercel.app$'
