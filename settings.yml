@@ -317,6 +317,7 @@ hostnames:
     - '(.*\.)?dropsend.com$'
     - '(.*\.)?endorphinbath.com$'
     - '(.*\.)?gitglance.vercel.app$'
+    - '(.*\.)?gadgetify-shop.de$'
     - '(.*\.)?streamingcommunityz.digital$'
     - '(.*\.)?scoutles.com$'
     - '(.*\.)?programmerhumor.io$'
