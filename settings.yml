@@ -400,6 +400,7 @@ hostnames:
     - '(.*\.)?cb01.pizza$'
     - '(.*\.)?thegadgetify.com$'
     - '(.*\.)?coderstats.net$'
+    - '(.*\.)?smartgadgetify.com$'
     - '(.*\.)?streamingcommunity.family$'
     - '(.*\.)?ilcorsaronero.link$'
     - '(.*\.)?makeemoji.com$'
