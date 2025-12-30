@@ -516,6 +516,7 @@ hostnames:
     - '(.*\.)?gospelebooks.net$'
     - '(.*\.)?broese.nl$'
     - '(.*\.)?ebooksgratuits.com$'
+    - '(.*\.)?sendfilestotv.app$'
     - '(.*\.)?peterpengnz.github.io$'
     - '(.*\.)?ebookdaily.com$'
     - '(.*\.)?365webresources.com$'
