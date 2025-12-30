@@ -367,6 +367,7 @@ hostnames:
     - '(.*\.)?sabr.org$'
     - '(.*\.)?scoutlife.org$'
     - '(.*\.)?textcompare.io$'
+    - '(.*\.)?scrappybook.com$'
     - '(.*\.)?pastebin.freeswitch.org$'
     - '(.*\.)?binky.nl$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
