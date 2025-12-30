@@ -336,6 +336,7 @@ hostnames:
     - '(.*\.)?ziggo.nl$'
     - '(.*\.)?tvprofil.com$'
     - '(.*\.)?ciakmagazine.it$'
+    - '(.*\.)?blinkies.eu$'
     - '(.*\.)?oggiintv.eu$'
     - '(.*\.)?zhidao.baidu.com$'
     - '(.*\.)?foodandwine.com$'
