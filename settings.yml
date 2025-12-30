@@ -317,6 +317,7 @@ hostnames:
     - '(.*\.)?streamingcommunity.computer$'
     - '(.*\.)?dropsend.com$'
     - '(.*\.)?endorphinbath.com$'
+    - '(.*\.)?gadgetify.info$'
     - '(.*\.)?gitglance.vercel.app$'
     - '(.*\.)?gadgetify-shop.de$'
     - '(.*\.)?streamingcommunityz.digital$'
