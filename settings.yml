@@ -431,6 +431,7 @@ hostnames:
     - '(.*\.)?genreadme.cloud$'
     - '(.*\.)?ggithubprofile.vercel.app$'
     - '(.*\.)?profileme.dev$'
+    - '(.*\.)?jennifermaker.com$'
     - '(.*\.)?gh-stats-gen.vercel.app$'
     - '(.*\.)?textemoji.org$'
     - '(.*\.)?emojicopy.com$'
