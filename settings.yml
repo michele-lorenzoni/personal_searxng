@@ -310,6 +310,7 @@ hostnames:
     - '(.*\.)?communaute.ebay.fr$'
     - '(.*\.)?cssscript.com$'
     - '(.*\.)?preveil.com$'
+    - '(.*\.)?madeintext.com$'
     - '(.*\.)?blinki.es$'
     - '(.*\.)?scoutsmarts.com$'
     - '(.*\.)?amazon.nl$'
