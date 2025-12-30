@@ -357,6 +357,7 @@ hostnames:
     - '(.*\.)?scoutlife.org$'
     - '(.*\.)?textcompare.io$'
     - '(.*\.)?pastebin.freeswitch.org$'
+    - '(.*\.)?binky.nl$'
     - '(.*\.)?emojidictionary.emojifoundation.com$'
     - '(.*\.)?bestpractices.dev$'
     - '(.*\.)?metacritic.com$'
