@@ -320,6 +320,7 @@ hostnames:
     - '(.*\.)?slashfilm.com$'
     - '(.*\.)?boxshadow.csscraftr.com$'
     - '(.*\.)?adessoin.tv$'
+    - '(.*\.)?blip.net$'
     - '(.*\.)?1337x.to$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?oggiintv.kaleidosstudio.com$'
