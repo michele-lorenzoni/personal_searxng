@@ -517,6 +517,7 @@ hostnames:
     - '(.*\.)?ebooks.edu.gr$'
     - '(.*\.)?transrealbooks.com$'
     - '(.*\.)?bright.nl$'
+    - '(.*\.)?hightail.com$'
     - '(.*\.)?myebooks.mheducation.com$'
     - '(.*\.)?mybard.com$'
     - '(.*\.)?technave.com$'
