@@ -293,6 +293,7 @@ hostnames:
     - '(.*\.)?summerlandfestival.it$'
     - '(.*\.)?random.css-pattern.com$'
     - '(.*\.)?juststickers.in$'
+    - '(.*\.)?liquidfiles.com$'
     - '(.*\.)?cinemalibero.city$'
     - '(.*\.)?today.it$'
     - '(.*\.)?thesoftwareguild.com$'
