@@ -286,6 +286,7 @@ hostnames:
     - '(.*\.)?cssgenerator.org$'
     - '(.*\.)?readme.linderhassinger.dev$'
     - '(.*\.)?streamingcommunityz.fun$'
+    - '(.*\.)?gadgetifyuk.com$'
     - '(.*\.)?spolecznosc.ing.pl$'
     - '(.*\.)?staseraintv.com$'
     - '(.*\.)?gadgetifyofficial.com$'
