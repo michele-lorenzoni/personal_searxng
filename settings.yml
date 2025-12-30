@@ -392,6 +392,7 @@ hostnames:
     - '(.*\.)?emojihub.org$'
     - '(.*\.)?blinkiescosmetics.com$'
     - '(.*\.)?worldemojiawards.com$'
+    - '(.*\.)?gadgetifyworld.com$'
     - '(.*\.)?invistanet.com.br$'
     - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?cb01.pizza$'
