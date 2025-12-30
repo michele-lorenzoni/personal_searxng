@@ -279,6 +279,7 @@ hostnames:
     - '(.*\.)?box-shadow.art$'
     - '(.*\.)?imprintplus.com$'
     - '(.*\.)?streamingcommunityz.email$'
+    - '(.*\.)?devdonut.com$'
     - '(.*\.)?televideoteca.it$'
     - '(.*\.)?pathtoeagle.org$'
     - '(.*\.)?prezo.jp$'
