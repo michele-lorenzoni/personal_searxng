@@ -339,6 +339,7 @@ hostnames:
     - '(.*\.)?1337x.to$'
     - '(.*\.)?githubprofile.com$'
     - '(.*\.)?oggiintv.kaleidosstudio.com$'
+    - '(.*\.)?aiart.pics$'
     - '(.*\.)?robadadonne.it$'
     - '(.*\.)?tv.zam.it$'
     - '(.*\.)?sendvid.com$'
