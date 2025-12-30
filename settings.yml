@@ -308,6 +308,7 @@ hostnames:
     - '(.*\.)?blinki.es$'
     - '(.*\.)?scoutsmarts.com$'
     - '(.*\.)?amazon.nl$'
+    - '(.*\.)?sewsweetness.com$'
     - '(.*\.)?patternify.com$'
     - '(.*\.)?streamingcommunity.computer$'
     - '(.*\.)?dropsend.com$'
