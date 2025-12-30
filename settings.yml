@@ -418,6 +418,7 @@ hostnames:
     - '(.*\.)?hisoftsroll.web.app$'
     - '(.*\.)?waltsbeefjerky.net$'
     - '(.*\.)?programmazionetv.com$'
+    - '(.*\.)?thegadgetify.in$'
     - '(.*\.)?glianni80.com$'
     - '(.*\.)?awesome-github-readme-profile.netlify.app$'
     - '(.*\.)?caseconverter.tools$'
