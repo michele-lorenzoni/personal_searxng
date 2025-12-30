@@ -393,6 +393,7 @@ hostnames:
     - '(.*\.)?invistanet.com.br$'
     - '(.*\.)?worldemojiday.com$'
     - '(.*\.)?cb01.pizza$'
+    - '(.*\.)?thegadgetify.com$'
     - '(.*\.)?coderstats.net$'
     - '(.*\.)?streamingcommunity.family$'
     - '(.*\.)?ilcorsaronero.link$'
