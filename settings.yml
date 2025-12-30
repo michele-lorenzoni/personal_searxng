@@ -354,6 +354,7 @@ hostnames:
     - '(.*\.)?guida-tv.org$'
     - '(.*\.)?de.bing.com$'
     - '(.*\.)?filetransfer.uvm.edu$'
+    - '(.*\.)?fasttech.xyz$'
     - '(.*\.)?dotbadges.com$'
     - '(.*\.)?file.io$'
     - '(.*\.)?netflix-news.atsit.in$'
