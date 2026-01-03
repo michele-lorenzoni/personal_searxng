@@ -184,3 +184,7 @@ body {
 #links_on_top a svg {
 	margin: 0 !important;
 }
+
+.result .altlink a {
+	border-radius: 0 !important;
+}
