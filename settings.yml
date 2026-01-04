@@ -270,6 +270,7 @@ hostnames:
 #     '(.*\.)?redd\.it$': 'teddit.example.com'
 #     '(www\.)?twitter\.com$': 'nitter.example.com'
   remove:
+    - '(.*\.)?asianpornmovies.com$'
     - '(.*\.)?ibrameble.pl$'
     - '(.*\.)?japaneseporn.xxx$'
     - '(.*\.)?jable.tv$'
