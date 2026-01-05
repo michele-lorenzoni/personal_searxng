@@ -271,7 +271,7 @@ hostnames:
 #     '(www\.)?twitter\.com$': 'nitter.example.com'
   remove:
     - '(.*\.)?accounts.google.nl$'
-    - '(.*\.)thecoolist.com$'
+    - '(.*\.)?thecoolist.com$'
     - '(.*\.)?behr.com$'
     - '(.*\.)?milliehartinteriors.com$'
     - '(.*\.)?havenly.com$'
