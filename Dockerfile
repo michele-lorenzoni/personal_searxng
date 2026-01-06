@@ -3,6 +3,7 @@ FROM searxng/searxng:latest
 COPY settings.yml /etc/searxng/settings.yml
 
 COPY searx/templates/static/themes/simple/highlight.css /usr/local/searxng/searx/static/themes/simple/highlight.css
+COPY searx/templates/simple/base_index.html /usr/local/searxng/searx/templates/simple/base_index.html
 COPY searx/templates/simple/index.html /usr/local/searxng/searx/templates/simple/index.html
 COPY searx/templates/simple/results.html /usr/local/searxng/searx/templates/simple/results.html
 COPY searx/templates/simple/icons.html /usr/local/searxng/searx/templates/simple/icons.html
