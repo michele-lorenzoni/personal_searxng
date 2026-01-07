@@ -1,2767 +1,2767 @@
-    - '(.*\.)?onaircode.com$'
-    - '(.*\.)?javatpoint.com$'
-    - '(.*\.)?foolishdeveloper.com$'
-    - '(.*\.)?developerdrive.com$'
-    - '(.*\.)?filext.com$'
-    - '(.*\.)?logos-world.net$'
-    - '(.*\.)?logosdown.com$'
-    - '(.*\.)?brandlogos.net$'
-    - '(.*\.)?baidu.com$'
-    - '(.*\.)?getdrawings.com$'
-    - '(.*\.)?vectorportal.com$'
-    - '(.*\.)?tt-hardware.com$'
-    - '(.*\.)?logoclothingshop.com$'
-    - '(.*\.)?logoadvantage.com$'
-    - '(.*\.)?84lumber.com$'
-    - '(.*\.)?shirttuning.nl$'
-    - '(.*\.)?logosoftwear.com$'
-    - '(.*\.)?logofactoryusa.com$'
-    - '(.*\.)?johnstonelogoshop.com$'
-    - '(.*\.)?zkraft.io$'
-    - '(.*\.)?logologo.nl$'
-    - '(.*\.)?logobedrukken.nl$'
-    - '(.*\.)?mylogoshop.com$'
-    - '(.*\.)?logo-shop.nl$'
-    - '(.*\.)?thelogoshoppeonline.com$'
-    - '(.*\.)?logoai.ai$'
-    - '(.*\.)?logovtor.com$'
-    - '(.*\.)?svgai.org$'
-    - '(.*\.)?commercetools.com$'
-    - '(.*\.)?s-hertogenbosch.nl$'
-    - '(.*\.)?snapchat.com$'
-    - '(.*\.)?tinhte.vn$'
-    - '(.*\.)?kooora.com$'
-    - '(.*\.)?xlog.ajiang.fun$'
-    - '(.*\.)?darwinexzero.com$'
-    - '(.*\.)?toolpars.com$'
-    - '(.*\.)?trxtraining.com$'
-    - '(.*\.)?allocorrecteur.fr$'
-    - '(.*\.)?trx-mine.pro$'
-    - '(.*\.)?trxboost.online$'
-    - '(.*\.)?easytrx.net$'
-    - '(.*\.)?trxearn.com$'
-    - '(.*\.)?webcli.jp$'
-    - '(.*\.)?teknoverimlilik.com.tr$'
-    - '(.*\.)?byggahus.se$'
-    - '(.*\.)?metricool.app$'
-    - '(.*\.)?digiter.pl$'
-    - '(.*\.)?wtvr.com$'
-    - '(.*\.)?fortnite.com$'
-    - '(.*\.)?zywvvd.com$'
-    - '(.*\.)?trtltravel.com$'
-    - '(.*\.)?freemindtraining.nl$'
-    - '(.*\.)?aigraphmaker.net$'
-    - '(.*\.)?freemind.nl$'
-    - '(.*\.)?freemindtool.com$'
-    - '(.*\.)?mindmapmaker.net$'
-    - '(.*\.)?mindmapai.app$'
-    - '(.*\.)?whimsical.com$'
-    - '(.*\.)?mindomo.com$'
-    - '(.*\.)?creately.com$'
-    - '(.*\.)?processon.io$'
-    - '(.*\.)?mimind.cryptobees.com$'
-    - '(.*\.)?edrawmind.com$'
-    - '(.*\.)?mindmapping.com$'
-    - '(.*\.)?mapify.so$'
-    - '(.*\.)?lequipe.fr$'
-    - '(.*\.)?m.check24.de$'
-    - '(.*\.)?turtl.com$'
-    - '(.*\.)?turtl.nl$'
-    - '(.*\.)?jvh-puzzels.nl$'
-    - '(.*\.)?dktig.de$'
-    - '(.*\.)?streemit.com$'
-    - '(.*\.)?google.nl$'
-    - '(.*\.)?accounts.google.nl$'
-    - '(.*\.)?thecoolist.com$'
-    - '(.*\.)?behr.com$'
-    - '(.*\.)?milliehartinteriors.com$'
-    - '(.*\.)?havenly.com$'
-    - '(.*\.)?digitalsynopsis.com$'
-    - '(.*\.)?tsukurue.com$'
-    - '(.*\.)?purecode.ai$'
-    - '(.*\.)?streamingwebsites.com$'
-    - '(.*\.)?retrocrush.tv$'
-    - '(.*\.)?ani.me$'
-    - '(.*\.)?welcome.hidive.com$'
-    - '(.*\.)?animotaku.fr$'
-    - '(.*\.)?battleon.com$'
-    - '(.*\.)?bestofreactjs.com$'
-    - '(.*\.)?cherrytree.app$'
-    - '(.*\.)?cherrytreemusiccompany.com$'
-    - '(.*\.)?unidformazione.com$'
-    - '(.*\.)?t23m-navi.jp$'
-    - '(.*\.)?google.com.ai$'
-    - '(.*\.)?y8.com$'
-    - '(.*\.)?matematicafacile.it$'
-    - '(.*\.)?mathone.it$'
-    - '(.*\.)?wheree.com$'
-    - '(.*\.)?numeriprimi.it$'
-    - '(.*\.)?matematica.ch$'
-    - '(.*\.)?inumeriprimi.com$'
-    - '(.*\.)?numeri-primi.wheree.com$'
-    - '(.*\.)?numeriprimi.org$'
-    - '(.*\.)?flashscore.com$'
-    - '(.*\.)?pomoc.poczta.interia.pl$'
-    - '(.*\.)?smallsteps1.com$'
-    - '(.*\.)?smallsteps.org.nz$'
-    - '(.*\.)?htw-berlin.de$'
-    - '(.*\.)?imgtotext.org$'
-    - '(.*\.)?mergify.app$'
-    - '(.*\.)?archiveapp.org$'
-    - '(.*\.)?filmtheater-gerrit.nl$'
-    - '(.*\.)?chisel.com$'
-    - '(.*\.)?technicalustad.com$'
-    - '(.*\.)?alternative.me$'
-    - '(.*\.)?ajel.sa$'
-    - '(.*\.)?npack.kr$'
-    - '(.*\.)?npack.eu$'
-    - '(.*\.)?koreansrb.com$'
-    - '(.*\.)?asianpornmovies.com$'
-    - '(.*\.)?ibrameble.pl$'
-    - '(.*\.)?japaneseporn.xxx$'
-    - '(.*\.)?jable.tv$'
-    - '(.*\.)?777.porn$'
-    - '(.*\.)?asianotube.com$'
-    - '(.*\.)?xasiat.com$'
-    - '(.*\.)?augredelinstant.fr$'
-    - '(.*\.)?gratissoftwaresite.nl$'
-    - '(.*\.)?peazip.com$'
-    - '(.*\.)?maeva.com$'
-    - '(.*\.)?pea-japan.com$'
-    - '(.*\.)?satsuki.fr$'
-    - '(.*\.)?futurewoods.co.jp$'
-    - '(.*\.)?pandia.com$'
-    - '(.*\.)?alchetron.com$'
-    - '(.*\.)?moosoft.com$'
-    - '(.*\.)?fileion.com$'
-    - '(.*\.)?apponic.com$'
-    - '(.*\.)?lo4d.com$'
-    - '(.*\.)?macupdate.com$'
-    - '(.*\.)?9k9k.com$'
-    - '(.*\.)?javahihi.net$'
-    - '(.*\.)?robfauls.com$'
-    - '(.*\.)?freelogo.me$'
-    - '(.*\.)?wux.nl$'
-    - '(.*\.)?cruip.com$'
-    - '(.*\.)?logomaker.net$'
-    - '(.*\.)?snoweb-svg.com$'
-    - '(.*\.)?animista.net$'
-    - '(.*\.)?pdfencrypt.net$'
-    - '(.*\.)?apprentissage-virtuel.com$'
-    - '(.*\.)?medevel.com$'
-    - '(.*\.)?sis.mancosa.co.za$'
-    - '(.*\.)?codingislove.com$'
-    - '(.*\.)?topbestalternatives.com$'
-    - '(.*\.)?sitelike.org$'
-    - '(.*\.)?fatihex.dev$'
-    - '(.*\.)?avatarly.ai$'
-    - '(.*\.)?avatar.com$'
-    - '(.*\.)?ipaddress.com$'
-    - '(.*\.)?litecoin-earning.com$'
-    - '(.*\.)?litecoinrewards.click$'
-    - '(.*\.)?cointiply.com$'
-    - '(.*\.)?liteking.io$'
-    - '(.*\.)?litepick.io$'
-    - '(.*\.)?ferge.io$'
-    - '(.*\.)?stuhlfabrik-herisau.ch$'
-    - '(.*\.)?nfts.nl$'
-    - '(.*\.)?npo.nl$'
-    - '(.*\.)?demodernenomaden.nl$'
-    - '(.*\.)?beleggingsinstituut.nl$'
-    - '(.*\.)?pdf2go.com$'
-    - '(.*\.)?nft.paniniamerica.net$'
-    - '(.*\.)?nftinc.com$'
-    - '(.*\.)?nftnow.com$'
-    - '(.*\.)?nbatopshot.com$'
-    - '(.*\.)?nft.nl$'
-    - '(.*\.)?kaspersky.nl$'
-    - '(.*\.)?yahoo.co.jp$'
-    - '(.*\.)?z-lib.my$'
-    - '(.*\.)?namu.wiki$'
-    - '(.*\.)?z-lib.org$'
-    - '(.*\.)?zlibrary.pro$'
-    - '(.*\.)?zlibrary.io$'
-    - '(.*\.)?z-libraryurl.github.io$'
-    - '(.*\.)?zlibrary.biz$'
-    - '(.*\.)?zlibrary.vip$'
-    - '(.*\.)?librarygenesis.net$'
-    - '(.*\.)?zlibr.com$'
-    - '(.*\.)?updf.com$'
-    - '(.*\.)?primeinsider.co.uk$'
-    - '(.*\.)?z-lib.freedown.io$'
-    - '(.*\.)?z-library.com$'
-    - '(.*\.)?z-library.ltd$'
-    - '(.*\.)?blender-mcp.com$'
-    - '(.*\.)?blender-responsive.vercel.app$'
-    - '(.*\.)?beanstalkim.com$'
-    - '(.*\.)?beanstalk.farm$'
-    - '(.*\.)?beanstalk.nl$'
-    - '(.*\.)?fr.bing.com$'
-    - '(.*\.)?pastebin.es$'
-    - '(.*\.)?pastebin.calculate-linux.org$'
-    - '(.*\.)?pastebin.com$'
-    - '(.*\.)?pastebin.me$'
-    - '(.*\.)?pastefy.app$'
-    - '(.*\.)?text.is$'
-    - '(.*\.)?filepastebin.com$'
-    - '(.*\.)?pastebin.jonasscholz.de$'
-    - '(.*\.)?pastes.io$'
-    - '(.*\.)?pastebin.co$'
-    - '(.*\.)?pastebin.pl$'
-    - '(.*\.)?pasteit.sh$'
-    - '(.*\.)?paste-bin.org$'
-    - '(.*\.)?avis-situation-sirene.insee.fr$'
-    - '(.*\.)?distrowiz.com$'
-    - '(.*\.)?mde.tw$'
-    - '(.*\.)?fossil-scm.com$'
-    - '(.*\.)?ptt.cc$'
-    - '(.*\.)?techdator.net$'
-    - '(.*\.)?racing.ustrotting.com$'
-    - '(.*\.)?napoleoncasino.de$'
-    - '(.*\.)?gitea.cn$'
-    - '(.*\.)?opennet.ru$'
-    - '(.*\.)?tistory.com$'
-    - '(.*\.)?avatarmake.com$'
-    - '(.*\.)?kravatar.com$'
-    - '(.*\.)?heygen.com$'
-    - '(.*\.)?imagetocartoon.com$'
-    - '(.*\.)?avatargenerator.com$'
-    - '(.*\.)?opencharacter.org$'
-    - '(.*\.)?colossyan.com$'
-    - '(.*\.)?giz.ai$'
-    - '(.*\.)?onlineavatargenerator.com$'
-    - '(.*\.)?vroid.com$'
-    - '(.*\.)?avatarifyme.com$'
-    - '(.*\.)?secondlife.com$'
-    - '(.*\.)?mangoanimate.com$'
-    - '(.*\.)?promli.com$'
-    - '(.*\.)?ai.nero.com$'
-    - '(.*\.)?deep-image.ai$'
-    - '(.*\.)?topview.ai$'
-    - '(.*\.)?pippit.ai$'
-    - '(.*\.)?dolldivine.com$'
-    - '(.*\.)?hyper3d.ai$'
-    - '(.*\.)?jogg.ai$'
-    - '(.*\.)?fluxai.art$'
-    - '(.*\.)?youphoto.ai$'
-    - '(.*\.)?cartoonify.de$'
-    - '(.*\.)?vanceai.com$'
-    - '(.*\.)?ocmaker.net$'
-    - '(.*\.)?nerdiedad.com$'
-    - '(.*\.)?smartavatar.net$'
-    - '(.*\.)?pollo.ai$'
-    - '(.*\.)?aiavatar.com$'
-    - '(.*\.)?app.artflow.ai$'
-    - '(.*\.)?avatarmaker.net$'
-    - '(.*\.)?avatar-generator.com$'
-    - '(.*\.)?avatoon.me$'
-    - '(.*\.)?perchance.org$'
-    - '(.*\.)?avatar.viverse.com$'
-    - '(.*\.)?meiker.io$'
-    - '(.*\.)?starryai.com$'
-    - '(.*\.)?artguru.ai$'
-    - '(.*\.)?artcreate.ai$'
-    - '(.*\.)?typecast.ai$'
-    - '(.*\.)?powtoon.com$'
-    - '(.*\.)?vk.com$'
-    - '(.*\.)?face.co$'
-    - '(.*\.)?picrew.me$'
-    - '(.*\.)?vidnoz.com$'
-    - '(.*\.)?animaker.com$'
-    - '(.*\.)?ai-avatar-generator-clone.bubbleapps.io$'
-    - '(.*\.)?animaze.us$'
-    - '(.*\.)?doppelme.com$'
-    - '(.*\.)?ai-avatar-generator.com$'
-    - '(.*\.)?readyplayer.me$'
-    - '(.*\.)?gan.ai$'
-    - '(.*\.)?invideo.io$'
-    - '(.*\.)?aistudios.com$'
-    - '(.*\.)?charactercreator.org$'
-    - '(.*\.)?toki.ai$'
-    - '(.*\.)?monica.im$'
-    - '(.*\.)?descript.com$'
-    - '(.*\.)?synthesia.io$'
-    - '(.*\.)?yollo.ai$'
-    - '(.*\.)?notion-avatar.app$'
-    - '(.*\.)?bylo.ai$'
-    - '(.*\.)?deevid.ai$'
-    - '(.*\.)?avatarmaker.com$'
-    - '(.*\.)?jingyan.baidu.com$'
-    - '(.*\.)?strato.de$'
-    - '(.*\.)?dockerhub.com$'
-    - '(.*\.)?translate.google.de$'
-    - '(.*\.)?axenov.dev$'
-    - '(.*\.)?salla.com$'
-    - '(.*\.)?rakuya.com.tw$'
-    - '(.*\.)?ipfs.com$'
-    - '(.*\.)?hostnextra.com$'
-    - '(.*\.)?puretables.com$'
-    - '(.*\.)?starfall.com$'
-    - '(.*\.)?alphabetbags.com$'
-    - '(.*\.)?01net.it$'
-    - '(.*\.)?1onlyhost.com$'
-    - '(.*\.)?3axis.co$'
-    - '(.*\.)?3dgifmaker.com$'
-    - '(.*\.)?3dicons.co$'
-    - '(.*\.)?3disometricicon.com$'
-    - '(.*\.)?3dlogo.site$'
-    - '(.*\.)?3dlogolab.io$'
-    - '(.*\.)?3movs.com$'
-    - '(.*\.)?4easysoft.com$'
-    - '(.*\.)?4kwallpapers.com$'
-    - '(.*\.)?4sysops.com$'
-    - '(.*\.)?4tube.com$'
-    - '(.*\.)?6sigma.us$'
-    - '(.*\.)?9mod.com$'
-    - '(.*\.)?10wallpaper.com$'
-    - '(.*\.)?18teenporno.tv$'
-    - '(.*\.)?24gen.ai$'
-    - '(.*\.)?24xxx.porn$'
-    - '(.*\.)?32r.com$'
-    - '(.*\.)?66colorful.com$'
-    - '(.*\.)?66wz.com$'
-    - '(.*\.)?123dok.org$'
-    - '(.*\.)?123freebook.com$'
-    - '(.*\.)?123freevectors.com$'
-    - '(.*\.)?123rf.com$'
-    - '(.*\.)?365webresources.com$'
-    - '(.*\.)?1000fonts.com$'
-    - '(.*\.)?1000logos.net$'
-    - '(.*\.)?1001fonts.com$'
-    - '(.*\.)?1337x.st$'
-    - '(.*\.)?1337x.to$'
-    - '(.*\.)?2003.jres.org$'
-    - '(.*\.)?10015.io$'
-    - '(.*\.)?aadisol.in$'
-    - '(.*\.)?abc7.com$'
-    - '(.*\.)?abcya.com$'
-    - '(.*\.)?abeka.com$'
-    - '(.*\.)?abiresearch.com$'
-    - '(.*\.)?ac-illust.com$'
-    - '(.*\.)?adamtheautomator.com$'
-    - '(.*\.)?addlance.com$'
-    - '(.*\.)?adeptclippingpath.com$'
-    - '(.*\.)?adessoin.tv$'
-    - '(.*\.)?adottaunangelo.it$'
-    - '(.*\.)?adulttime.com$'
-    - '(.*\.)?advanced-percentage-calculator.com$'
-    - '(.*\.)?aebn.com$'
-    - '(.*\.)?aestheticwallpapers.io$'
-    - '(.*\.)?afontgenerator.com$'
-    - '(.*\.)?ahaemoji.com$'
-    - '(.*\.)?ai-know.pro$'
-    - '(.*\.)?aiart.pics$'
-    - '(.*\.)?aiarty.com$'
-    - '(.*\.)?aiease.ai$'
-    - '(.*\.)?aienhancer.ai$'
-    - '(.*\.)?aiimageanalyzer.online$'
-    - '(.*\.)?aiimageeditor.ai$'
-    - '(.*\.)?ailogomaker.io$'
-    - '(.*\.)?ailogomakerr.com$'
-    - '(.*\.)?ainanabanana.com$'
-    - '(.*\.)?aipdfconvert.com$'
-    - '(.*\.)?akulakreative.com$'
-    - '(.*\.)?alaqeeq.edu.jo$'
-    - '(.*\.)?albertovalerio.com$'
-    - '(.*\.)?alcumus.com$'
-    - '(.*\.)?alcumus.org$'
-    - '(.*\.)?alexpozo.com$'
-    - '(.*\.)?algolia.com$'
-    - '(.*\.)?alibaba.com$'
-    - '(.*\.)?aliexpress.com$'
-    - '(.*\.)?all-free-download.com$'
-    - '(.*\.)?allfreefonts.co$'
-    - '(.*\.)?alltechnerd.com$'
-    - '(.*\.)?allthings.how$'
-    - '(.*\.)?alohatube.com$'
-    - '(.*\.)?alphabetize.org$'
-    - '(.*\.)?alphabetizer.flap.tv$'
-    - '(.*\.)?alphacoders.com$'
-    - '(.*\.)?alphaporno.com$'
-    - '(.*\.)?altadefinizione.bet$'
-    - '(.*\.)?altadefinizione.bio$'
-    - '(.*\.)?aluracursos.com$'
-    - '(.*\.)?amass.com$'
-    - '(.*\.)?amaturetube.com$'
-    - '(.*\.)?amazingalgorithms.com$'
-    - '(.*\.)?amazon.de$'
-    - '(.*\.)?amazon.fr$'
-    - '(.*\.)?amazon.in$'
-    - '(.*\.)?amazon.nl$'
-    - '(.*\.)?americanenglishsounds.net$'
-    - '(.*\.)?amtrak.com$'
-    - '(.*\.)?analysispro.com$'
-    - '(.*\.)?analyticsinsight.net$'
-    - '(.*\.)?andreaelectronics.com$'
-    - '(.*\.)?andrealuizari.com$'
-    - '(.*\.)?androidauthority.com$'
-    - '(.*\.)?androidride.com$'
-    - '(.*\.)?angrytools.com$'
-    - '(.*\.)?animate-ui.com$'
-    - '(.*\.)?aniwatchtv.to$'
-    - '(.*\.)?annporter.wordpress.com$'
-    - '(.*\.)?anquanke.com$'
-    - '(.*\.)?ant.design$'
-    - '(.*\.)?anthropics.com$'
-    - '(.*\.)?antifavicon.com$'
-    - '(.*\.)?antlionaudio.com$'
-    - '(.*\.)?antmedia.io$'
-    - '(.*\.)?anybunny.org$'
-    - '(.*\.)?anymaking.com$'
-    - '(.*\.)?anymp4.com$'
-    - '(.*\.)?anytools.pro$'
-    - '(.*\.)?apono.io$'
-    - '(.*\.)?appimagehub.com$'
-    - '(.*\.)?apple.com$'
-    - '(.*\.)?apps.microsoft.com$'
-    - '(.*\.)?appscanme.com$'
-    - '(.*\.)?appvizer.it$'
-    - '(.*\.)?appypie.com$'
-    - '(.*\.)?aranzulla.it$'
-    - '(.*\.)?arkansasalumni.org$'
-    - '(.*\.)?arkthinker.com$'
-    - '(.*\.)?armandah.itch.io$'
-    - '(.*\.)?artincontext.org$'
-    - '(.*\.)?artisttilldeath.com$'
-    - '(.*\.)?artivive.com$'
-    - '(.*\.)?artsmart.ai$'
-    - '(.*\.)?aschnerhof.com$'
-    - '(.*\.)?asciiartwork.com$'
-    - '(.*\.)?askastrology.com$'
-    - '(.*\.)?assoass.com$'
-    - '(.*\.)?astro-electronic.de$'
-    - '(.*\.)?astroarunpandit.org$'
-    - '(.*\.)?astrologuias.com$'
-    - '(.*\.)?astrologyanswers.com$'
-    - '(.*\.)?astromitra.com$'
-    - '(.*\.)?astronumero.org$'
-    - '(.*\.)?astronymero.com$'
-    - '(.*\.)?astrosage.com$'
-    - '(.*\.)?astrostyle.com$'
-    - '(.*\.)?astrotalk.com$'
-    - '(.*\.)?astroyogi.com$'
-    - '(.*\.)?atbashcipher.com$'
-    - '(.*\.)?atmos.style$'
-    - '(.*\.)?attackdefense.pentesteracademy.com$'
-    - '(.*\.)?audo.ai$'
-    - '(.*\.)?autospf.com$'
-    - '(.*\.)?avast.com$'
-    - '(.*\.)?averagelinuxuser.com$'
-    - '(.*\.)?avmedia.0voice.com$'
-    - '(.*\.)?avn.com$'
-    - '(.*\.)?avrebo.com$'
-    - '(.*\.)?awesome-github-readme-profile.netlify.app$'
-    - '(.*\.)?awesome-loaders.netlify.app$'
-    - '(.*\.)?awesomegithub.web.app$'
-    - '(.*\.)?ayoa.com$'
-    - '(.*\.)?azconversion.com$'
-    - '(.*\.)?babesource.com$'
-    - '(.*\.)?backiee.com$'
-    - '(.*\.)?badg.us$'
-    - '(.*\.)?badges.mybluemix.net$'
-    - '(.*\.)?baggu.com$'
-    - '(.*\.)?baiadellaconoscenza.com$'
-    - '(.*\.)?baltimoreravens.com$'
-    - '(.*\.)?bananananapud.com$'
-    - '(.*\.)?bandicam.com$'
-    - '(.*\.)?bang.com$'
-    - '(.*\.)?base64-decode-encode.net$'
-    - '(.*\.)?base64.online$'
-    - '(.*\.)?base64decode.net$'
-    - '(.*\.)?base64decode.tools$'
-    - '(.*\.)?bashcommands.com$'
-    - '(.*\.)?bashpromptgenerator.blogspot.com$'
-    - '(.*\.)?batchtools.pro$'
-    - '(.*\.)?beatsnoop.com$'
-    - '(.*\.)?beebom.com$'
-    - '(.*\.)?beeg.com$'
-    - '(.*\.)?beeg.porn$'
-    - '(.*\.)?beegsex.it.com$'
-    - '(.*\.)?befonts.com$'
-    - '(.*\.)?bellesa.co$'
-    - '(.*\.)?bengals.com$'
-    - '(.*\.)?bentopdf.bpsnttapp.com$'
-    - '(.*\.)?bergdesign.com$'
-    - '(.*\.)?bergfex.com$'
-    - '(.*\.)?bestebooksworld.com$'
-    - '(.*\.)?bestelvuurwerk.nl$'
-    - '(.*\.)?bestpractices.dev$'
-    - '(.*\.)?bestwifianalyzer.com$'
-    - '(.*\.)?betterterminal.com$'
-    - '(.*\.)?bezkoder.com$'
-    - '(.*\.)?bhg.com$'
-    - '(.*\.)?bibliotheekaanzet.nl$'
-    - '(.*\.)?bibmath.net$'
-    - '(.*\.)?bigboobs.xxx$'
-    - '(.*\.)?bigfuck.tv$'
-    - '(.*\.)?bilibili.com$'
-    - '(.*\.)?binky.nl$'
-    - '(.*\.)?biografiasyvidas.com$'
-    - '(.*\.)?biographies.net$'
-    - '(.*\.)?biography.jrank.org$'
-    - '(.*\.)?biographynyc.com$'
-    - '(.*\.)?biographyonline.net$'
-    - '(.*\.)?bitmoji.com$'
-    - '(.*\.)?bitstudio.ai$'
-    - '(.*\.)?blacked.com$'
-    - '(.*\.)?blackhackertools.com$'
-    - '(.*\.)?blackillustrations.com$'
-    - '(.*\.)?blazor.radzen.com$'
-    - '(.*\.)?blinki.es$'
-    - '(.*\.)?blinki.fr$'
-    - '(.*\.)?blinkies.eu$'
-    - '(.*\.)?blinkies.pl$'
-    - '(.*\.)?blinkiescosmetics.com$'
-    - '(.*\.)?blinkieseec.com.au$'
-    - '(.*\.)?blinkysbar.com$'
-    - '(.*\.)?blip.net$'
-    - '(.*\.)?blockbench.org$'
-    - '(.*\.)?blockmodels.com$'
-    - '(.*\.)?blog.chickabug.com$'
-    - '(.*\.)?bluecatnetworks.com$'
-    - '(.*\.)?bluewindlab.net$'
-    - '(.*\.)?bmw-m.com$'
-    - '(.*\.)?bmw.com$'
-    - '(.*\.)?bnbicons.com$'
-    - '(.*\.)?bnsf.com$'
-    - '(.*\.)?bobbyhadz.com$'
-    - '(.*\.)?bodymind-integration.com$'
-    - '(.*\.)?boekenwereld.com$'
-    - '(.*\.)?boitatech.com.br$'
-    - '(.*\.)?boldvoice.com$'
-    - '(.*\.)?book-for-dessa.blogspot.com$'
-    - '(.*\.)?bookauthority.org$'
-    - '(.*\.)?bookboon.com$'
-    - '(.*\.)?bookchoice.com$'
-    - '(.*\.)?bookcreator.com$'
-    - '(.*\.)?bookfordessterxxs.blogspot.com$'
-    - '(.*\.)?bookkajsdqweasdbqjwej.blogspot.com$'
-    - '(.*\.)?booknook.biz$'
-    - '(.*\.)?books2ebooks.eu$'
-    - '(.*\.)?booksamillion.com$'
-    - '(.*\.)?bookshelf.vitalsource.com$'
-    - '(.*\.)?bouncyballs.org$'
-    - '(.*\.)?box-shadow.art$'
-    - '(.*\.)?box-shadow.dev$'
-    - '(.*\.)?box-shadows.co$'
-    - '(.*\.)?boxicons.com$'
-    - '(.*\.)?boxshadow.csscraftr.com$'
-    - '(.*\.)?boxshadows.com$'
-    - '(.*\.)?brandmark.io$'
-    - '(.*\.)?brazzers.com$'
-    - '(.*\.)?brazzers.xxx$'
-    - '(.*\.)?brew.sh$'
-    - '(.*\.)?bright.nl$'
-    - '(.*\.)?brightmarbles.io$'
-    - '(.*\.)?brittanyavenue.com$'
-    - '(.*\.)?broese.nl$'
-    - '(.*\.)?broncosports.com$'
-    - '(.*\.)?browsee.io$'
-    - '(.*\.)?browzwear.com$'
-    - '(.*\.)?brscenic.com$'
-    - '(.*\.)?bruna.nl$'
-    - '(.*\.)?brusheezy.com$'
-    - '(.*\.)?btsav-galois.com$'
-    - '(.*\.)?buccaneers.com$'
-    - '(.*\.)?buddhaandkarma.com$'
-    - '(.*\.)?buff.game$'
-    - '(.*\.)?buffalobills.com$'
-    - '(.*\.)?bulletd.com$'
-    - '(.*\.)?bustybus.com$'
-    - '(.*\.)?bustyworld.com$'
-    - '(.*\.)?busuu.com$'
-    - '(.*\.)?busymombandworkouts.com$'
-    - '(.*\.)?buttercms.com$'
-    - '(.*\.)?buy-keys.com$'
-    - '(.*\.)?bvmresort.com$'
-    - '(.*\.)?byjus.com$'
-    - '(.*\.)?bypeople.com$'
-    - '(.*\.)?c13.radioboss.fm$'
-    - '(.*\.)?c99shell-r57shell.webnode.page$'
-    - '(.*\.)?c99shell.net$'
-    - '(.*\.)?cadmus.io$'
-    - '(.*\.)?cafeastrology.com$'
-    - '(.*\.)?calcthat.com$'
-    - '(.*\.)?calculateaspectratio.com$'
-    - '(.*\.)?calculatemypercentage.com$'
-    - '(.*\.)?calculationclub.com$'
-    - '(.*\.)?calculator-online.net$'
-    - '(.*\.)?calculator.com$'
-    - '(.*\.)?calculator.io$'
-    - '(.*\.)?calculators.org$'
-    - '(.*\.)?caminhonumerico.com$'
-    - '(.*\.)?camstudio.org$'
-    - '(.*\.)?canva.com$'
-    - '(.*\.)?caparra.ai$'
-    - '(.*\.)?capcut.com$'
-    - '(.*\.)?carlaaston.com$'
-    - '(.*\.)?caseconverter.tools$'
-    - '(.*\.)?cavecreekcoffee.com$'
-    - '(.*\.)?cb-india.com$'
-    - '(.*\.)?cb01.pizza$'
-    - '(.*\.)?cdpath.com$'
-    - '(.*\.)?certificatetool.com$'
-    - '(.*\.)?chaturbate.com$'
-    - '(.*\.)?chibasyuta.org$'
-    - '(.*\.)?chicagobears.com$'
-    - '(.*\.)?chip.de$'
-    - '(.*\.)?christan.design$'
-    - '(.*\.)?christianbook.com$'
-    - '(.*\.)?chrisvanwaes.nl$'
-    - '(.*\.)?ciakmagazine.it$'
-    - '(.*\.)?ciao-somerville.com$'
-    - '(.*\.)?ciaociaogelatocafe.com$'
-    - '(.*\.)?ciaocomo.it$'
-    - '(.*\.)?ciaoeastchester.com$'
-    - '(.*\.)?ciaoithaca.com$'
-    - '(.*\.)?ciaokombucha.com$'
-    - '(.*\.)?ciaolouisville.com$'
-    - '(.*\.)?ciaomyrtlebeach.com$'
-    - '(.*\.)?ciaorestaurant.com$'
-    - '(.*\.)?ciaorestaurantandbar.com$'
-    - '(.*\.)?ciaowausau.com'
-    - '(.*\.)?cincopa.com$'
-    - '(.*\.)?cineblog01.tattoo$'
-    - '(.*\.)?cinemalibero.city$'
-    - '(.*\.)?ciphermaker.com$'
-    - '(.*\.)?ciritorno.it$'
-    - '(.*\.)?cjs-cdkeys.com$'
-    - '(.*\.)?clairejefford.com$'
-    - '(.*\.)?classpop.com$'
-    - '(.*\.)?claude.online$'
-    - '(.*\.)?claude.talkai.info$'
-    - '(.*\.)?claudemilano.com$'
-    - '(.*\.)?claudemusic.com$'
-    - '(.*\.)?clean.email$'
-    - '(.*\.)?cleanmycss.com$'
-    - '(.*\.)?cleanpng.com$'
-    - '(.*\.)?clever.com$'
-    - '(.*\.)?clickcalculators.com$'
-    - '(.*\.)?clideo.com$'
-    - '(.*\.)?clipart-library.com$'
-    - '(.*\.)?clipart.com$'
-    - '(.*\.)?clipartkey.com$'
-    - '(.*\.)?clipartmag.com$'
-    - '(.*\.)?clipdrop.co$'
-    - '(.*\.)?clippingcreationsindia.com$'
-    - '(.*\.)?clippingoutsourcing.com$'
-    - '(.*\.)?clippingphotoexperts.com$'
-    - '(.*\.)?clipsafari.com$'
-    - '(.*\.)?closedlooplabs.com$'
-    - '(.*\.)?clrn.org$'
-    - '(.*\.)?cn.linux-console.net$'
-    - '(.*\.)?cnblogs.com$'
-    - '(.*\.)?cocce.it$'
-    - '(.*\.)?cockdude.com$'
-    - '(.*\.)?cocodoc.com$'
-    - '(.*\.)?codebeautify.org$'
-    - '(.*\.)?codediesel.com$'
-    - '(.*\.)?codeformatting.com$'
-    - '(.*\.)?codelucky.com$'
-    - '(.*\.)?codepixelfy.com$'
-    - '(.*\.)?coderscratchpad.com$'
-    - '(.*\.)?coderstats.net$'
-    - '(.*\.)?coderstool.com$'
-    - '(.*\.)?codeshack.io$'
-    - '(.*\.)?codewithandrea.com$'
-    - '(.*\.)?codewithmosh.com$'
-    - '(.*\.)?codewithrandom.com$'
-    - '(.*\.)?cokodocs.net$'
-    - '(.*\.)?cokotools.com$'
-    - '(.*\.)?colmeia.blog.br$'
-    - '(.*\.)?colonic-association.org$'
-    - '(.*\.)?color-meanings.com$'
-    - '(.*\.)?colorabout.com$'
-    - '(.*\.)?colorany.com$'
-    - '(.*\.)?colorcombos.com$'
-    - '(.*\.)?colordesigner.io$'
-    - '(.*\.)?colorfactory.co$'
-    - '(.*\.)?colorhunt.co$'
-    - '(.*\.)?colorkit.co$'
-    - '(.*\.)?colorlib.com$'
-    - '(.*\.)?colorline.com$'
-    - '(.*\.)?colormagic.app'
-    - '(.*\.)?colormatters.com$'
-    - '(.*\.)?colormebeautiful.com$'
-    - '(.*\.)?colormemine.com$'
-    - '(.*\.)?colorpalettes.net$'
-    - '(.*\.)?colorpickerfromimage.com$'
-    - '(.*\.)?colors.codes$'
-    - '(.*\.)?colors.dopely.top$'
-    - '(.*\.)?colorsafe.co$'
-    - '(.*\.)?colorschemelab.com$'
-    - '(.*\.)?colorschemer.com$'
-    - '(.*\.)?colorspire.com$'
-    - '(.*\.)?colorsui.com$'
-    - '(.*\.)?colorswall.com$'
-    - '(.*\.)?colorui.co$'
-    - '(.*\.)?colorwise.me$'
-    - '(.*\.)?colorwowhair.com$'
-    - '(.*\.)?colorxs.com$'
-    - '(.*\.)?colourlovers.com$'
-    - '(.*\.)?comingsoon.it$'
-    - '(.*\.)?communaute.ebay.fr$'
-    - '(.*\.)?component.gallery$'
-    - '(.*\.)?convertacolor.com$'
-    - '(.*\.)?converters.co$'
-    - '(.*\.)?convertsvgtopng.net$'
-    - '(.*\.)?coolcatlovesyou.com$'
-    - '(.*\.)?coolfont.org$'
-    - '(.*\.)?coolors.co$'
-    - '(.*\.)?coolsymbol.com$'
-    - '(.*\.)?copyandpasteemoji.com$'
-    - '(.*\.)?copyandpastesymbols.net$'
-    - '(.*\.)?copywriterai.it$'
-    - '(.*\.)?coqnu.com$'
-    - '(.*\.)?coralsandsinn.com$'
-    - '(.*\.)?corriebromfield.com$'
-    - '(.*\.)?corriere.it$'
-    - '(.*\.)?corscoils.com$'
-    - '(.*\.)?coywolf.com$'
-    - '(.*\.)?cpaleaks.com$'
-    - '(.*\.)?cpe.dog$'
-    - '(.*\.)?cpecredit.com$'
-    - '(.*\.)?cpelle.it$'
-    - '(.*\.)?crafted3dsigns.com$'
-    - '(.*\.)?craiyon.com$'
-    - '(.*\.)?crazygames.com$'
-    - '(.*\.)?create-react-app.dev$'
-    - '(.*\.)?createyourfavicon.com$'
-    - '(.*\.)?creativefabrica.com$'
-    - '(.*\.)?creativemotions.it$'
-    - '(.*\.)?creativevectors.org$'
-    - '(.*\.)?creatomate.com$'
-    - '(.*\.)?creator.nightcafe.studio$'
-    - '(.*\.)?creazilla.com$'
-    - '(.*\.)?crestline.com$'
-    - '(.*\.)?crewelghoul.com$'
-    - '(.*\.)?crosscards.com$'
-    - '(.*\.)?crystalage.com$'
-    - '(.*\.)?csdn.net$'
-    - '(.*\.)?cse-axima.fr$'
-    - '(.*\.)?cssauthor.com$'
-    - '(.*\.)?csscardgenerator.pages.dev$'
-    - '(.*\.)?cssgenerator.org$'
-    - '(.*\.)?cssgenerator.pl$'
-    - '(.*\.)?cssinjs.org$'
-    - '(.*\.)?csslayout.io$'
-    - '(.*\.)?cssscript.com$'
-    - '(.*\.)?csstidyonline.com$'
-    - '(.*\.)?ctcmath.com$'
-    - '(.*\.)?cubeworld.com$'
-    - '(.*\.)?cubic.com$'
-    - '(.*\.)?cubicworlds.online$'
-    - '(.*\.)?cubingusa.org$'
-    - '(.*\.)?cufonfonts.com$'
-    - '(.*\.)?culturahistorica.org$'
-    - '(.*\.)?currencyrate.today$'
-    - '(.*\.)?curvegif.com$'
-    - '(.*\.)?curvyerotic.com$'
-    - '(.*\.)?curvyfemales.com$'
-    - '(.*\.)?curvymary.com$'
-    - '(.*\.)?customneon.co.uk$'
-    - '(.*\.)?customneon.com$'
-    - '(.*\.)?cuttle.xyz$'
-    - '(.*\.)?cvedetails.com$'
-    - '(.*\.)?cyberpanel.net$'
-    - '(.*\.)?cybervie.com$'
-    - '(.*\.)?cybrosys.com$'
-    - '(.*\.)?cyfuture.cloud$'
-    - '(.*\.)?dafont.de$'
-    - '(.*\.)?dafont.vn$'
-    - '(.*\.)?dafontfree.co$'
-    - '(.*\.)?dafonthub.com$'
-    - '(.*\.)?dafontvn.com$'
-    - '(.*\.)?daily.co.jp$'
-    - '(.*\.)?daily.dev$'
-    - '(.*\.)?dailyfont.com$'
-    - '(.*\.)?dailypythonprojects.substack.com$'
-    - '(.*\.)?dailytarotdraw.com$'
-    - '(.*\.)?dart.org$'
-    - '(.*\.)?dartfirststate.com$'
-    - '(.*\.)?datablitz.com.ph$'
-    - '(.*\.)?datagy.io$'
-    - '(.*\.)?dataparksearch.org$'
-    - '(.*\.)?datatransfer.com$'
-    - '(.*\.)?datavaluesolutions.com$'
-    - '(.*\.)?datenumerology.com$'
-    - '(.*\.)?dayztypes.com$'
-    - '(.*\.)?de.bing.com$'
-    - '(.*\.)?de.book-info.com$'
-    - '(.*\.)?de.wikipedia.org$'
-    - '(.*\.)?decodebase64.com$'
-    - '(.*\.)?decodebase64.io$'
-    - '(.*\.)?decoderdecryptor.com$'
-    - '(.*\.)?deeditor.com$'
-    - '(.*\.)?deeper.com$'
-    - '(.*\.)?deepshells.com$'
-    - '(.*\.)?deepsymbol.com$'
-    - '(.*\.)?deepware.ai$'
-    - '(.*\.)?deja-designs.com$'
-    - '(.*\.)?dely.jp$'
-    - '(.*\.)?depositillustrations.com$'
-    - '(.*\.)?depositphotos.com$'
-    - '(.*\.)?design.com$'
-    - '(.*\.)?designercandies.net$'
-    - '(.*\.)?designevo.com$'
-    - '(.*\.)?designfreelogoonline.com$'
-    - '(.*\.)?designgood.com$'
-    - '(.*\.)?designhill.com$'
-    - '(.*\.)?designify.com$'
-    - '(.*\.)?designmantic.com$'
-    - '(.*\.)?designmodo.com$'
-    - '(.*\.)?designrr.io$'
-    - '(.*\.)?designs.ai$'
-    - '(.*\.)?designworklife.com$'
-    - '(.*\.)?desktophut.com$'
-    - '(.*\.)?desktopnexus.com$'
-    - '(.*\.)?desktopwallpaper.com$'
-    - '(.*\.)?despertamos.com$'
-    - '(.*\.)?desygner.com$'
-    - '(.*\.)?dev.to$'
-    - '(.*\.)?devconnected.com$'
-    - '(.*\.)?devdocs.coko.app$'
-    - '(.*\.)?devdonut.com$'
-    - '(.*\.)?developertoolkits.com$'
-    - '(.*\.)?devglan.com$'
-    - '(.*\.)?devilsfilm.com$'
-    - '(.*\.)?devsnap.me$'
-    - '(.*\.)?devuurwerkhandel.nl$'
-    - '(.*\.)?dhiwise.com$'
-    - '(.*\.)?dictionary.com$'
-    - '(.*\.)?digilibraries.com$'
-    - '(.*\.)?digitalblasphemy.com$'
-    - '(.*\.)?digitalcitizen.life$'
-    - '(.*\.)?digitalcolorwheel.com$'
-    - '(.*\.)?dinotube.com$'
-    - '(.*\.)?disarmthebomb.com$'
-    - '(.*\.)?discoverfreecourses.com$'
-    - '(.*\.)?disneyparksblog.com$'
-    - '(.*\.)?displayfusion.com$'
-    - '(.*\.)?djamware.com$'
-    - '(.*\.)?dnschecker.org$'
-    - '(.*\.)?docker.com$'
-    - '(.*\.)?docklab.nl$'
-    - '(.*\.)?docs.xzeu.com$'
-    - '(.*\.)?docsity.com$'
-    - '(.*\.)?dokr.one$'
-    - '(.*\.)?dokumen.pub$'
-    - '(.*\.)?domain.com$'
-    - '(.*\.)?doographics.com$'
-    - '(.*\.)?dosomthings.com$'
-    - '(.*\.)?dostring.com$'
-    - '(.*\.)?dotbadges.com$'
-    - '(.*\.)?downgit.cvbox.org$'
-    - '(.*\.)?downgit.evecalm.com$'
-    - '(.*\.)?download-github.ubiops.com$'
-    - '(.*\.)?download.it$'
-    - '(.*\.)?dqydj.com$'
-    - '(.*\.)?draw.kits.blog$'
-    - '(.*\.)?drawkit.com$'
-    - '(.*\.)?drawsvg.org$'
-    - '(.*\.)?drawtify.com$'
-    - '(.*\.)?drearte.com$'
-    - '(.*\.)?dressclaude.it$'
-    - '(.*\.)?dribbble.com$'
-    - '(.*\.)?dropbox.net$'
-    - '(.*\.)?dropsend.com$'
-    - '(.*\.)?drupaljedimaster.co.uk$'
-    - '(.*\.)?dryicons.com$'
-    - '(.*\.)?duckdns.vercel.app$'
-    - '(.*\.)?dummydash.com$'
-    - '(.*\.)?dummyimage.web.app$'
-    - '(.*\.)?dummyimg.in$'
-    - '(.*\.)?duplichecker.com$'
-    - '(.*\.)?dzine.ai$'
-    - '(.*\.)?e-booksdirectory.com$'
-    - '(.*\.)?e-gadgetify.com$'
-    - '(.*\.)?eagledistributorsnj.com'
-    - '(.*\.)?easeus.com$'
-    - '(.*\.)?easygadgetify.store$'
-    - '(.*\.)?easypercentage.com$'
-    - '(.*\.)?easypercentagecalc.net$'
-    - '(.*\.)?easypercentagecalculators.com$'
-    - '(.*\.)?easyupload.io$'
-    - '(.*\.)?ebonygalore.com$'
-    - '(.*\.)?ebonytube.tv$'
-    - '(.*\.)?ebook-fieber.de$'
-    - '(.*\.)?ebook.nl$'
-    - '(.*\.)?ebookdaily.com$'
-    - '(.*\.)?ebooks.bloggerspassion.com$'
-    - '(.*\.)?ebooks.edu.gr$'
-    - '(.*\.)?ebooks2go.com$'
-    - '(.*\.)?ebookselibrary.com$'
-    - '(.*\.)?ebooksgratuits.com$'
-    - '(.*\.)?edheads.org$'
-    - '(.*\.)?edit.org$'
-    - '(.*\.)?edit.svgomg.net$'
-    - '(.*\.)?editpictureonline.com$'
-    - '(.*\.)?editsvg.online$'
-    - '(.*\.)?editsvgcode.com$'
-    - '(.*\.)?educba.com$'
-    - '(.*\.)?edukits.co$'
-    - '(.*\.)?eenglish.com$'
-    - '(.*\.)?eesforjobs.com$'
-    - '(.*\.)?efgh.com$'
-    - '(.*\.)?eggnored.tumblr.com$'
-    - '(.*\.)?eggradients.com$'
-    - '(.*\.)?eksisozluk.com$'
-    - '(.*\.)?electricity-magnetism.org$'
-    - '(.*\.)?electricman.space$'
-    - '(.*\.)?electricmaninc.com$'
-    - '(.*\.)?elephantlearning.com$'
-    - '(.*\.)?elest.io$'
-    - '(.*\.)?elpoderdeluniverso.com$'
-    - '(.*\.)?elsaspeak.com$'
-    - '(.*\.)?elysedodge.com$'
-    - '(.*\.)?emeditor.com$'
-    - '(.*\.)?emide.org$'
-    - '(.*\.)?emoji-translator.com$'
-    - '(.*\.)?emoji.aranja.com$'
-    - '(.*\.)?emojibetekenis.nl$'
-    - '(.*\.)?emojicombos.com$'
-    - '(.*\.)?emojicopy.com$'
-    - '(.*\.)?emojidb.org$'
-    - '(.*\.)?emojidictionary.emojifoundation.com$'
-    - '(.*\.)?emojifinder.com$'
-    - '(.*\.)?emojigraph.org$'
-    - '(.*\.)?emojiguide.org$'
-    - '(.*\.)?emojihub.org$'
-    - '(.*\.)?emojikeyboard.org$'
-    - '(.*\.)?emojipedia.nl$'
-    - '(.*\.)?emojipedia.org$'
-    - '(.*\.)?emojipicker.com$'
-    - '(.*\.)?emojirepo.org$'
-    - '(.*\.)?emojis.com$'
-    - '(.*\.)?emojiterra.com$'
-    - '(.*\.)?emojivoter.com$'
-    - '(.*\.)?encryptfiles.net$'
-    - '(.*\.)?endorphinbath.com$'
-    - '(.*\.)?englishlearning.com$'
-    - '(.*\.)?englishphonetics.net$'
-    - '(.*\.)?englishwithlucy.com$'
-    - '(.*\.)?entheosweb.com$'
-    - '(.*\.)?envato-downloader.com$'
-    - '(.*\.)?envato.fbselements.com$'
-    - '(.*\.)?envato.isyyy.com$'
-    - '(.*\.)?epdf.tips'
-    - '(.*\.)?epigra.com$'
-    - '(.*\.)?epornany.com$'
-    - '(.*\.)?eporner.com$'
-    - '(.*\.)?epubblica.com$'
-    - '(.*\.)?epubbooks.com$'
-    - '(.*\.)?es.linux-console.net$'
-    - '(.*\.)?esecuredata.com$'
-    - '(.*\.)?eterstock.com$'
-    - '(.*\.)?etsy.com$'
-    - '(.*\.)?ettavee.com$'
-    - '(.*\.)?euroresidentes.es$'
-    - '(.*\.)?eurostreaming.pet$'
-    - '(.*\.)?evaeaston.com$'
-    - '(.*\.)?evaristegalois.org$'
-    - '(.*\.)?eveon.com$'
-    - '(.*\.)?every-layout.dev$'
-    - '(.*\.)?everypixel.com$'
-    - '(.*\.)?evileval.com$'
-    - '(.*\.)?evoto.ai$'
-    - '(.*\.)?expandi.io$'
-    - '(.*\.)?expertbeacon.com$'
-    - '(.*\.)?expertclipping.com$'
-    - '(.*\.)?expertstool.com$'
-    - '(.*\.)?explorerofthesoul.com$'
-    - '(.*\.)?expoilt.com$'
-    - '(.*\.)?extendsclass.com$'
-    - '(.*\.)?eyewitnessbible.org$'
-    - '(.*\.)?ezfavicon.com$'
-    - '(.*\.)?ezgif.com$'
-    - '(.*\.)?ezprompt.net$'
-    - '(.*\.)?faapy.com$'
-    - '(.*\.)?facebook.com$'
-    - '(.*\.)?facetuneapp.com$'
-    - '(.*\.)?fallontravels.com$'
-    - '(.*\.)?familypornhd.com$'
-    - '(.*\.)?fandom.com$'
-    - '(.*\.)?farmanager.com$'
-    - '(.*\.)?farrow-ball.com$'
-    - '(.*\.)?fashiontrendsetter.com$'
-    - '(.*\.)?fastcompany.com$'
-    - '(.*\.)?fasttech.xyz$'
-    - '(.*\.)?favicon.digital$'
-    - '(.*\.)?favicon.now$'
-    - '(.*\.)?favicon.pub$'
-    - '(.*\.)?favicongenerator.io$'
-    - '(.*\.)?faviconify.com$'
-    - '(.*\.)?fbcd.co$'
-    - '(.*\.)?feedreader.com$'
-    - '(.*\.)?felipecarabantes.com$'
-    - '(.*\.)?feroxbuster.com$'
-    - '(.*\.)?fex.net$'
-    - '(.*\.)?ffmpeg.asia$'
-    - '(.*\.)?ffmpegfromzerotohero.com$'
-    - '(.*\.)?fig.io$'
-    - '(.*\.)?file.io$'
-    - '(.*\.)?file.kiwi$'
-    - '(.*\.)?filedropshare.com$'
-    - '(.*\.)?fileinfo.com$'
-    - '(.*\.)?filerepo.com$'
-    - '(.*\.)?files.fm$'
-    - '(.*\.)?filesamples.com$'
-    - '(.*\.)?filetransfer.uvm.edu$'
-    - '(.*\.)?filmexxx.live$'
-    - '(.*\.)?filmscoop.it$'
-    - '(.*\.)?filmsenzalimiti.name$'
-    - '(.*\.)?filmtv.it$'
-    - '(.*\.)?findmysoft.com$'
-    - '(.*\.)?firealarm.com$'
-    - '(.*\.)?firebirdfirewalks.com$'
-    - '(.*\.)?firecompass.com$'
-    - '(.*\.)?firepowerseminars.com$'
-    - '(.*\.)?firewalking.com$'
-    - '(.*\.)?fishbase.se$'
-    - '(.*\.)?fisicatecnica.altervista.org$'
-    - '(.*\.)?fiverr.com$'
-    - '(.*\.)?flamingtext.com$'
-    - '(.*\.)?flashiat.net$'
-    - '(.*\.)?flatai.org$'
-    - '(.*\.)?flatfee.io$'
-    - '(.*\.)?flaticon.com$'
-    - '(.*\.)?flaticons.net$'
-    - '(.*\.)?fleshed.com$'
-    - '(.*\.)?flexclip.com$'
-    - '(.*\.)?flexitoolkit.com$'
-    - '(.*\.)?floelite.com$'
-    - '(.*\.)?flowbite-react.com$'
-    - '(.*\.)?flowbite.com$'
-    - '(.*\.)?flutter.com$'
-    - '(.*\.)?flutterbeads.com$'
-    - '(.*\.)?fluttercore.com$'
-    - '(.*\.)?fluttericon.cn$'
-    - '(.*\.)?flutterisfun.com$'
-    - '(.*\.)?flutteritalia.dev$'
-    - '(.*\.)?flutters.in$'
-    - '(.*\.)?flutterstuff.com$'
-    - '(.*\.)?fluttertalk.com$'
-    - '(.*\.)?fluttertpoint.in$'
-    - '(.*\.)?flutterxperts.com$'
-    - '(.*\.)?flyingmeat.com$'
-    - '(.*\.)?flyonui.com$'
-    - '(.*\.)?folge.me$'
-    - '(.*\.)?font-generator.com$'
-    - '(.*\.)?fontadvice.com$'
-    - '(.*\.)?fontbolt.com$'
-    - '(.*\.)?fontbundles.net$'
-    - '(.*\.)?fontchanger.cool$'
-    - '(.*\.)?fontchanger.net$'
-    - '(.*\.)?fontdownload.org$'
-    - '(.*\.)?fontesk.com$'
-    - '(.*\.)?fontgenerator.name$'
-    - '(.*\.)?fontget.com$'
-    - '(.*\.)?fontjedi.com$'
-    - '(.*\.)?fontmeme.com$'
-    - '(.*\.)?fontsempire.com$'
-    - '(.*\.)?fontsgoogle.com$'
-    - '(.*\.)?fontshop.com$'
-    - '(.*\.)?fontsonic.com$'
-    - '(.*\.)?fontspace.io$'
-    - '(.*\.)?fontstand.com$'
-    - '(.*\.)?fontz.net$'
-    - '(.*\.)?foodandwine.com$'
-    - '(.*\.)?ford-trucks.com$'
-    - '(.*\.)?formatswap.com$'
-    - '(.*\.)?formia.so$'
-    - '(.*\.)?forums.warframe.com$'
-    - '(.*\.)?fotoflexer.com$'
-    - '(.*\.)?fotojet.com$'
-    - '(.*\.)?fotor.com$'
-    - '(.*\.)?foxandhazel.com$'
-    - '(.*\.)?fpds.gov$'
-    - '(.*\.)?frame.io$'
-    - '(.*\.)?framesports.ai$'
-    - '(.*\.)?frankenphp.dev'
-    - '(.*\.)?free-logo-design.net$'
-    - '(.*\.)?free-time.it$'
-    - '(.*\.)?free.fr$'
-    - '(.*\.)?freeconsulting.accessiway.com$'
-    - '(.*\.)?freeconvert.com$'
-    - '(.*\.)?freedesignfile.com$'
-    - '(.*\.)?freeebooks.com$'
-    - '(.*\.)?freefontsvault.com$'
-    - '(.*\.)?freefuckvids.com$'
-    - '(.*\.)?freegifmaker.me$'
-    - '(.*\.)?freegogpcgames.com$'
-    - '(.*\.)?freeicon.com$'
-    - '(.*\.)?freeicons.io$'
-    - '(.*\.)?freeillustrate.com$'
-    - '(.*\.)?freeillustrations.club$'
-    - '(.*\.)?freeillustrations.xyz$'
-    - '(.*\.)?freeimages.com$'
-    - '(.*\.)?freellustrations.com$'
-    - '(.*\.)?freelogocreator.com$'
-    - '(.*\.)?freelogodesign.org$'
-    - '(.*\.)?freelogogenerator.com$'
-    - '(.*\.)?freelogoservices.com$'
-    - '(.*\.)?freeones.com$'
-    - '(.*\.)?freepercentagecalculators.com$'
-    - '(.*\.)?freepik.com$'
-    - '(.*\.)?freepngpik.com$'
-    - '(.*\.)?freeporno.xxx$'
-    - '(.*\.)?freesatweb.it$'
-    - '(.*\.)?freesvgdownload.com$'
-    - '(.*\.)?freesvgillustration.com$'
-    - '(.*\.)?freetestdata.com$'
-    - '(.*\.)?freetinypng.com$'
-    - '(.*\.)?freetools.org$'
-    - '(.*\.)?freevector.com$'
-    - '(.*\.)?freewebillustrations.com$'
-    - '(.*\.)?freeworkservizi.it$'
-    - '(.*\.)?freshporno.net$'
-    - '(.*\.)?frolicme.com$'
-    - '(.*\.)?frontendhack.com$'
-    - '(.*\.)?frontendpik.com$'
-    - '(.*\.)?frontier.com$'
-    - '(.*\.)?frontporchmercantile.com$'
-    - '(.*\.)?fsymbols.com$'
-    - '(.*\.)?ftl-faster-than-light-ios.apps112.com$'
-    - '(.*\.)?ftlgame.com$'
-    - '(.*\.)?fullporner.com$'
-    - '(.*\.)?fuq.com$'
-    - '(.*\.)?fxnetworks.com$'
-    - '(.*\.)?g0dam.github.io$'
-    - '(.*\.)?g4dgetify.myshopify.com$'
-    - '(.*\.)?gadget-rumours.com$'
-    - '(.*\.)?gadgetadvisor.com$'
-    - '(.*\.)?gadgetgear.nl$'
-    - '(.*\.)?gadgethacks.com$'
-    - '(.*\.)?gadgetify-shop.de$'
-    - '(.*\.)?gadgetify.fun$'
-    - '(.*\.)?gadgetify.info$'
-    - '(.*\.)?gadgetify.shop$'
-    - '(.*\.)?gadgetifybd.com$'
-    - '(.*\.)?gadgetifygalaxy.com$'
-    - '(.*\.)?gadgetifyofficial.com$'
-    - '(.*\.)?gadgetifyshop.com$'
-    - '(.*\.)?gadgetifystore.com$'
-    - '(.*\.)?gadgetifyuk.com$'
-    - '(.*\.)?gadgetifyverse.com$'
-    - '(.*\.)?gadgetifyworld.com$'
-    - '(.*\.)?gadgetman.ie$'
-    - '(.*\.)?gadgets360.com$'
-    - '(.*\.)?gadgetstouse.com$'
-    - '(.*\.)?gadgettechstore.com.au$'
-    - '(.*\.)?gadgetzone.nl$'
-    - '(.*\.)?gadgify.us$'
-    - '(.*\.)?gaiauni.com$'
-    - '(.*\.)?gallery.yopriceville.com$'
-    - '(.*\.)?gamedevicons.com$'
-    - '(.*\.)?gamemake.org$'
-    - '(.*\.)?gamers-outlet.net$'
-    - '(.*\.)?gatewaygators.com$'
-    - '(.*\.)?gaymaletube.com$'
-    - '(.*\.)?gcalculate.com$'
-    - '(.*\.)?gcu.edu$'
-    - '(.*\.)?geekdrop.com$'
-    - '(.*\.)?geektonight.com$'
-    - '(.*\.)?geeky-gadgets.com$'
-    - '(.*\.)?genabel.org$'
-    - '(.*\.)?genfavicon.com$'
-    - '(.*\.)?genreadme.cloud$'
-    - '(.*\.)?genreadme.cloud$'
-    - '(.*\.)?get-emoji.com$'
-    - '(.*\.)?get-shell.com$'
-    - '(.*\.)?getastra.com$'
-    - '(.*\.)?getemoji.com$'
-    - '(.*\.)?getepic.com$'
-    - '(.*\.)?getillustrations.com$'
-    - '(.*\.)?getpercent.online$'
-    - '(.*\.)?getpronounce.com$'
-    - '(.*\.)?getsamplefiles.com$'
-    - '(.*\.)?getshared.com$'
-    - '(.*\.)?gettextbooks.com$'
-    - '(.*\.)?gettyimages.com$'
-    - '(.*\.)?gettyimages.in$'
-    - '(.*\.)?gettyimages.it$'
-    - '(.*\.)?getuicolors.com$'
-    - '(.*\.)?ggithubprofile.vercel.app$'
-    - '(.*\.)?gh-stats-gen.vercel.app$'
-    - '(.*\.)?giddyup.io$'
-    - '(.*\.)?giddyupcoffeehouse.com$'
-    - '(.*\.)?gififyai.com$'
-    - '(.*\.)?gifmake.com$'
-    - '(.*\.)?gifpal.com$'
-    - '(.*\.)?gifrun.com$'
-    - '(.*\.)?gigacalculator.com$'
-    - '(.*\.)?gilisoft.com$'
-    - '(.*\.)?girlsgogames.com$'
-    - '(.*\.)?git-fork.com$'
-    - '(.*\.)?git-hub-streak-stats.vercel.app$'
-    - '(.*\.)?git-readme-generator.vercel.app$'
-    - '(.*\.)?git-tower.com$'
-    - '(.*\.)?gitdevtool.com$'
-    - '(.*\.)?gitee.com$'
-    - '(.*\.)?gitglance.vercel.app$'
-    - '(.*\.)?github-profile-gpt.vercel.app$'
-    - '(.*\.)?github-readme-maker.vercel.app$'
-    - '(.*\.)?github-states-generator.vercel.app$'
-    - '(.*\.)?github-stats.com$'
-    - '(.*\.)?github.co.jp$'
-    - '(.*\.)?githubprofile.com$'
-    - '(.*\.)?githubstatsfordevs.netlify.app$'
-    - '(.*\.)?gitmemory.com$'
-    - '(.*\.)?gitmind.com$'
-    - '(.*\.)?gitranks.com$'
-    - '(.*\.)?gitread.dev$'
-    - '(.*\.)?gittyup.io$'
-    - '(.*\.)?gitzip.org$'
-    - '(.*\.)?gizmodo.com$'
-    - '(.*\.)?glacier.org$'
-    - '(.*\.)?glianni80.com$'
-    - '(.*\.)?globalfirewalkingassociation.com$'
-    - '(.*\.)?glockapps.com$'
-    - '(.*\.)?glotorrents.123proxy.app$'
-    - '(.*\.)?go-it.us$'
-    - '(.*\.)?go-to-zlibrary.com$'
-    - '(.*\.)?gobuses.com$'
-    - '(.*\.)?gog-games.com$'
-    - '(.*\.)?gog-games.net$'
-    - '(.*\.)?gogeticon.com$'
-    - '(.*\.)?gogogadgetguys.com$'
-    - '(.*\.)?gogunlocked.com$'
-    - '(.*\.)?goinnobuds.com$'
-    - '(.*\.)?goldtits.com$'
-    - '(.*\.)?goodfon.com$'
-    - '(.*\.)?goodporn.xxx$'
-    - '(.*\.)?gooeysoftware.com$'
-    - '(.*\.)?goservice.it$'
-    - '(.*\.)?goservice.net$'
-    - '(.*\.)?goserviceitalia.net$'
-    - '(.*\.)?goserviceline.com$'
-    - '(.*\.)?goservicellc.com$'
-    - '(.*\.)?goservicepro.com$'
-    - '(.*\.)?gospelebooks.net$'
-    - '(.*\.)?govanguard.com$'
-    - '(.*\.)?gowithus.com$'
-    - '(.*\.)?gr.com.ge$'
-    - '(.*\.)?graficsea.com$'
-    - '(.*\.)?granddynamics.com$'
-    - '(.*\.)?graphicdesignjunction.com$'
-    - '(.*\.)?graphicdesignresource.com$'
-    - '(.*\.)?graphicsfamily.com$'
-    - '(.*\.)?graphicsprings.com$'
-    - '(.*\.)?graphite.dev$'
-    - '(.*\.)?gratis-boek.nl$'
-    - '(.*\.)?gratisboekendownloaden.net$'
-    - '(.*\.)?gravit.io$'
-    - '(.*\.)?greenmangaming.com$'
-    - '(.*\.)?greproot.com$'
-    - '(.*\.)?gridicons.co.uk$'
-    - '(.*\.)?grok-pedia.com$'
-    - '(.*\.)?growhackscale.com$'
-    - '(.*\.)?gsrj.com$'
-    - '(.*\.)?guida-tv.org$'
-    - '(.*\.)?guidatv.quotidiano.net$'
-    - '(.*\.)?gunungkidulkab.go.id$'
-    - '(.*\.)?habr.com$'
-    - '(.*\.)?hackingloops.com$'
-    - '(.*\.)?hackshells.org$'
-    - '(.*\.)?hacksland.net$'
-    - '(.*\.)?hacktricks.net$'
-    - '(.*\.)?haikei.app$'
-    - '(.*\.)?hanishbagga.com$'
-    - '(.*\.)?hardcorepost.com$'
-    - '(.*\.)?hashes.com$'
-    - '(.*\.)?hcpl.overdrive.com$'
-    - '(.*\.)?hdhole.com$'
-    - '(.*\.)?hdqwalls.com$'
-    - '(.*\.)?hdwallpapers.in$'
-    - '(.*\.)?hdwallpapers.net$'
-    - '(.*\.)?hdwallpapers.org$'
-    - '(.*\.)?hebban.nl$'
-    - '(.*\.)?hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app$'
-    - '(.*\.)?hello.porn$'
-    - '(.*\.)?help-fast.com$'
-    - '(.*\.)?heroscreen.cc$'
-    - '(.*\.)?hex-rgb.com$'
-    - '(.*\.)?hex-to-rgb.com$'
-    - '(.*\.)?hexcolor.co$'
-    - '(.*\.)?heyreach.io$'
-    - '(.*\.)?hiddennumerology.com$'
-    - '(.*\.)?hightail.com$'
-    - '(.*\.)?hillelkepler.wordpress.com$'
-    - '(.*\.)?hisoftsroll.web.app$'
-    - '(.*\.)?hix.ai$'
-    - '(.*\.)?hnews42.com$'
-    - '(.*\.)?hobby.porn$'
-    - '(.*\.)?hockaday.org$'
-    - '(.*\.)?homeer.com$'
-    - '(.*\.)?homenetworkgeek.com$'
-    - '(.*\.)?hornybank.com$'
-    - '(.*\.)?horoscope.com$'
-    - '(.*\.)?horoscopo.com$'
-    - '(.*\.)?horoscopodehoy.com$'
-    - '(.*\.)?horoscopovirtual.com.br$'
-    - '(.*\.)?hostbor.com$'
-    - '(.*\.)?hotebonytube.com$'
-    - '(.*\.)?hotmovies.com$'
-    - '(.*\.)?housing.com$'
-    - '(.*\.)?houzz.com$'
-    - '(.*\.)?hover.dev$'
-    - '(.*\.)?how-to-say.com$'
-    - '(.*\.)?howdoyouspell.co$'
-    - '(.*\.)?howjsay.com$'
-    - '(.*\.)?howtoinstall.me$'
-    - '(.*\.)?howtopronounce.com$'
-    - '(.*\.)?hoyolab.com$'
-    - '(.*\.)?hqporn.xxx$'
-    - '(.*\.)?hstock.org$'
-    - '(.*\.)?html-css-js.com$'
-    - '(.*\.)?htmlbeautifier.org$'
-    - '(.*\.)?htmlcsscleaner.com$'
-    - '(.*\.)?htmlwasher.com$'
-    - '(.*\.)?httpstatus.io$'
-    - '(.*\.)?huaweicloud.com$'
-    - '(.*\.)?hubdigitalcontent.com$'
-    - '(.*\.)?hueshift.art$'
-    - '(.*\.)?huewheel.com$'
-    - '(.*\.)?hussainmustafa.com$'
-    - '(.*\.)?hvsry.org$'
-    - '(.*\.)?hwg.org$'
-    - '(.*\.)?hypic.app$'
-    - '(.*\.)?iamag.co$'
-    - '(.*\.)?icalculate.app$'
-    - '(.*\.)?icanvas.com$'
-    - '(.*\.)?icecreamapps.com$'
-    - '(.*\.)?icedit.net$'
-    - '(.*\.)?icofont.com$'
-    - '(.*\.)?icomoon.io$'
-    - '(.*\.)?icon-icons.com$'
-    - '(.*\.)?icon.com$'
-    - '(.*\.)?iconarchive.com$'
-    - '(.*\.)?iconcity.com$'
-    - '(.*\.)?iconduck.com$'
-    - '(.*\.)?iconer.app$'
-    - '(.*\.)?icones8.fr$'
-    - '(.*\.)?iconfinder.com$'
-    - '(.*\.)?icongenerate.com$'
-    - '(.*\.)?icongeneratorai.com$'
-    - '(.*\.)?iconian.com$'
-    - '(.*\.)?iconpacks.net$'
-    - '(.*\.)?iconpro.io$'
-    - '(.*\.)?icons-co.com$'
-    - '(.*\.)?icons-for-free.com$'
-    - '(.*\.)?icons.co.th$'
-    - '(.*\.)?icons.com$'
-    - '(.*\.)?icons8.com$'
-    - '(.*\.)?iconscout.com$'
-    - '(.*\.)?iconseq.org$'
-    - '(.*\.)?iconset.io$'
-    - '(.*\.)?iconsflow.com$'
-    - '(.*\.)?iconsguru.com$'
-    - '(.*\.)?iconshock.com$'
-    - '(.*\.)?iconsmind.com$'
-    - '(.*\.)?iconspedia.com$'
-    - '(.*\.)?iconsvg.co$'
-    - '(.*\.)?icoon.co$'
-    - '(.*\.)?idrive.com$'
-    - '(.*\.)?iemoji.com$'
-    - '(.*\.)?ifavicon.com$'
-    - '(.*\.)?ifonts.xyz$'
-    - '(.*\.)?igfonts.io$'
-    - '(.*\.)?ign.com$'
-    - '(.*\.)?ihs.com.tr$'
-    - '(.*\.)?ikea.com$'
-    - '(.*\.)?ikebehar.com$'
-    - '(.*\.)?ikegps.com$'
-    - '(.*\.)?ikesmartcity.com$'
-    - '(.*\.)?ikessandwich.com$'
-    - '(.*\.)?ilcorsaronero.link$'
-    - '(.*\.)?ilikeikes.com$'
-    - '(.*\.)?illustoon.com$'
-    - '(.*\.)?illustrae.co$'
-    - '(.*\.)?illustration.so$'
-    - '(.*\.)?illustrationkit.com$'
-    - '(.*\.)?illustroke.com$'
-    - '(.*\.)?ilovehue.co$'
-    - '(.*\.)?iloveimg.com$'
-    - '(.*\.)?image2clippath.com$'
-    - '(.*\.)?imagecolorpicker.com$'
-    - '(.*\.)?imageinpixel.com$'
-    - '(.*\.)?imagen-ai.com$'
-    - '(.*\.)?imageonline.co$'
-    - '(.*\.)?imageresizer.uk$'
-    - '(.*\.)?imageresizer.work$'
-    - '(.*\.)?imageworkindia.com$'
-    - '(.*\.)?img2go.com$'
-    - '(.*\.)?imggen.ai$'
-    - '(.*\.)?imgmodify.com$'
-    - '(.*\.)?imgonline.tools$'
-    - '(.*\.)?immigrationhelp.org$'
-    - '(.*\.)?imobie.com$'
-    - '(.*\.)?imparaflutter.it$'
-    - '(.*\.)?imprintplus.com$'
-    - '(.*\.)?imresizer.com$'
-    - '(.*\.)?in-kotlin.com$'
-    - '(.*\.)?indianrail.gov.in$'
-    - '(.*\.)?indianrailways.gov.in$'
-    - '(.*\.)?indiebound.org$'
-    - '(.*\.)?infoplease.com$'
-    - '(.*\.)?informer.com$'
-    - '(.*\.)?ingleseglutenfree.com$'
-    - '(.*\.)?ingodsimage.com$'
-    - '(.*\.)?inpixio.com$'
-    - '(.*\.)?inprnt.com$'
-    - '(.*\.)?insmind.com$'
-    - '(.*\.)?inspire2rise.com$'
-    - '(.*\.)?instaastro.com$'
-    - '(.*\.)?instafonts.io$'
-    - '(.*\.)?instagram.com$'
-    - '(.*\.)?instasize.com$'
-    - '(.*\.)?instausername.com$'
-    - '(.*\.)?intellipaat.com$'
-    - '(.*\.)?interlacekit.com$'
-    - '(.*\.)?intrepus.com$'
-    - '(.*\.)?invistanet.com.br$'
-    - '(.*\.)?ioflood.com$'
-    - '(.*\.)?ioriver.io$'
-    - '(.*\.)?ipburger.com$'
-    - '(.*\.)?ipiccy.com$'
-    - '(.*\.)?ipinfo.io$'
-    - '(.*\.)?iplocation.io$'
-    - '(.*\.)?ipt.br$'
-    - '(.*\.)?ipv6.rs$'
-    - '(.*\.)?irrigation.org$'
-    - '(.*\.)?iseepassword.com$'
-    - '(.*\.)?isitdown.me$'
-    - '(.*\.)?isoqar.com$'
-    - '(.*\.)?ispazio.net$'
-    - '(.*\.)?issoh.co.jp$'
-    - '(.*\.)?istockphoto.com$'
-    - '(.*\.)?it-connect.fr$'
-    - '(.*\.)?it.ign.com$'
-    - '(.*\.)?itectec.com$'
-    - '(.*\.)?itopvpn.com$'
-    - '(.*\.)?itying.com$'
-    - '(.*\.)?j-parc.jp$'
-    - '(.*\.)?j2team.org$'
-    - '(.*\.)?jacquelynclark.com$'
-    - '(.*\.)?jadwaltv.net$'
-    - '(.*\.)?jaguars.com$'
-    - '(.*\.)?jamesauble.com$'
-    - '(.*\.)?japaclip.com$'
-    - '(.*\.)?japanesehdporn.com$'
-    - '(.*\.)?javascriptobfuscator.com$'
-    - '(.*\.)?jclibrary.org$'
-    - '(.*\.)?jeetbhalu.hashnode.dev$'
-    - '(.*\.)?jeetintyagi.hashnode.dev$'
-    - '(.*\.)?jennifermaker.com$'
-    - '(.*\.)?jennymovies.com$'
-    - '(.*\.)?jitter.video$'
-    - '(.*\.)?jld-investigation.fr$'
-    - '(.*\.)?joannahosking.com$'
-    - '(.*\.)?joho.info$'
-    - '(.*\.)?joinlapd.com$'
-    - '(.*\.)?joinsafeworkforce.com$'
-    - '(.*\.)?josscreative.com$'
-    - '(.*\.)?joyofnumerology.com$'
-    - '(.*\.)?jp.tenable.com$'
-    - '(.*\.)?jpsoft.com$'
-    - '(.*\.)?jswpaints.in$'
-    - '(.*\.)?jtti.cc$'
-    - '(.*\.)?juejin.cn$'
-    - '(.*\.)?juggernaut-sec.com$'
-    - '(.*\.)?jumaani.com$'
-    - '(.*\.)?junookyo.com$'
-    - '(.*\.)?justfreefonts.com$'
-    - '(.*\.)?justgiving.com$'
-    - '(.*\.)?juststickers.in$'
-    - '(.*\.)?k4g.com$'
-    - '(.*\.)?kalarup.com$'
-    - '(.*\.)?kaomojikuma.com$'
-    - '(.*\.)?karbon.com$'
-    - '(.*\.)?karbonbikes.com$'
-    - '(.*\.)?karboncard.com$'
-    - '(.*\.)?karbonhq.com$'
-    - '(.*\.)?kdjingpai.com$'
-    - '(.*\.)?kettlewellcolours.co.uk$'
-    - '(.*\.)?keystonecustomdecks.com$'
-    - '(.*\.)?keywordsearch.com$'
-    - '(.*\.)?killfeed.co$'
-    - '(.*\.)?kimberlygeswein.com$'
-    - '(.*\.)?kingsridgecofc.org$'
-    - '(.*\.)?kink.com$'
-    - '(.*\.)?kismetwireless.net$'
-    - '(.*\.)?kit8.net$'
-    - '(.*\.)?kitco.com$'
-    - '(.*\.)?kitemetric.com$'
-    - '(.*\.)?kitploit.com$'
-    - '(.*\.)?kiwifonts.com$'
-    - '(.*\.)?kjelectric.com$'
-    - '(.*\.)?knoji.com$'
-    - '(.*\.)?kodekloud.com$'
-    - '(.*\.)?kombai.com$'
-    - '(.*\.)?korben.info$'
-    - '(.*\.)?krisp.ai$'
-    - '(.*\.)?lab.github.com$'
-    - '(.*\.)?lacolors.com$'
-    - '(.*\.)?lambdatest.com$'
-    - '(.*\.)?landmarkplastic.com$'
-    - '(.*\.)?langchain.com$'
-    - '(.*\.)?lanumerologia.com$'
-    - '(.*\.)?larksuite.com$'
-    - '(.*\.)?lasvegasmarket.com$'
-    - '(.*\.)?lazarobrand.com$'
-    - '(.*\.)?lazebny.io$'
-    - '(.*\.)?learn.hypehype.com$'
-    - '(.*\.)?learning-english-online.net$'
-    - '(.*\.)?learnmmd.com$'
-    - '(.*\.)?leftfootforward.org$'
-    - '(.*\.)?legacy.reactjs.org$'
-    - '(.*\.)?legacyicons.com$'
-    - '(.*\.)?legian.com$'
-    - '(.*\.)?legian.ee$'
-    - '(.*\.)?legian.nl$'
-    - '(.*\.)?legianbeachbali.com$'
-    - '(.*\.)?legionfonts.com$'
-    - '(.*\.)?legionnetwork.io$'
-    - '(.*\.)?legionxnft.io$'
-    - '(.*\.)?lemon8-app.com$'
-    - '(.*\.)?lenadesign.org$'
-    - '(.*\.)?leonardo.ai$'
-    - '(.*\.)?letsgoservices.org$'
-    - '(.*\.)?letsreadasia.org$'
-    - '(.*\.)?lettericon.com$'
-    - '(.*\.)?libris.nl$'
-    - '(.*\.)?libs.garden$'
-    - '(.*\.)?libsyn.com$'
-    - '(.*\.)?lightroom.adobe.com$'
-    - '(.*\.)?lightworkersnet.com$'
-    - '(.*\.)?lightxeditor.com$'
-    - '(.*\.)?lingojam.com$'
-    - '(.*\.)?linguee.nl$'
-    - '(.*\.)?linkcheck.org$'
-    - '(.*\.)?linkz.ai$'
-    - '(.*\.)?linuxconfig.org$'
-    - '(.*\.)?linuxhint.com$'
-    - '(.*\.)?linuxhostsupport.com$'
-    - '(.*\.)?linuxjournal.com$'
-    - '(.*\.)?linuxlinks.com$'
-    - '(.*\.)?linuxmint.hu$'
-    - '(.*\.)?linuxnasm.be$'
-    - '(.*\.)?liquid-glass-js.com$'
-    - '(.*\.)?liquidfiles.com$'
-    - '(.*\.)?liquidglassgen.com$'
-    - '(.*\.)?liteapks.com$'
-    - '(.*\.)?litfl.com$'
-    - '(.*\.)?livewallpapers4free.com$'
-    - '(.*\.)?lixvyao.com$'
-    - '(.*\.)?loading.io$'
-    - '(.*\.)?lobstertube.com$'
-    - '(.*\.)?logo.com$'
-    - '(.*\.)?logoai.com$'
-    - '(.*\.)?logobee.com$'
-    - '(.*\.)?logobook.com$'
-    - '(.*\.)?logocreator.io$'
-    - '(.*\.)?logodesign.net$'
-    - '(.*\.)?logodiffusion.com$'
-    - '(.*\.)?logogarden.com$'
-    - '(.*\.)?logogenie.cn$'
-    - '(.*\.)?logogenie.com$'
-    - '(.*\.)?logogenio.it$'
-    - '(.*\.)?logoleader.com$'
-    - '(.*\.)?logomaker.com$'
-    - '(.*\.)?logomakerr.ai$'
-    - '(.*\.)?logomakr.com$'
-    - '(.*\.)?logomaster.ai$'
-    - '(.*\.)?logopony.com$'
-    - '(.*\.)?logopony.it$'
-    - '(.*\.)?logosbio.com$'
-    - '(.*\.)?logotv.com$'
-    - '(.*\.)?logotypemaker.com$'
-    - '(.*\.)?lonerwolf.com$'
-    - '(.*\.)?longtake.it$'
-    - '(.*\.)?looka.com$'
-    - '(.*\.)?lookinbratz.com$'
-    - '(.*\.)?loom.com$'
-    - '(.*\.)?loplo.com$'
-    - '(.*\.)?lordicon.com$'
-    - '(.*\.)?loro-react-flow-example.vercel.app$'
-    - '(.*\.)?lovepik.com$'
-    - '(.*\.)?ludwig.guru$'
-    - '(.*\.)?lumamakers.com$'
-    - '(.*\.)?lumen.com$'
-    - '(.*\.)?lummi.ai$'
-    - '(.*\.)?luna.amazon.com$'
-    - '(.*\.)?lushome.com$'
-    - '(.*\.)?lutris-pharma.com$'
-    - '(.*\.)?lutris.com$'
-    - '(.*\.)?lutris.org$'
-    - '(.*\.)?luxa.org$'
-    - '(.*\.)?lvcdn.net$'
-    - '(.*\.)?lvmonorail.com$'
-    - '(.*\.)?lvmpd.com$'
-    - '(.*\.)?lvmsystems.com$'
-    - '(.*\.)?lycee-evaristegalois.fr$'
-    - '(.*\.)?madchild.it$'
-    - '(.*\.)?made.porn$'
-    - '(.*\.)?madeintext.com$'
-    - '(.*\.)?magecomp.com$'
-    - '(.*\.)?makeagif.com$'
-    - '(.*\.)?makeemoji.com$'
-    - '(.*\.)?makegif.org$'
-    - '(.*\.)?makra.itch.io$'
-    - '(.*\.)?mangoapps.com$'
-    - '(.*\.)?many.xxx$'
-    - '(.*\.)?manypixels.co$'
-    - '(.*\.)?mapstyle.withgoogle.com$'
-    - '(.*\.)?marcomondelli.net$'
-    - '(.*\.)?markaicode.com$'
-    - '(.*\.)?mass-customization.com$'
-    - '(.*\.)?massethicstraining.skillburst.com$'
-    - '(.*\.)?masterbundles.com$'
-    - '(.*\.)?mastercpe.com$'
-    - '(.*\.)?mastertrend.info$'
-    - '(.*\.)?mat6tube.com$'
-    - '(.*\.)?material-tailwind.com$'
-    - '(.*\.)?materialme.io$'
-    - '(.*\.)?mathconverse.com$'
-    - '(.*\.)?matomo.org$'
-    - '(.*\.)?matomocamp.org$'
-    - '(.*\.)?mattbeech.com$'
-    - '(.*\.)?maturefucktube.com$'
-    - '(.*\.)?maturetube.com$'
-    - '(.*\.)?mauriziogalluzzo.it$'
-    - '(.*\.)?mclaren.com$'
-    - '(.*\.)?md5hashing.net$'
-    - '(.*\.)?mdbootstrap.com$'
-    - '(.*\.)?media.io$'
-    - '(.*\.)?mediamodifier.com$'
-    - '(.*\.)?mediarealm.com.au$'
-    - '(.*\.)?mediumbloggers.com$'
-    - '(.*\.)?melonstube.com$'
-    - '(.*\.)?memphis.edu$'
-    - '(.*\.)?mention.com$'
-    - '(.*\.)?mercedesamgf1.com$'
-    - '(.*\.)?merkabamusic.com$'
-    - '(.*\.)?merkabaonline.com$'
-    - '(.*\.)?metaclippingpath.com$'
-    - '(.*\.)?metacritic.com$'
-    - '(.*\.)?meumapanumerologico.com$'
-    - '(.*\.)?michelelorenzoni.com$'
-    - '(.*\.)?miletus.org$'
-    - '(.*\.)?milfporn.tv$'
-    - '(.*\.)?milfporn8.net$'
-    - '(.*\.)?min2win.org$'
-    - '(.*\.)?mindbodygreen.com$'
-    - '(.*\.)?mindgems.com$'
-    - '(.*\.)?mindmapsunleashed.com$'
-    - '(.*\.)?mindmeister.com$'
-    - '(.*\.)?mindmup.com$'
-    - '(.*\.)?mindnode.com$'
-    - '(.*\.)?minhanumerologia.com$'
-    - '(.*\.)?minitool.com$'
-    - '(.*\.)?miniwebtool.com$'
-    - '(.*\.)?miro.com$'
-    - '(.*\.)?mlb.com$'
-    - '(.*\.)?mncollegedems.org$'
-    - '(.*\.)?mob.org$'
-    - '(.*\.)?mobilemoxie.com$'
-    - '(.*\.)?mobisoftinfotech.com$'
-    - '(.*\.)?mockitt.com$'
-    - '(.*\.)?mockofun.com$'
-    - '(.*\.)?mockoon.com$'
-    - '(.*\.)?mockplus.com$'
-    - '(.*\.)?moewalls.com$'
-    - '(.*\.)?mofos.com$'
-    - '(.*\.)?mojoauth.com$'
-    - '(.*\.)?mominitaly.com$'
-    - '(.*\.)?momjunction.com$'
-    - '(.*\.)?monicaheilmanart.com$'
-    - '(.*\.)?monsterinsights.com$'
-    - '(.*\.)?moregrannies.com$'
-    - '(.*\.)?mosalingua.com$'
-    - '(.*\.)?moshlife.com$'
-    - '(.*\.)?moshplanner.com$'
-    - '(.*\.)?motionbgs.com$'
-    - '(.*\.)?movavi.com$'
-    - '(.*\.)?movie.linksind.net$'
-    - '(.*\.)?moviefone.com$'
-    - '(.*\.)?moviemeter.nl$'
-    - '(.*\.)?movieswatchfreeonline.com$'
-    - '(.*\.)?msp360.com$'
-    - '(.*\.)?mtn.com$'
-    - '(.*\.)?multcloud.com$'
-    - '(.*\.)?muncievoice.com$'
-    - '(.*\.)?mutschler.dev$'
-    - '(.*\.)?mybard.com$'
-    - '(.*\.)?mybookcave.com$'
-    - '(.*\.)?mydadwroteaporno.com$'
-    - '(.*\.)?myebooks.mheducation.com$'
-    - '(.*\.)?myedit.online$'
-    - '(.*\.)?myfreecams.com$'
-    - '(.*\.)?mygreatlearning.com$'
-    - '(.*\.)?mylittlemagicshop.com$'
-    - '(.*\.)?mymovies.it$'
-    - '(.*\.)?mypercentagecalculator.com$'
-    - '(.*\.)?myperfectcolor.com$'
-    - '(.*\.)?myriadpro.com$'
-    - '(.*\.)?mysocialweb.it$'
-    - '(.*\.)?mysoftwarefree.com$'
-    - '(.*\.)?myvideoanalyser.com$'
-    - '(.*\.)?name-generator.org.uk$'
-    - '(.*\.)?namechk.com$'
-    - '(.*\.)?namesgenerator.io$'
-    - '(.*\.)?nanabanana.ai$'
-    - '(.*\.)?nanabanana.it$'
-    - '(.*\.)?nanakoshis.com$'
-    - '(.*\.)?nano-stix.com$'
-    - '(.*\.)?nano-vista.com$'
-    - '(.*\.)?nano.komputronik.pl$'
-    - '(.*\.)?nanobanana.ai$'
-    - '(.*\.)?nanoknee.com$'
-    - '(.*\.)?nanotek.lk$'
-    - '(.*\.)?narakeet.com$'
-    - '(.*\.)?nascompares.com$'
-    - '(.*\.)?nastypornvids.com$'
-    - '(.*\.)?nationalrail.co.uk$'
-    - '(.*\.)?naudio.app$'
-    - '(.*\.)?naudiosounds.com$'
-    - '(.*\.)?naughtyamerica.com$'
-    - '(.*\.)?nbe.com.eg$'
-    - '(.*\.)?ncry.org$'
-    - '(.*\.)?neep.com$'
-    - '(.*\.)?negoziocucina.it$'
-    - '(.*\.)?neo.space$'
-    - '(.*\.)?neoland.dev$'
-    - '(.*\.)?neosb.net$'
-    - '(.*\.)?netflix-news.atsit.in$'
-    - '(.*\.)?netseccloud.com$'
-    - '(.*\.)?netspotapp.com$'
-    - '(.*\.)?networksolutions.com$'
-    - '(.*\.)?neuraldsp.com$'
-    - '(.*\.)?neuralwriter.com$'
-    - '(.*\.)?newwaveart.com$'
-    - '(.*\.)?nextui.org$'
-    - '(.*\.)?nha.nl$'
-    - '(.*\.)?nicknamesearch.com$'
-    - '(.*\.)?nientepopcorn.it$'
-    - '(.*\.)?nieuwbouw-rijndael.nl$'
-    - '(.*\.)?ninja.it$'
-    - '(.*\.)?noodlemagazine.com$'
-    - '(.*\.)?northerncentralrailway.com$'
-    - '(.*\.)?notebookandpenguin.com$'
-    - '(.*\.)?noted.lol$'
-    - '(.*\.)?notegpt.io$'
-    - '(.*\.)?noto.ink$'
-    - '(.*\.)?notopizza.com$'
-    - '(.*\.)?nourishingexistence.com$'
-    - '(.*\.)?nseindia.com$'
-    - '(.*\.)?ntoa.org$'
-    - '(.*\.)?nucleoapp.com$'
-    - '(.*\.)?numberolgy.com$'
-    - '(.*\.)?numeragic.com$'
-    - '(.*\.)?numerana.com$'
-    - '(.*\.)?numerograph.com$'
-    - '(.*\.)?numerologatv.com$'
-    - '(.*\.)?numerologia-cotidiana.com$'
-    - '(.*\.)?numerologia.app$'
-    - '(.*\.)?numerologia.com.es$'
-    - '(.*\.)?numerologia.me$'
-    - '(.*\.)?numerologia.pro$'
-    - '(.*\.)?numerologia.uno$'
-    - '(.*\.)?numerologiabasica.com$'
-    - '(.*\.)?numerologiabymune.com$'
-    - '(.*\.)?numerologiagratis.net$'
-    - '(.*\.)?numerologiapura.com$'
-    - '(.*\.)?numerologist.com$'
-    - '(.*\.)?numerologos.com$'
-    - '(.*\.)?numerologycalculations.com$'
-    - '(.*\.)?numerologycalculator.ai$'
-    - '(.*\.)?numerologygenius.com$'
-    - '(.*\.)?numerologykey.com$'
-    - '(.*\.)?numerologysign.com$'
-    - '(.*\.)?numerrologic.com$'
-    - '(.*\.)?nutrifree.it$'
-    - '(.*\.)?nuvid.com$'
-    - '(.*\.)?nvimcolors.com$'
-    - '(.*\.)?nypost.com$'
-    - '(.*\.)?nyrr.org$'
-    - '(.*\.)?oakcitycoatings.com$'
-    - '(.*\.)?oasisneonsigns.co.uk$'
-    - '(.*\.)?occultscience.in$'
-    - '(.*\.)?oceanofpdf.com$'
-    - '(.*\.)?oceansofgamess.com$'
-    - '(.*\.)?offsec.tools$'
-    - '(.*\.)?oggiintv.eu$'
-    - '(.*\.)?oggiintv.kaleidosstudio.com$'
-    - '(.*\.)?ohsolovelyblog.com$'
-    - '(.*\.)?ok.xxx$'
-    - '(.*\.)?oklch.net$'
-    - '(.*\.)?oklch.org$'
-    - '(.*\.)?olderwomen.tv$'
-    - '(.*\.)?omgsymbol.com$'
-    - '(.*\.)?omnigenai.org$'
-    - '(.*\.)?onassar.github.io$'
-    - '(.*\.)?onboardbase.com$'
-    - '(.*\.)?once.sport$'
-    - '(.*\.)?onform.com$'
-    - '(.*\.)?online-convert.com$'
-    - '(.*\.)?online-ide.com$'
-    - '(.*\.)?online-image-editor.com$'
-    - '(.*\.)?online.visual-paradigm.com$'
-    - '(.*\.)?onlinebibliotheek.nl$'
-    - '(.*\.)?onlinegames.io$'
-    - '(.*\.)?onlineimageditor.com$'
-    - '(.*\.)?onlineornot.com$'
-    - '(.*\.)?onlinepngtools.com$'
-    - '(.*\.)?onlinetestcase.com$'
-    - '(.*\.)?ononoki.org$'
-    - '(.*\.)?onzetaal.nl$'
-    - '(.*\.)?open-minds.it$'
-    - '(.*\.)?openart.ai$'
-    - '(.*\.)?openculture.com$'
-    - '(.*\.)?openebooks.org$'
-    - '(.*\.)?opengrowth.com$'
-    - '(.*\.)?openreplay.com$'
-    - '(.*\.)?opensourceagenda.com$'
-    - '(.*\.)?optogatemicswitch.com$'
-    - '(.*\.)?orangetitles.com$'
-    - '(.*\.)?orcacore.com$'
-    - '(.*\.)?origano-leith.co.uk$'
-    - '(.*\.)?orologio.it$'
-    - '(.*\.)?orpha.net$'
-    - '(.*\.)?oryoy.com$'
-    - '(.*\.)?ottverse.com$'
-    - '(.*\.)?ovacen.com$'
-    - '(.*\.)?overchat.ai$'
-    - '(.*\.)?own3d.tv$'
-    - '(.*\.)?p2hp.com$'
-    - '(.*\.)?pablo-guides.com$'
-    - '(.*\.)?packers.com$'
-    - '(.*\.)?pagedart.com$'
-    - '(.*\.)?palettemaker.com$'
-    - '(.*\.)?pamsteele.org$'
-    - '(.*\.)?pardus.org.tr$'
-    - '(.*\.)?password-depot.de$'
-    - '(.*\.)?pastebin.freeswitch.org$'
-    - '(.*\.)?pathtoeagle.org$'
-    - '(.*\.)?patriots.com$'
-    - '(.*\.)?patrowl.io$'
-    - '(.*\.)?patterned.ai$'
-    - '(.*\.)?patternify.com$'
-    - '(.*\.)?patternpictures.com$'
-    - '(.*\.)?paulgo.io$'
-    - '(.*\.)?pc.net$'
-    - '(.*\.)?pcmag.com$'
-    - '(.*\.)?pdf.fachschaft.cl.uni-heidelberg.de$'
-    - '(.*\.)?pdf.kraisak.com$'
-    - '(.*\.)?pdfcoffee.com$'
-    - '(.*\.)?pdfslide.net$'
-    - '(.*\.)?peekvids.com$'
-    - '(.*\.)?penji.co$'
-    - '(.*\.)?pentesting.org$'
-    - '(.*\.)?percent-calculator.com$'
-    - '(.*\.)?percent-change.com$'
-    - '(.*\.)?percentage-calc.net$'
-    - '(.*\.)?percentage-calculate.com$'
-    - '(.*\.)?percentage-calculator.uk$'
-    - '(.*\.)?percentage-calculator$'
-    - '(.*\.)?percentage-online.com$'
-    - '(.*\.)?percentage.so$'
-    - '(.*\.)?percentagecal.com$'
-    - '(.*\.)?percentagecalculater.com$'
-    - '(.*\.)?percentagecalculation.com$'
-    - '(.*\.)?percentagecalculation.net$'
-    - '(.*\.)?percentagecalculator.cc$'
-    - '(.*\.)?percentagecalculator.mes.fm$'
-    - '(.*\.)?percentagecalculator.one$'
-    - '(.*\.)?percentagecalculator.org$'
-    - '(.*\.)?percentagecalculator.us$'
-    - '(.*\.)?percentagecalculator.zone$'
-    - '(.*\.)?percentagecalculatorhq.com$'
-    - '(.*\.)?percentagecalculators.org$'
-    - '(.*\.)?percentagecalculatorshub.com$'
-    - '(.*\.)?percentagefinder.net$'
-    - '(.*\.)?percentagefinder.org$'
-    - '(.*\.)?percentagegenius.com$'
-    - '(.*\.)?percentager.net$'
-    - '(.*\.)?percentages-calculator.com$'
-    - '(.*\.)?percentagescalculators.com$'
-    - '(.*\.)?percentcalc.com$'
-    - '(.*\.)?percentcalc.net$'
-    - '(.*\.)?percentcalculators.com$'
-    - '(.*\.)?percentpercentagecalculator.com$'
-    - '(.*\.)?percenttool.com$'
-    - '(.*\.)?perfectgirls.xxx$'
-    - '(.*\.)?perlego.com$'
-    - '(.*\.)?peterpengnz.github.io$'
-    - '(.*\.)?petri.com$'
-    - '(.*\.)?pexels.com$'
-    - '(.*\.)?phantomfiles.io$'
-    - '(.*\.)?philadelphiaeagles.com$'
-    - '(.*\.)?phona.co.uk$'
-    - '(.*\.)?phot.ai$'
-    - '(.*\.)?photoaid.com$'
-    - '(.*\.)?photoeditor.ai$'
-    - '(.*\.)?photoeditor.com$'
-    - '(.*\.)?photofunia.com$'
-    - '(.*\.)?photokit.com$'
-    - '(.*\.)?photoleapapp.com$'
-    - '(.*\.)?photonkit.com$'
-    - '(.*\.)?photopos.com$'
-    - '(.*\.)?photopt.com$'
-    - '(.*\.)?photoscissors.com$'
-    - '(.*\.)?php.cn$'
-    - '(.*\.)?php.com$'
-    - '(.*\.)?phpagency.com$'
-    - '(.*\.)?phpaspshell.com$'
-    - '(.*\.)?phpbamboo.com$'
-    - '(.*\.)?phpgroup.co.uk$'
-    - '(.*\.)?phphub.net$'
-    - '(.*\.)?phpshell.pro$'
-    - '(.*\.)?piatti.menu$'
-    - '(.*\.)?piceditor.io$'
-    - '(.*\.)?picjumbo.com$'
-    - '(.*\.)?picnik.com$'
-    - '(.*\.)?picroma.com$'
-    - '(.*\.)?picsart.com$'
-    - '(.*\.)?picsman.ai$'
-    - '(.*\.)?picsvg.com$'
-    - '(.*\.)?picswalls.com$'
-    - '(.*\.)?picwand.ai$'
-    - '(.*\.)?picwish.com$'
-    - '(.*\.)?piehost.com$'
-    - '(.*\.)?pikbest.com$'
-    - '(.*\.)?pikpng.com$'
-    - '(.*\.)?piktochart.com$'
-    - '(.*\.)?pikwizard.com$'
-    - '(.*\.)?pincel.app$'
-    - '(.*\.)?pinmaker.supercell.com$'
-    - '(.*\.)?pinterest.com$'
-    - '(.*\.)?pitchbook.com$'
-    - '(.*\.)?pixcap.com$'
-    - '(.*\.)?pixcores.com$'
-    - '(.*\.)?pixelbin.io$'
-    - '(.*\.)?pixelcut.ai$'
-    - '(.*\.)?pixelmator.com$'
-    - '(.*\.)?pixground.com$'
-    - '(.*\.)?pixlr.com$'
-    - '(.*\.)?pixoate.com$'
-    - '(.*\.)?pixteller.com$'
-    - '(.*\.)?pizap.com$'
-    - '(.*\.)?pjmedia.com$'
-    - '(.*\.)?placeholderimage.dev$'
-    - '(.*\.)?placeit.net$'
-    - '(.*\.)?planetebook.com$'
-    - '(.*\.)?planetnumerology.com$'
-    - '(.*\.)?play-python.asyncmove.com$'
-    - '(.*\.)?playminigames.net$'
-    - '(.*\.)?playstation.com$'
-    - '(.*\.)?playvids.com$'
-    - '(.*\.)?pngall.com$'
-    - '(.*\.)?pngmart.com$'
-    - '(.*\.)?pngtree.com$'
-    - '(.*\.)?pnw-custom.com$'
-    - '(.*\.)?pocket-lint.com$'
-    - '(.*\.)?podbase.com$'
-    - '(.*\.)?poindeo.com$'
-    - '(.*\.)?pokecut.com$'
-    - '(.*\.)?poki.com$'
-    - '(.*\.)?polyhedr.com$'
-    - '(.*\.)?polymertechnology.it$'
-    - '(.*\.)?poppydeyes.com$'
-    - '(.*\.)?porn.com$'
-    - '(.*\.)?porn62.com$'
-    - '(.*\.)?porn300.com$'
-    - '(.*\.)?porndig.com$'
-    - '(.*\.)?porner.to$'
-    - '(.*\.)?porngo.com$'
-    - '(.*\.)?pornhat.com$'
-    - '(.*\.)?pornhat.one$'
-    - '(.*\.)?pornhd.com$'
-    - '(.*\.)?pornhub.com$'
-    - '(.*\.)?pornhub.run$'
-    - '(.*\.)?pornhub.xxx$'
-    - '(.*\.)?pornhubpremium.com$'
-    - '(.*\.)?pornicom.com$'
-    - '(.*\.)?pornid.xxx$'
-    - '(.*\.)?pornjam.com$'
-    - '(.*\.)?pornkai.com$'
-    - '(.*\.)?pornmega.com$'
-    - '(.*\.)?porno-zona.com$'
-    - '(.*\.)?porno.com$'
-    - '(.*\.)?pornobrot.com$'
-    - '(.*\.)?pornogratisdiario.com$'
-    - '(.*\.)?pornone.com$'
-    - '(.*\.)?pornorama.com$'
-    - '(.*\.)?pornotube.com$'
-    - '(.*\.)?pornoxo.com$'
-    - '(.*\.)?pornpics.com$'
-    - '(.*\.)?pornslash.com$'
-    - '(.*\.)?pornspear.com$'
-    - '(.*\.)?pornstargold.com$'
-    - '(.*\.)?porntn.com$'
-    - '(.*\.)?porntv.com$'
-    - '(.*\.)?pornv.xxx$'
-    - '(.*\.)?pornworld.com$'
-    - '(.*\.)?pornxp.com$'
-    - '(.*\.)?porsche.com$'
-    - '(.*\.)?portaldeltarot.com$'
-    - '(.*\.)?porzo.com$'
-    - '(.*\.)?post.japanpost.jp$'
-    - '(.*\.)?postcode.nl$'
-    - '(.*\.)?povr.com$'
-    - '(.*\.)?powerbash.org$'
-    - '(.*\.)?preline.co$'
-    - '(.*\.)?prepostseo.com$'
-    - '(.*\.)?preveil.com$'
-    - '(.*\.)?prezo.jp$'
-    - '(.*\.)?primevue.org$'
-    - '(.*\.)?priv.au$'
-    - '(.*\.)?privacyaffairs.com$'
-    - '(.*\.)?privacybee.com$'
-    - '(.*\.)?prize.supplyframe.com$'
-    - '(.*\.)?procreate.com$'
-    - '(.*\.)?profileme.dev$'
-    - '(.*\.)?programma.sorrisi.com$'
-    - '(.*\.)?programmazionetv.com$'
-    - '(.*\.)?programmerhumor.io$'
-    - '(.*\.)?progress.guide$'
-    - '(.*\.)?progressier.com$'
-    - '(.*\.)?progsoft.net$'
-    - '(.*\.)?promeai.pro$'
-    - '(.*\.)?promova.com$'
-    - '(.*\.)?pronounce.com$'
-    - '(.*\.)?pronouncenames.com$'
-    - '(.*\.)?pronounceonline.com$'
-    - '(.*\.)?pronounceweb.com$'
-    - '(.*\.)?pronunciation.club$'
-    - '(.*\.)?pronunciationfinder.com$'
-    - '(.*\.)?pronunciationpro.com$'
-    - '(.*\.)?pronunciationwithemma.com$'
-    - '(.*\.)?protom.com$'
-    - '(.*\.)?proton.ai$'
-    - '(.*\.)?protonradio.com$'
-    - '(.*\.)?protontt.com$'
-    - '(.*\.)?provantage.com$'
-    - '(.*\.)?provya.net$'
-    - '(.*\.)?proxy-seller.com$'
-    - '(.*\.)?ptes.org$'
-    - '(.*\.)?pteu.fr$'
-    - '(.*\.)?pubx.dev$'
-    - '(.*\.)?punteggioseo.com$'
-    - '(.*\.)?puppeteerai.com$'
-    - '(.*\.)?puppeteers.org$'
-    - '(.*\.)?puppetnerd.com$'
-    - '(.*\.)?purecalculators.com$'
-    - '(.*\.)?puretaboo.com$'
-    - '(.*\.)?puretaboohd.com$'
-    - '(.*\.)?pussyspace.com$'
-    - '(.*\.)?pxbarn.com$'
-    - '(.*\.)?python-fiddle.com$'
-    - '(.*\.)?python-playground.netlify.app$'
-    - '(.*\.)?python.irobot.com$'
-    - '(.*\.)?pythonhosted.org$'
-    - '(.*\.)?pythonprogramming.altervista.org$'
-    - '(.*\.)?qiita.com$'
-    - '(.*\.)?qorno.com$'
-    - '(.*\.)?qrcodechimp.com$'
-    - '(.*\.)?qualcherisposta.it$'
-    - '(.*\.)?queenslibrary.overdrive.com$'
-    - '(.*\.)?quso.ai$'
-    - '(.*\.)?qwikcut.com$'
-    - '(.*\.)?r57.gen.tr$'
-    - '(.*\.)?r57c99.com$'
-    - '(.*\.)?r57shell.net$'
-    - '(.*\.)?r57tools.com$'
-    - '(.*\.)?rachelsenglish.com$'
-    - '(.*\.)?railroads.dot.gov$'
-    - '(.*\.)?railway-news.com$'
-    - '(.*\.)?railway-usa.com$'
-    - '(.*\.)?railwayage.com$'
-    - '(.*\.)?railwaycb.com$'
-    - '(.*\.)?railwaygazette.com$'
-    - '(.*\.)?railwayinterchange.org$'
-    - '(.*\.)?railwaypro.com$'
-    - '(.*\.)?random-username-generator.com$'
-    - '(.*\.)?random.css-pattern.com$'
-    - '(.*\.)?randomchoicegenerator.com$'
-    - '(.*\.)?randomgenerate.io$'
-    - '(.*\.)?randomgenerators.com$'
-    - '(.*\.)?randomusernamegenerator.org$'
-    - '(.*\.)?rare-gallery.com$'
-    - '(.*\.)?rawg.io$'
-    - '(.*\.)?rawpixel.com$'
-    - '(.*\.)?rc-astro.com$'
-    - '(.*\.)?rdns.com.au$'
-    - '(.*\.)?rdp-servers.com$'
-    - '(.*\.)?rdu.com$'
-    - '(.*\.)?react-awesome-components.vercel.app$'
-    - '(.*\.)?react-flow-dev.netlify.app$'
-    - '(.*\.)?react-flow.azurewebsites.net$'
-    - '(.*\.)?react-md.dev$'
-    - '(.*\.)?react-pdf-viewer.dev$'
-    - '(.*\.)?react.keepdesign.io$'
-    - '(.*\.)?reactcomponents.com$'
-    - '(.*\.)?reactflow.online$'
-    - '(.*\.)?reactstudio.com$'
-    - '(.*\.)?readme-gen.streamlit.app$'
-    - '(.*\.)?readme.linderhassinger.dev$'
-    - '(.*\.)?readme.rustc.cloud$'
-    - '(.*\.)?readshop.nl$'
-    - '(.*\.)?realitykings.com$'
-    - '(.*\.)?recraft.ai$'
-    - '(.*\.)?recurpost.com$'
-    - '(.*\.)?redpacketsecurity.com$'
-    - '(.*\.)?redporn.porn$'
-    - '(.*\.)?redtube.com$'
-    - '(.*\.)?redtube.net$'
-    - '(.*\.)?reebok.com$'
-    - '(.*\.)?reebokbyyou.com$'
-    - '(.*\.)?refine.dev$'
-    - '(.*\.)?reflectiz.com$'
-    - '(.*\.)?regexpal.com$'
-    - '(.*\.)?regextester.com$'
-    - '(.*\.)?remush.be$'
-    - '(.*\.)?renaultfanclub.com$'
-    - '(.*\.)?repeato.app$'
-    - '(.*\.)?repocloud.io$'
-    - '(.*\.)?repolaunch.com$'
-    - '(.*\.)?resizehood.com$'
-    - '(.*\.)?resizepanda.com$'
-    - '(.*\.)?resizepng.com$'
-    - '(.*\.)?restack.io$'
-    - '(.*\.)?restaurantguru.it$'
-    - '(.*\.)?restream.io$'
-    - '(.*\.)?retailmenot.com$'
-    - '(.*\.)?retool.com$'
-    - '(.*\.)?retouchinglabs.com$'
-    - '(.*\.)?retouchme.com$'
-    - '(.*\.)?retrovectors.com$'
-    - '(.*\.)?reverseimagesearcher.com$'
-    - '(.*\.)?reversely.ai$'
-    - '(.*\.)?rewind-ui.dev$'
-    - '(.*\.)?rexglass.com$'
-    - '(.*\.)?rgb.to$'
-    - '(.*\.)?rgbacolorpicker.com$'
-    - '(.*\.)?rgbcolorcode.com$'
-    - '(.*\.)?rgbtohex.net$'
-    - '(.*\.)?ridedart.com$'
-    - '(.*\.)?ridegobus.com$'
-    - '(.*\.)?ripcord.io$'
-    - '(.*\.)?ripcordarrowrest.com$'
-    - '(.*\.)?ripcordsecuritysoftware.com$'
-    - '(.*\.)?riptutorial.com$'
-    - '(.*\.)?ristorantequinoa.it$'
-    - '(.*\.)?ritdye.com$'
-    - '(.*\.)?riten.com$'
-    - '(.*\.)?ritten.com$'
-    - '(.*\.)?ritten.me$'
-    - '(.*\.)?riverheadnewsreview.timesreview.com$'
-    - '(.*\.)?rmzxw.com.cn$'
-    - '(.*\.)?robadadonne.it$'
-    - '(.*\.)?rock.porn$'
-    - '(.*\.)?romancebookworms.com$'
-    - '(.*\.)?rrtutors.com$'
-    - '(.*\.)?rsiweb.org$'
-    - '(.*\.)?rtands.com$'
-    - '(.*\.)?runoob.com$'
-    - '(.*\.)?runturkeytrot.ca$'
-    - '(.*\.)?saasdiscovery.com$'
-    - '(.*\.)?sabiduri.com$'
-    - '(.*\.)?sabr.org$'
-    - '(.*\.)?saclibrary.org'
-    - '(.*\.)?safe-hr.com$'
-    - '(.*\.)?safecontractor.com$'
-    - '(.*\.)?sagegoddess.com$'
-    - '(.*\.)?samplefile.com$'
-    - '(.*\.)?sampleimages.com$'
-    - '(.*\.)?sampleshots.com$'
-    - '(.*\.)?sampletestfile.com$'
-    - '(.*\.)?sarahhearts.com$'
-    - '(.*\.)?satnam.de$'
-    - '(.*\.)?saundz.com$'
-    - '(.*\.)?scalebranding.com$'
-    - '(.*\.)?scan-me.cc$'
-    - '(.*\.)?scanme.digital$'
-    - '(.*\.)?scanmehome.com$'
-    - '(.*\.)?schemecolor.com$'
-    - '(.*\.)?scienceabc.com$'
-    - '(.*\.)?scoutles.com$'
-    - '(.*\.)?scoutlife.org$'
-    - '(.*\.)?scoutsmarts.com$'
-    - '(.*\.)?scrappybook.com$'
-    - '(.*\.)?screen-recorder.com$'
-    - '(.*\.)?screenapp.io$'
-    - '(.*\.)?screendemos.com$'
-    - '(.*\.)?screenrant.com$'
-    - '(.*\.)?screenworld.it$'
-    - '(.*\.)?scstatehouse.gov$'
-    - '(.*\.)?seahawks.com$'
-    - '(.*\.)?seankegel.com$'
-    - '(.*\.)?searchcode.com$'
-    - '(.*\.)?searchengine.com$'
-    - '(.*\.)?searx.bndkt.cz$'
-    - '(.*\.)?searx.bndkt.io$'
-    - '(.*\.)?searx.bunse.xyz$'
-    - '(.*\.)?searx.info$'
-    - '(.*\.)?searx.perennialte.ch$'
-    - '(.*\.)?searx.space$'
-    - '(.*\.)?searx.stream$'
-    - '(.*\.)?searx.thegpm.org$'
-    - '(.*\.)?searx.tiekoetter.com$'
-    - '(.*\.)?searxng.site$'
-    - '(.*\.)?searxng.tmiland.com$'
-    - '(.*\.)?secoda.co$'
-    - '(.*\.)?securityonline.info$'
-    - '(.*\.)?seeklogo.com$'
-    - '(.*\.)?sekurak.pl$'
-    - '(.*\.)?selfhostedworld.com$'
-    - '(.*\.)?sellercircle.co.uk$'
-    - '(.*\.)?send.app$'
-    - '(.*\.)?send.org$'
-    - '(.*\.)?sendbig.com$'
-    - '(.*\.)?sendfilestotv.app$'
-    - '(.*\.)?sendvid.com$'
-    - '(.*\.)?seozoom.com$'
-    - '(.*\.)?seozoom.it$'
-    - '(.*\.)?sequart.org$'
-    - '(.*\.)?sergiomauri.info$'
-    - '(.*\.)?seriousdetecting.com$'
-    - '(.*\.)?sermonillustrations.com$'
-    - '(.*\.)?service-go.com$'
-    - '(.*\.)?servicego.it$'
-    - '(.*\.)?servicego.us$'
-    - '(.*\.)?servicegocleaning.com$'
-    - '(.*\.)?servicetitan.com$'
-    - '(.*\.)?serviporno.com$'
-    - '(.*\.)?setaswall.com$'
-    - '(.*\.)?seventhlifepath.com$'
-    - '(.*\.)?sewsweetness.com$'
-    - '(.*\.)?sexlikereal.com$'
-    - '(.*\.)?sexmex.xxx$'
-    - '(.*\.)?sha256hash.org$'
-    - '(.*\.)?shadowboxes.com$'
-    - '(.*\.)?shallwelearn.com$'
-    - '(.*\.)?sharedfilespro.com$'
-    - '(.*\.)?sharedrop.io$'
-    - '(.*\.)?sharesome.com$'
-    - '(.*\.)?shecodes.io$'
-    - '(.*\.)?shellindir.org$'
-    - '(.*\.)?shellizm.com$'
-    - '(.*\.)?shooshtime.com$'
-    - '(.*\.)?shrink.media$'
-    - '(.*\.)?shutterstock.com$'
-    - '(.*\.)?sidelessons.com$'
-    - '(.*\.)?sigmaos.com$'
-    - '(.*\.)?simplemind.eu$'
-    - '(.*\.)?simplemindmap.com$'
-    - '(.*\.)?simplesvgeditor.com$'
-    - '(.*\.)?simplified.com$'
-    - '(.*\.)?simplifycpp.org$'
-    - '(.*\.)?simplycodes.com$'
-    - '(.*\.)?simplytranslate.com$'
-    - '(.*\.)?simyo.nl$'
-    - '(.*\.)?site24x7.com$'
-    - '(.*\.)?sitepreviewer.live$'
-    - '(.*\.)?sketch.metademolab.com$'
-    - '(.*\.)?sketchengine.eu$'
-    - '(.*\.)?sketchvalley.com$'
-    - '(.*\.)?skotechlearn.com$'
-    - '(.*\.)?skuola.net$'
-    - '(.*\.)?slashfilm.com$'
-    - '(.*\.)?slimframework.com$'
-    - '(.*\.)?smallseotools.com$'
-    - '(.*\.)?smart-ex.jp$'
-    - '(.*\.)?smartgadgetify.com$'
-    - '(.*\.)?smashingmagazine.com$'
-    - '(.*\.)?snapdrop.net$'
-    - '(.*\.)?snapedit.app$'
-    - '(.*\.)?snapgallery.site$'
-    - '(.*\.)?snappa.com$'
-    - '(.*\.)?snapwonders.com$'
-    - '(.*\.)?snipr.ai$'
-    - '(.*\.)?socratica.com$'
-    - '(.*\.)?soft98.ir$'
-    - '(.*\.)?soft112.com$'
-    - '(.*\.)?softaculous.com$'
-    - '(.*\.)?softonic.com$'
-    - '(.*\.)?softpedia.com$'
-    - '(.*\.)?sologo.ai$'
-    - '(.*\.)?solveyourtech.com$'
-    - '(.*\.)?soraapp.com$'
-    - '(.*\.)?soulnavigation.com$'
-    - '(.*\.)?soulsourcetarot.net$'
-    - '(.*\.)?soultarot.co$'
-    - '(.*\.)?soultarotguidance.com$'
-    - '(.*\.)?soundsofspeech.uiowa.edu$'
-    - '(.*\.)?sourcetreeapp.com$'
-    - '(.*\.)?spanishdict.com$'
-    - '(.*\.)?sparkylinux.org$'
-    - '(.*\.)?speakometer.net$'
-    - '(.*\.)?speckyboy.com$'
-    - '(.*\.)?specstechdb.com$'
-    - '(.*\.)?speechmeter.com$'
-    - '(.*\.)?speechninja.co$'
-    - '(.*\.)?speedsecrets.com$'
-    - '(.*\.)?spicevids.com$'
-    - '(.*\.)?spiritualinsights.info$'
-    - '(.*\.)?spolecznosc.ing.pl$'
-    - '(.*\.)?spotify.com$'
-    - '(.*\.)?sprachcaffe.com$'
-    - '(.*\.)?sprongo.com$'
-    - '(.*\.)?sproutvideo.com$'
-    - '(.*\.)?spyne.ai$'
-    - '(.*\.)?sshaudit.com$'
-    - '(.*\.)?ssi-schaefer.com$'
-    - '(.*\.)?ssipetro.com$'
-    - '(.*\.)?sslc-percentage-calculator.netlify.app$'
-    - '(.*\.)?ssojet.com$'
-    - '(.*\.)?sssh.com$'
-    - '(.*\.)?stackoom.com$'
-    - '(.*\.)?standardwool.uk$'
-    - '(.*\.)?starcss.com$'
-    - '(.*\.)?starship.xyz$'
-    - '(.*\.)?startupdefense.io$'
-    - '(.*\.)?staseraintv.com$'
-    - '(.*\.)?statsforgit.com$'
-    - '(.*\.)?status.epicgames.com$'
-    - '(.*\.)?status.io$'
-    - '(.*\.)?steelcitycollectibles.com$'
-    - '(.*\.)?stephanieevergreen.com$'
-    - '(.*\.)?stock.adobe.com$'
-    - '(.*\.)?stockimg.ai$'
-    - '(.*\.)?stocking-tease.com$'
-    - '(.*\.)?stocksnap.io$'
-    - '(.*\.)?storyset.com$'
-    - '(.*\.)?streamingcommunity.broker$'
-    - '(.*\.)?streamingcommunity.computer$'
-    - '(.*\.)?streamingcommunity.family$'
-    - '(.*\.)?streamingcommunityz.digital$'
-    - '(.*\.)?streamingcommunityz.email$'
-    - '(.*\.)?streamingcommunityz.fun$'
-    - '(.*\.)?streamingita.altadefinizione.ioch.org$'
-    - '(.*\.)?streaminglearningcenter.com$'
-    - '(.*\.)?strumentiseo.it$'
-    - '(.*\.)?studenti.it$'
-    - '(.*\.)?studycrumb.com$'
-    - '(.*\.)?stuff.tv$'
-    - '(.*\.)?suicide.org$'
-    - '(.*\.)?suicideforum.com$'
-    - '(.*\.)?summerlandfestival.it$'
-    - '(.*\.)?supaui.io$'
-    - '(.*\.)?superdesigner.co$'
-    - '(.*\.)?superguidatv.it$'
-    - '(.*\.)?superviz.com$'
-    - '(.*\.)?susano.re$'
-    - '(.*\.)?sushant747.gitbooks.io$'
-    - '(.*\.)?suzhou.gov.cn$'
-    - '(.*\.)?svedic.org$'
-    - '(.*\.)?svg-editor.com$'
-    - '(.*\.)?svg-to-png.net$'
-    - '(.*\.)?svgbackgrounds.com$'
-    - '(.*\.)?svgcolor.com$'
-    - '(.*\.)?svgeditor.com$'
-    - '(.*\.)?svgeditor.pro$'
-    - '(.*\.)?svgeditoronline.com$'
-    - '(.*\.)?svgmaker.io$'
-    - '(.*\.)?svgomg.net$'
-    - '(.*\.)?svgrepo.com$'
-    - '(.*\.)?svgtopng.com$'
-    - '(.*\.)?svgtrace.com$'
-    - '(.*\.)?svgvisualize.com$'
-    - '(.*\.)?swissadme.ch$'
-    - '(.*\.)?sxyprn.com$'
-    - '(.*\.)?sxyprn.net$'
-    - '(.*\.)?symbolsdecoded.com$'
-    - '(.*\.)?syncfusion.com$'
-    - '(.*\.)?tabler-icons-react.vercel.app$'
-    - '(.*\.)?tabler.io$'
-    - '(.*\.)?tablericons.com$'
-    - '(.*\.)?tacomapermits.org$'
-    - '(.*\.)?tailkits.com$'
-    - '(.*\.)?tailwindapp.com$'
-    - '(.*\.)?taiwancss.org$'
-    - '(.*\.)?talend.com$'
-    - '(.*\.)?talkpython.fm$'
-    - '(.*\.)?taplio.com$'
-    - '(.*\.)?taptap.io$'
-    - '(.*\.)?target.com$'
-    - '(.*\.)?tarot.com$'
-    - '(.*\.)?tarotalliance.com$'
-    - '(.*\.)?tarotfromscratch.com$'
-    - '(.*\.)?tarotofthefool.com$'
-    - '(.*\.)?tccmagic.com$'
-    - '(.*\.)?tcss.com$'
-    - '(.*\.)?tcss.eu$'
-    - '(.*\.)?tcss.net$'
-    - '(.*\.)?teacherspayteachers.com$'
-    - '(.*\.)?teamhackaday.com$'
-    - '(.*\.)?teamtriton.com$'
-    - '(.*\.)?techbloat.com$'
-    - '(.*\.)?techenet.com$'
-    - '(.*\.)?techgadget.gr$'
-    - '(.*\.)?technave.com$'
-    - '(.*\.)?techno-tools.it$'
-    - '(.*\.)?technotes.blog$'
-    - '(.*\.)?techwiser.com$'
-    - '(.*\.)?teck.in$'
-    - '(.*\.)?tecmint.com$'
-    - '(.*\.)?teknotel.com$'
-    - '(.*\.)?teletype.in$'
-    - '(.*\.)?televideoteca.it$'
-    - '(.*\.)?tella.com$'
-    - '(.*\.)?telsy.com$'
-    - '(.*\.)?tempfile.pro$'
-    - '(.*\.)?tencent.com$'
-    - '(.*\.)?tenereteam.com$'
-    - '(.*\.)?tenor.com$'
-    - '(.*\.)?test-ipv6.com$'
-    - '(.*\.)?texascreative.com$'
-    - '(.*\.)?texascss.net$'
-    - '(.*\.)?textcompare.io$'
-    - '(.*\.)?textemoji.org$'
-    - '(.*\.)?textstudio.com$'
-    - '(.*\.)?texture-packs.com$'
-    - '(.*\.)?textures.world$'
-    - '(.*\.)?textutilitytools.com$'
-    - '(.*\.)?tg24.sky.it$'
-    - '(.*\.)?tgbots.cc$'
-    - '(.*\.)?thatbacheloretteshow.com$'
-    - '(.*\.)?thatguyfromdelhi.com$'
-    - '(.*\.)?the-image-editor.com$'
-    - '(.*\.)?theblinkies.com$'
-    - '(.*\.)?thebookee.net$'
-    - '(.*\.)?thebrief.ai$'
-    - '(.*\.)?thecenterstaffingservices.com$'
-    - '(.*\.)?thecog.com$'
-    - '(.*\.)?thecolorpalettestudio.com$'
-    - '(.*\.)?thecriticalslidesociety.com'
-    - '(.*\.)?thedandyliar.com$'
-    - '(.*\.)?theeverygirl.com$'
-    - '(.*\.)?thefatpaintcompany.com$'
-    - '(.*\.)?thegadgetflow.com$'
-    - '(.*\.)?thegadgetify.com$'
-    - '(.*\.)?thegadgetify.in$'
-    - '(.*\.)?thegamecrafter.com$'
-    - '(.*\.)?thehappyplanner.com$'
-    - '(.*\.)?theikefoundation.org$'
-    - '(.*\.)?thelanguagecloset.com$'
-    - '(.*\.)?thelinuxcode.com$'
-    - '(.*\.)?themeskingdom.com'
-    - '(.*\.)?themodernham.com$'
-    - '(.*\.)?themorning.com$'
-    - '(.*\.)?thenumerologypower.com$'
-    - '(.*\.)?thepatterncollective.com$'
-    - '(.*\.)?thepercentcalculator.com$'
-    - '(.*\.)?thepercentcalculator.org$'
-    - '(.*\.)?thephp.foundation$'
-    - '(.*\.)?thepornguy.org$'
-    - '(.*\.)?therams.com$'
-    - '(.*\.)?theripcord.com$'
-    - '(.*\.)?thesoftwareguild.com$'
-    - '(.*\.)?thespruce.com$'
-    - '(.*\.)?thetrain.com$'
-    - '(.*\.)?thewindowsclub.com$'
-    - '(.*\.)?thewordfinder.com$'
-    - '(.*\.)?theyarehuge.com$'
-    - '(.*\.)?thibautprobst.fr$'
-    - '(.*\.)?thicktube.com$'
-    - '(.*\.)?thiings.co$'
-    - '(.*\.)?thisvid.com$'
-    - '(.*\.)?threads.com$'
-    - '(.*\.)?thumbzilla.com$'
-    - '(.*\.)?thunderbirdpizza.com$'
-    - '(.*\.)?tiava.com$'
-    - '(.*\.)?tik.porn$'
-    - '(.*\.)?tiktok.com$'
-    - '(.*\.)?tiledesk.com$'
-    - '(.*\.)?timberland.com$'
-    - '(.*\.)?tinyrituals.co$'
-    - '(.*\.)?tinytake.com$'
-    - '(.*\.)?tinytask.net$'
-    - '(.*\.)?tiradadetarot.gratis$'
-    - '(.*\.)?tivustream.com$'
-    - '(.*\.)?tmp.ninja$'
-    - '(.*\.)?tmpsend.com$'
-    - '(.*\.)?tnsocialstudies.org$'
-    - '(.*\.)?todalanumerologia.com$'
-    - '(.*\.)?today.it$'
-    - '(.*\.)?tonyrobbinsfirewalk.com$'
-    - '(.*\.)?toolexe.com$'
-    - '(.*\.)?tools-4all.com$'
-    - '(.*\.)?toolsbug.com$'
-    - '(.*\.)?toolset.mrw.it$'
-    - '(.*\.)?toolslick.com$'
-    - '(.*\.)?toolsurf.com$'
-    - '(.*\.)?toolversal.com$'
-    - '(.*\.)?toolxox.com$'
-    - '(.*\.)?topcoder.com$'
-    - '(.*\.)?tophonetics.com$'
-    - '(.*\.)?toppng.com$'
-    - '(.*\.)?torgamez.com$'
-    - '(.*\.)?tosbourn.com$'
-    - '(.*\.)?totalplumbingfl.com$'
-    - '(.*\.)?touchupimage.com$'
-    - '(.*\.)?trainingcenter.com$'
-    - '(.*\.)?transfermyfile.com$'
-    - '(.*\.)?transrealbooks.com$'
-    - '(.*\.)?tricountyhealthut.gov$'
-    - '(.*\.)?trinityrailwayexpress.org$'
-    - '(.*\.)?tripadvisor.co.nz$'
-    - '(.*\.)?tripadvisor.com$'
-    - '(.*\.)?troup.org$'
-    - '(.*\.)?truefonts.net$'
-    - '(.*\.)?tube8.com$'
-    - '(.*\.)?tubegalore.com$'
-    - '(.*\.)?tubemilf.com$'
-    - '(.*\.)?tubepleasure.com$'
-    - '(.*\.)?tubesafari.com$'
-    - '(.*\.)?turbologo.com$'
-    - '(.*\.)?tureng.com$'
-    - '(.*\.)?turhost.com$'
-    - '(.*\.)?turito.com$'
-    - '(.*\.)?tutorialkart.com$'
-    - '(.*\.)?tutorialspoint.com$'
-    - '(.*\.)?tuulialaine.com$'
-    - '(.*\.)?tv.fakings.com$'
-    - '(.*\.)?tv.zam.it$'
-    - '(.*\.)?tv8.it$'
-    - '(.*\.)?tvprofil.com$'
-    - '(.*\.)?tw-elements.com$'
-    - '(.*\.)?tweakers.net$'
-    - '(.*\.)?twelvesouth.com$'
-    - '(.*\.)?twitter.com$'
-    - '(.*\.)?twosamplelogo.org$'
-    - '(.*\.)?txcss.net$'
-    - '(.*\.)?u-porno.com$'
-    - '(.*\.)?ubunlog.com$'
-    - '(.*\.)?uclibc.org$'
-    - '(.*\.)?udemy.com$'
-    - '(.*\.)?uhdpaper.com$'
-    - '(.*\.)?ui.rechesoares.com$'
-    - '(.*\.)?uic.org$'
-    - '(.*\.)?uidownload.com$'
-    - '(.*\.)?uigradients.com$'
-    - '(.*\.)?ultrahorny.com$'
-    - '(.*\.)?ultrawidewallpapers.net$'
-    - '(.*\.)?umatechnology.org$'
-    - '(.*\.)?uniteforliteracy.com$'
-    - '(.*\.)?unogeeks.com$'
-    - '(.*\.)?unsafe.sh$'
-    - '(.*\.)?untitledui.com$'
-    - '(.*\.)?unvale.io$'
-    - '(.*\.)?up.com$'
-    - '(.*\.)?updatestar.com$'
-    - '(.*\.)?uptimerobot.com$'
-    - '(.*\.)?uptodown.com$'
-    - '(.*\.)?urbanfonts.com$'
-    - '(.*\.)?url-decode.com$'
-    - '(.*\.)?urldecoder.io$'
-    - '(.*\.)?usafawol.com$'
-    - '(.*\.)?usafonts.pro$'
-    - '(.*\.)?usalearns.org$'
-    - '(.*\.)?usapronunciation.com$'
-    - '(.*\.)?user-name-generator.com$'
-    - '(.*\.)?username-generator.net$'
-    - '(.*\.)?usernamegenerator.co$'
-    - '(.*\.)?usernamegenerator.com$'
-    - '(.*\.)?usernamegenerator.io$'
-    - '(.*\.)?usernamegeneratoronline.com$'
-    - '(.*\.)?utax.it$'
-    - '(.*\.)?uxwing.com$'
-    - '(.*\.)?v1sports.com$'
-    - '(.*\.)?v2.nat32.com$'
-    - '(.*\.)?vaizle.com$'
-    - '(.*\.)?valossa.com$'
-    - '(.*\.)?valuecom.com$'
-    - '(.*\.)?valuedate.io$'
-    - '(.*\.)?vanderveldeboeken.nl$'
-    - '(.*\.)?vaporesso.com$'
-    - '(.*\.)?vault80.com$'
-    - '(.*\.)?vdoc.pub$'
-    - '(.*\.)?vecteezy.com$'
-    - '(.*\.)?vector4free.com$'
-    - '(.*\.)?vectorart.ai$'
-    - '(.*\.)?vectorian.net$'
-    - '(.*\.)?vectorified.com$'
-    - '(.*\.)?vectorink.io$'
-    - '(.*\.)?vectorwindows.com$'
-    - '(.*\.)?vectr.com$'
-    - '(.*\.)?vellum.pub$'
-    - '(.*\.)?velocenetwork.com$'
-    - '(.*\.)?venngage.com$'
-    - '(.*\.)?vexels.com$'
-    - '(.*\.)?vgtimes.com$'
-    - '(.*\.)?vi.wikipedia.org$'
-    - '(.*\.)?videoanalysis.site$'
-    - '(.*\.)?videoconverterfactory.com$'
-    - '(.*\.)?videoinsight.pro$'
-    - '(.*\.)?videoinsights.ai$'
-    - '(.*\.)?videospornogratisx.net$'
-    - '(.*\.)?vietcatholicsydney.net$'
-    - '(.*\.)?vikings.com$'
-    - '(.*\.)?vintagestory.at$'
-    - '(.*\.)?vintagevectors.com$'
-    - '(.*\.)?violentmonkey.com$'
-    - '(.*\.)?vipwank.com$'
-    - '(.*\.)?virtualizare.net$'
-    - '(.*\.)?visitlakedistrict.com$'
-    - '(.*\.)?vistaprint.com$'
-    - '(.*\.)?visualgpt.io$'
-    - '(.*\.)?visualpercentagecalculator.com$'
-    - '(.*\.)?visualpharm.com$'
-    - '(.*\.)?vivid.com$'
-    - '(.*\.)?vixen.com$'
-    - '(.*\.)?vogue.mx$'
-    - '(.*\.)?voicecup.com$'
-    - '(.*\.)?vondy.com$'
-    - '(.*\.)?vosaic.com$'
-    - '(.*\.)?vrporn.com$'
-    - '(.*\.)?vsthemes.org$'
-    - '(.*\.)?vsubhash.wordpress.com$'
-    - '(.*\.)?wall.alphacoders.com$'
-    - '(.*\.)?wallhalla.com$'
-    - '(.*\.)?wallpaper.cam$'
-    - '(.*\.)?wallpaper.dog$'
-    - '(.*\.)?wallpaperaccess.com$'
-    - '(.*\.)?wallpapercat.com$'
-    - '(.*\.)?wallpapercave.com$'
-    - '(.*\.)?wallpapercg.com$'
-    - '(.*\.)?wallpapercrafter.com$'
-    - '(.*\.)?wallpaperdrop.com$'
-    - '(.*\.)?wallpaperflare.com$'
-    - '(.*\.)?wallpaperhub.app$'
-    - '(.*\.)?wallpapers-clan.com$'
-    - '(.*\.)?wallpapers.com$'
-    - '(.*\.)?wallpapers.video$'
-    - '(.*\.)?wallpapersafari.com$'
-    - '(.*\.)?wallpaperscraft.com$'
-    - '(.*\.)?wallpapersden.com$'
-    - '(.*\.)?wallpaperseveryday.com$'
-    - '(.*\.)?wallpapershigh.com$'
-    - '(.*\.)?wallpapershome.com$'
-    - '(.*\.)?wallpapersok.com$'
-    - '(.*\.)?wallpaperswide.com$'
-    - '(.*\.)?wallpaperwaifu.com$'
-    - '(.*\.)?wallpapic.com$'
-    - '(.*\.)?wallscloud.net$'
-    - '(.*\.)?walmart.com$'
-    - '(.*\.)?waltsbeefjerky.net$'
-    - '(.*\.)?wangjun.dev$'
-    - '(.*\.)?warbletoncouncil.org$'
-    - '(.*\.)?wavegenerator.app$'
-    - '(.*\.)?webcatalog.io$'
-    - '(.*\.)?webdeasy.de$'
-    - '(.*\.)?webshell.co$'
-    - '(.*\.)?webshell.lol$'
-    - '(.*\.)?webshell.my.id$'
-    - '(.*\.)?webshots.com$'
-    - '(.*\.)?webstatus.in$'
-    - '(.*\.)?webutility.io$'
-    - '(.*\.)?wellgames.com$'
-    - '(.*\.)?welstech.wels.net$'
-    - '(.*\.)?wethrift.com$'
-    - '(.*\.)?wfsb.com$'
-    - '(.*\.)?whatfontis.com$'
-    - '(.*\.)?whaticket.online$'
-    - '(.*\.)?whatismyipaddress.com$'
-    - '(.*\.)?whitehatinstitute.com$'
-    - '(.*\.)?wicked.com$'
-    - '(.*\.)?widget-club.com$'
-    - '(.*\.)?wifi-analyzer-pro.it.aptoide.com$'
-    - '(.*\.)?wifianalyzer.info$'
-    - '(.*\.)?wikihow.com$'
-    - '(.*\.)?wikihow.it$'
-    - '(.*\.)?wikihow.tech$'
-    - '(.*\.)?wikipedia.org$'
-    - '(.*\.)?winasm.org$'
-    - '(.*\.)?wind-ui.com$'
-    - '(.*\.)?windsurf.com$'
-    - '(.*\.)?winuxos.com$'
-    - '(.*\.)?wislibrary.net$'
-    - '(.*\.)?wondershare.com$'
-    - '(.*\.)?woodpunchsgraphics.com$'
-    - '(.*\.)?woolha.com$'
-    - '(.*\.)?workintool.com$'
-    - '(.*\.)?worldemojiawards.com$'
-    - '(.*\.)?worldemojiday.com$'
-    - '(.*\.)?worldofcoca-cola.com$'
-    - '(.*\.)?wowebook.net$'
-    - '(.*\.)?wpbeginner.com$'
-    - '(.*\.)?wpdean.com$'
-    - '(.*\.)?wphackedhelp.com$'
-    - '(.*\.)?wps.com$'
-    - '(.*\.)?wsoshell.org$'
-    - '(.*\.)?wsotools.com$'
-    - '(.*\.)?wsupercars.com$'
-    - '(.*\.)?wtools.io$'
-    - '(.*\.)?www.cookieserve.com$'
-    - '(.*\.)?www4.acenet.edu$'
-    - '(.*\.)?x.com$'
-    - '(.*\.)?xcafe.com$'
-    - '(.*\.)?xconfessions.com$'
-    - '(.*\.)?xgroovy.com$'
-    - '(.*\.)?xhaccess.com$'
-    - '(.*\.)?xhamster.com$'
-    - '(.*\.)?xhamster.desi$'
-    - '(.*\.)?xhamster2.com$'
-    - '(.*\.)?xhamster3.com$'
-    - '(.*\.)?xhopen.com$'
-    - '(.*\.)?xlnaudio.com$'
-    - '(.*\.)?xmind.app$'
-    - '(.*\.)?xmind.com$'
-    - '(.*\.)?xtrafondos.com$'
-    - '(.*\.)?xvideos.com$'
-    - '(.*\.)?xvideos.tube$'
-    - '(.*\.)?xvideos2.com$'
-    - '(.*\.)?xvideos3.com$'
-    - '(.*\.)?xxxbios.com$'
-    - '(.*\.)?xxxbule.com$'
-    - '(.*\.)?y2calculate.com$'
-    - '(.*\.)?yahoo.com$'
-    - '(.*\.)?yawintutor.com$'
-    - '(.*\.)?yayimages.com$'
-    - '(.*\.)?yaytext.com$'
-    - '(.*\.)?yce.perfectcorp.com$'
-    - '(.*\.)?ydnysh.hashnode.dev$'
-    - '(.*\.)?ydray.com$'
-    - '(.*\.)?yelp.com$'
-    - '(.*\.)?yelp.it$'
-    - '(.*\.)?yeschat.ai$'
-    - '(.*\.)?yhype.me$'
-    - '(.*\.)?yobase64decode.com$'
-    - '(.*\.)?youjizz.com$'
-    - '(.*\.)?yourcolorguru.com$'
-    - '(.*\.)?yourhoroscopereading.com$'
-    - '(.*\.)?yourtango.com$'
-    - '(.*\.)?yumpu.com$'
-    - '(.*\.)?yworks.com$'
-    - '(.*\.)?yxi.ai$'
-    - '(.*\.)?z-lib.ai$'
-    - '(.*\.)?z-lib.id$'
-    - '(.*\.)?z-library-project.com$'
-    - '(.*\.)?z-library.bz$'
-    - '(.*\.)?z-library.cc$'
-    - '(.*\.)?z-library.co$'
-    - '(.*\.)?z-library.godaddysites.com$'
-    - '(.*\.)?z-library.life$'
-    - '(.*\.)?z-library.sk$'
-    - '(.*\.)?zanvis.com$'
-    - '(.*\.)?zarla.com$'
-    - '(.*\.)?zaziltunich.com$'
-    - '(.*\.)?zedge.net$'
-    - '(.*\.)?zenn.dev$'
-    - '(.*\.)?zeusnews.it$'
-    - '(.*\.)?zh.z-lib.gs$'
-    - '(.*\.)?zhidao.baidu.com$'
-    - '(.*\.)?zhihu.com$'
-    - '(.*\.)?ziggo.nl$'
-    - '(.*\.)?zight.com$'
-    - '(.*\.)?zkiz.com$'
-    - '(.*\.)?zlib.net$'
-    - '(.*\.)?zlibrary.sk$'
-    - '(.*\.)?zlibrary.st$'
-    - '(.*\.)?zone-h.org$'
-    - '(.*\.)?zoominfo.com$'
-    - '(.*\.)?zoviz.com$'
-    - '(.*\.)?zsh-prompt-generator.site$'
-    - '(.*\.)?zzztube.com$'
+onaircode.com
+javatpoint.com
+foolishdeveloper.com
+developerdrive.com
+filext.com
+logos-world.net
+logosdown.com
+brandlogos.net
+baidu.com
+getdrawings.com
+vectorportal.com
+tt-hardware.com
+logoclothingshop.com
+logoadvantage.com
+84lumber.com
+shirttuning.nl
+logosoftwear.com
+logofactoryusa.com
+johnstonelogoshop.com
+zkraft.io
+logologo.nl
+logobedrukken.nl
+mylogoshop.com
+logo-shop.nl
+thelogoshoppeonline.com
+logoai.ai
+logovtor.com
+svgai.org
+commercetools.com
+s-hertogenbosch.nl
+snapchat.com
+tinhte.vn
+kooora.com
+xlog.ajiang.fun
+darwinexzero.com
+toolpars.com
+trxtraining.com
+allocorrecteur.fr
+trx-mine.pro
+trxboost.online
+easytrx.net
+trxearn.com
+webcli.jp
+teknoverimlilik.com.tr
+byggahus.se
+metricool.app
+digiter.pl
+wtvr.com
+fortnite.com
+zywvvd.com
+trtltravel.com
+freemindtraining.nl
+aigraphmaker.net
+freemind.nl
+freemindtool.com
+mindmapmaker.net
+mindmapai.app
+whimsical.com
+mindomo.com
+creately.com
+processon.io
+mimind.cryptobees.com
+edrawmind.com
+mindmapping.com
+mapify.so
+lequipe.fr
+m.check24.de
+turtl.com
+turtl.nl
+jvh-puzzels.nl
+dktig.de
+streemit.com
+google.nl
+accounts.google.nl
+thecoolist.com
+behr.com
+milliehartinteriors.com
+havenly.com
+digitalsynopsis.com
+tsukurue.com
+purecode.ai
+streamingwebsites.com
+retrocrush.tv
+ani.me
+welcome.hidive.com
+animotaku.fr
+battleon.com
+bestofreactjs.com
+cherrytree.app
+cherrytreemusiccompany.com
+unidformazione.com
+t23m-navi.jp
+google.com.ai
+y8.com
+matematicafacile.it
+mathone.it
+wheree.com
+numeriprimi.it
+matematica.ch
+inumeriprimi.com
+numeri-primi.wheree.com
+numeriprimi.org
+flashscore.com
+pomoc.poczta.interia.pl
+smallsteps1.com
+smallsteps.org.nz
+htw-berlin.de
+imgtotext.org
+mergify.app
+archiveapp.org
+filmtheater-gerrit.nl
+chisel.com
+technicalustad.com
+alternative.me
+ajel.sa
+npack.kr
+npack.eu
+koreansrb.com
+asianpornmovies.com
+ibrameble.pl
+japaneseporn.xxx
+jable.tv
+777.porn
+asianotube.com
+xasiat.com
+augredelinstant.fr
+gratissoftwaresite.nl
+peazip.com
+maeva.com
+pea-japan.com
+satsuki.fr
+futurewoods.co.jp
+pandia.com
+alchetron.com
+moosoft.com
+fileion.com
+apponic.com
+lo4d.com
+macupdate.com
+9k9k.com
+javahihi.net
+robfauls.com
+freelogo.me
+wux.nl
+cruip.com
+logomaker.net
+snoweb-svg.com
+animista.net
+pdfencrypt.net
+apprentissage-virtuel.com
+medevel.com
+sis.mancosa.co.za
+codingislove.com
+topbestalternatives.com
+sitelike.org
+fatihex.dev
+avatarly.ai
+avatar.com
+ipaddress.com
+litecoin-earning.com
+litecoinrewards.click
+cointiply.com
+liteking.io
+litepick.io
+ferge.io
+stuhlfabrik-herisau.ch
+nfts.nl
+npo.nl
+demodernenomaden.nl
+beleggingsinstituut.nl
+pdf2go.com
+nft.paniniamerica.net
+nftinc.com
+nftnow.com
+nbatopshot.com
+nft.nl
+kaspersky.nl
+yahoo.co.jp
+z-lib.my
+namu.wiki
+z-lib.org
+zlibrary.pro
+zlibrary.io
+z-libraryurl.github.io
+zlibrary.biz
+zlibrary.vip
+librarygenesis.net
+zlibr.com
+updf.com
+primeinsider.co.uk
+z-lib.freedown.io
+z-library.com
+z-library.ltd
+blender-mcp.com
+blender-responsive.vercel.app
+beanstalkim.com
+beanstalk.farm
+beanstalk.nl
+fr.bing.com
+pastebin.es
+pastebin.calculate-linux.org
+pastebin.com
+pastebin.me
+pastefy.app
+text.is
+filepastebin.com
+pastebin.jonasscholz.de
+pastes.io
+pastebin.co
+pastebin.pl
+pasteit.sh
+paste-bin.org
+avis-situation-sirene.insee.fr
+distrowiz.com
+mde.tw
+fossil-scm.com
+ptt.cc
+techdator.net
+racing.ustrotting.com
+napoleoncasino.de
+gitea.cn
+opennet.ru
+tistory.com
+avatarmake.com
+kravatar.com
+heygen.com
+imagetocartoon.com
+avatargenerator.com
+opencharacter.org
+colossyan.com
+giz.ai
+onlineavatargenerator.com
+vroid.com
+avatarifyme.com
+secondlife.com
+mangoanimate.com
+promli.com
+ai.nero.com
+deep-image.ai
+topview.ai
+pippit.ai
+dolldivine.com
+hyper3d.ai
+jogg.ai
+fluxai.art
+youphoto.ai
+cartoonify.de
+vanceai.com
+ocmaker.net
+nerdiedad.com
+smartavatar.net
+pollo.ai
+aiavatar.com
+app.artflow.ai
+avatarmaker.net
+avatar-generator.com
+avatoon.me
+perchance.org
+avatar.viverse.com
+meiker.io
+starryai.com
+artguru.ai
+artcreate.ai
+typecast.ai
+powtoon.com
+vk.com
+face.co
+picrew.me
+vidnoz.com
+animaker.com
+ai-avatar-generator-clone.bubbleapps.io
+animaze.us
+doppelme.com
+ai-avatar-generator.com
+readyplayer.me
+gan.ai
+invideo.io
+aistudios.com
+charactercreator.org
+toki.ai
+monica.im
+descript.com
+synthesia.io
+yollo.ai
+notion-avatar.app
+bylo.ai
+deevid.ai
+avatarmaker.com
+jingyan.baidu.com
+strato.de
+dockerhub.com
+translate.google.de
+axenov.dev
+salla.com
+rakuya.com.tw
+ipfs.com
+hostnextra.com
+puretables.com
+starfall.com
+alphabetbags.com
+01net.it
+1onlyhost.com
+3axis.co
+3dgifmaker.com
+3dicons.co
+3disometricicon.com
+3dlogo.site
+3dlogolab.io
+3movs.com
+4easysoft.com
+4kwallpapers.com
+4sysops.com
+4tube.com
+6sigma.us
+9mod.com
+10wallpaper.com
+18teenporno.tv
+24gen.ai
+24xxx.porn
+32r.com
+66colorful.com
+66wz.com
+123dok.org
+123freebook.com
+123freevectors.com
+123rf.com
+365webresources.com
+1000fonts.com
+1000logos.net
+1001fonts.com
+1337x.st
+1337x.to
+2003.jres.org
+10015.io
+aadisol.in
+abc7.com
+abcya.com
+abeka.com
+abiresearch.com
+ac-illust.com
+adamtheautomator.com
+addlance.com
+adeptclippingpath.com
+adessoin.tv
+adottaunangelo.it
+adulttime.com
+advanced-percentage-calculator.com
+aebn.com
+aestheticwallpapers.io
+afontgenerator.com
+ahaemoji.com
+ai-know.pro
+aiart.pics
+aiarty.com
+aiease.ai
+aienhancer.ai
+aiimageanalyzer.online
+aiimageeditor.ai
+ailogomaker.io
+ailogomakerr.com
+ainanabanana.com
+aipdfconvert.com
+akulakreative.com
+alaqeeq.edu.jo
+albertovalerio.com
+alcumus.com
+alcumus.org
+alexpozo.com
+algolia.com
+alibaba.com
+aliexpress.com
+all-free-download.com
+allfreefonts.co
+alltechnerd.com
+allthings.how
+alohatube.com
+alphabetize.org
+alphabetizer.flap.tv
+alphacoders.com
+alphaporno.com
+altadefinizione.bet
+altadefinizione.bio
+aluracursos.com
+amass.com
+amaturetube.com
+amazingalgorithms.com
+amazon.de
+amazon.fr
+amazon.in
+amazon.nl
+americanenglishsounds.net
+amtrak.com
+analysispro.com
+analyticsinsight.net
+andreaelectronics.com
+andrealuizari.com
+androidauthority.com
+androidride.com
+angrytools.com
+animate-ui.com
+aniwatchtv.to
+annporter.wordpress.com
+anquanke.com
+ant.design
+anthropics.com
+antifavicon.com
+antlionaudio.com
+antmedia.io
+anybunny.org
+anymaking.com
+anymp4.com
+anytools.pro
+apono.io
+appimagehub.com
+apple.com
+apps.microsoft.com
+appscanme.com
+appvizer.it
+appypie.com
+aranzulla.it
+arkansasalumni.org
+arkthinker.com
+armandah.itch.io
+artincontext.org
+artisttilldeath.com
+artivive.com
+artsmart.ai
+aschnerhof.com
+asciiartwork.com
+askastrology.com
+assoass.com
+astro-electronic.de
+astroarunpandit.org
+astrologuias.com
+astrologyanswers.com
+astromitra.com
+astronumero.org
+astronymero.com
+astrosage.com
+astrostyle.com
+astrotalk.com
+astroyogi.com
+atbashcipher.com
+atmos.style
+attackdefense.pentesteracademy.com
+audo.ai
+autospf.com
+avast.com
+averagelinuxuser.com
+avmedia.0voice.com
+avn.com
+avrebo.com
+awesome-github-readme-profile.netlify.app
+awesome-loaders.netlify.app
+awesomegithub.web.app
+ayoa.com
+azconversion.com
+babesource.com
+backiee.com
+badg.us
+badges.mybluemix.net
+baggu.com
+baiadellaconoscenza.com
+baltimoreravens.com
+bananananapud.com
+bandicam.com
+bang.com
+base64-decode-encode.net
+base64.online
+base64decode.net
+base64decode.tools
+bashcommands.com
+bashpromptgenerator.blogspot.com
+batchtools.pro
+beatsnoop.com
+beebom.com
+beeg.com
+beeg.porn
+beegsex.it.com
+befonts.com
+bellesa.co
+bengals.com
+bentopdf.bpsnttapp.com
+bergdesign.com
+bergfex.com
+bestebooksworld.com
+bestelvuurwerk.nl
+bestpractices.dev
+bestwifianalyzer.com
+betterterminal.com
+bezkoder.com
+bhg.com
+bibliotheekaanzet.nl
+bibmath.net
+bigboobs.xxx
+bigfuck.tv
+bilibili.com
+binky.nl
+biografiasyvidas.com
+biographies.net
+biography.jrank.org
+biographynyc.com
+biographyonline.net
+bitmoji.com
+bitstudio.ai
+blacked.com
+blackhackertools.com
+blackillustrations.com
+blazor.radzen.com
+blinki.es
+blinki.fr
+blinkies.eu
+blinkies.pl
+blinkiescosmetics.com
+blinkieseec.com.au
+blinkysbar.com
+blip.net
+blockbench.org
+blockmodels.com
+blog.chickabug.com
+bluecatnetworks.com
+bluewindlab.net
+bmw-m.com
+bmw.com
+bnbicons.com
+bnsf.com
+bobbyhadz.com
+bodymind-integration.com
+boekenwereld.com
+boitatech.com.br
+boldvoice.com
+book-for-dessa.blogspot.com
+bookauthority.org
+bookboon.com
+bookchoice.com
+bookcreator.com
+bookfordessterxxs.blogspot.com
+bookkajsdqweasdbqjwej.blogspot.com
+booknook.biz
+books2ebooks.eu
+booksamillion.com
+bookshelf.vitalsource.com
+bouncyballs.org
+box-shadow.art
+box-shadow.dev
+box-shadows.co
+boxicons.com
+boxshadow.csscraftr.com
+boxshadows.com
+brandmark.io
+brazzers.com
+brazzers.xxx
+brew.sh
+bright.nl
+brightmarbles.io
+brittanyavenue.com
+broese.nl
+broncosports.com
+browsee.io
+browzwear.com
+brscenic.com
+bruna.nl
+brusheezy.com
+btsav-galois.com
+buccaneers.com
+buddhaandkarma.com
+buff.game
+buffalobills.com
+bulletd.com
+bustybus.com
+bustyworld.com
+busuu.com
+busymombandworkouts.com
+buttercms.com
+buy-keys.com
+bvmresort.com
+byjus.com
+bypeople.com
+c13.radioboss.fm
+c99shell-r57shell.webnode.page
+c99shell.net
+cadmus.io
+cafeastrology.com
+calcthat.com
+calculateaspectratio.com
+calculatemypercentage.com
+calculationclub.com
+calculator-online.net
+calculator.com
+calculator.io
+calculators.org
+caminhonumerico.com
+camstudio.org
+canva.com
+caparra.ai
+capcut.com
+carlaaston.com
+caseconverter.tools
+cavecreekcoffee.com
+cb-india.com
+cb01.pizza
+cdpath.com
+certificatetool.com
+chaturbate.com
+chibasyuta.org
+chicagobears.com
+chip.de
+christan.design
+christianbook.com
+chrisvanwaes.nl
+ciakmagazine.it
+ciao-somerville.com
+ciaociaogelatocafe.com
+ciaocomo.it
+ciaoeastchester.com
+ciaoithaca.com
+ciaokombucha.com
+ciaolouisville.com
+ciaomyrtlebeach.com
+ciaorestaurant.com
+ciaorestaurantandbar.com
+ciaowausau.com
+cincopa.com
+cineblog01.tattoo
+cinemalibero.city
+ciphermaker.com
+ciritorno.it
+cjs-cdkeys.com
+clairejefford.com
+classpop.com
+claude.online
+claude.talkai.info
+claudemilano.com
+claudemusic.com
+clean.email
+cleanmycss.com
+cleanpng.com
+clever.com
+clickcalculators.com
+clideo.com
+clipart-library.com
+clipart.com
+clipartkey.com
+clipartmag.com
+clipdrop.co
+clippingcreationsindia.com
+clippingoutsourcing.com
+clippingphotoexperts.com
+clipsafari.com
+closedlooplabs.com
+clrn.org
+cn.linux-console.net
+cnblogs.com
+cocce.it
+cockdude.com
+cocodoc.com
+codebeautify.org
+codediesel.com
+codeformatting.com
+codelucky.com
+codepixelfy.com
+coderscratchpad.com
+coderstats.net
+coderstool.com
+codeshack.io
+codewithandrea.com
+codewithmosh.com
+codewithrandom.com
+cokodocs.net
+cokotools.com
+colmeia.blog.br
+colonic-association.org
+color-meanings.com
+colorabout.com
+colorany.com
+colorcombos.com
+colordesigner.io
+colorfactory.co
+colorhunt.co
+colorkit.co
+colorlib.com
+colorline.com
+colormagic.app
+colormatters.com
+colormebeautiful.com
+colormemine.com
+colorpalettes.net
+colorpickerfromimage.com
+colors.codes
+colors.dopely.top
+colorsafe.co
+colorschemelab.com
+colorschemer.com
+colorspire.com
+colorsui.com
+colorswall.com
+colorui.co
+colorwise.me
+colorwowhair.com
+colorxs.com
+colourlovers.com
+comingsoon.it
+communaute.ebay.fr
+component.gallery
+convertacolor.com
+converters.co
+convertsvgtopng.net
+coolcatlovesyou.com
+coolfont.org
+coolors.co
+coolsymbol.com
+copyandpasteemoji.com
+copyandpastesymbols.net
+copywriterai.it
+coqnu.com
+coralsandsinn.com
+corriebromfield.com
+corriere.it
+corscoils.com
+coywolf.com
+cpaleaks.com
+cpe.dog
+cpecredit.com
+cpelle.it
+crafted3dsigns.com
+craiyon.com
+crazygames.com
+create-react-app.dev
+createyourfavicon.com
+creativefabrica.com
+creativemotions.it
+creativevectors.org
+creatomate.com
+creator.nightcafe.studio
+creazilla.com
+crestline.com
+crewelghoul.com
+crosscards.com
+crystalage.com
+csdn.net
+cse-axima.fr
+cssauthor.com
+csscardgenerator.pages.dev
+cssgenerator.org
+cssgenerator.pl
+cssinjs.org
+csslayout.io
+cssscript.com
+csstidyonline.com
+ctcmath.com
+cubeworld.com
+cubic.com
+cubicworlds.online
+cubingusa.org
+cufonfonts.com
+culturahistorica.org
+currencyrate.today
+curvegif.com
+curvyerotic.com
+curvyfemales.com
+curvymary.com
+customneon.co.uk
+customneon.com
+cuttle.xyz
+cvedetails.com
+cyberpanel.net
+cybervie.com
+cybrosys.com
+cyfuture.cloud
+dafont.de
+dafont.vn
+dafontfree.co
+dafonthub.com
+dafontvn.com
+daily.co.jp
+daily.dev
+dailyfont.com
+dailypythonprojects.substack.com
+dailytarotdraw.com
+dart.org
+dartfirststate.com
+datablitz.com.ph
+datagy.io
+dataparksearch.org
+datatransfer.com
+datavaluesolutions.com
+datenumerology.com
+dayztypes.com
+de.bing.com
+de.book-info.com
+de.wikipedia.org
+decodebase64.com
+decodebase64.io
+decoderdecryptor.com
+deeditor.com
+deeper.com
+deepshells.com
+deepsymbol.com
+deepware.ai
+deja-designs.com
+dely.jp
+depositillustrations.com
+depositphotos.com
+design.com
+designercandies.net
+designevo.com
+designfreelogoonline.com
+designgood.com
+designhill.com
+designify.com
+designmantic.com
+designmodo.com
+designrr.io
+designs.ai
+designworklife.com
+desktophut.com
+desktopnexus.com
+desktopwallpaper.com
+despertamos.com
+desygner.com
+dev.to
+devconnected.com
+devdocs.coko.app
+devdonut.com
+developertoolkits.com
+devglan.com
+devilsfilm.com
+devsnap.me
+devuurwerkhandel.nl
+dhiwise.com
+dictionary.com
+digilibraries.com
+digitalblasphemy.com
+digitalcitizen.life
+digitalcolorwheel.com
+dinotube.com
+disarmthebomb.com
+discoverfreecourses.com
+disneyparksblog.com
+displayfusion.com
+djamware.com
+dnschecker.org
+docker.com
+docklab.nl
+docs.xzeu.com
+docsity.com
+dokr.one
+dokumen.pub
+domain.com
+doographics.com
+dosomthings.com
+dostring.com
+dotbadges.com
+downgit.cvbox.org
+downgit.evecalm.com
+download-github.ubiops.com
+download.it
+dqydj.com
+draw.kits.blog
+drawkit.com
+drawsvg.org
+drawtify.com
+drearte.com
+dressclaude.it
+dribbble.com
+dropbox.net
+dropsend.com
+drupaljedimaster.co.uk
+dryicons.com
+duckdns.vercel.app
+dummydash.com
+dummyimage.web.app
+dummyimg.in
+duplichecker.com
+dzine.ai
+e-booksdirectory.com
+e-gadgetify.com
+eagledistributorsnj.com
+easeus.com
+easygadgetify.store
+easypercentage.com
+easypercentagecalc.net
+easypercentagecalculators.com
+easyupload.io
+ebonygalore.com
+ebonytube.tv
+ebook-fieber.de
+ebook.nl
+ebookdaily.com
+ebooks.bloggerspassion.com
+ebooks.edu.gr
+ebooks2go.com
+ebookselibrary.com
+ebooksgratuits.com
+edheads.org
+edit.org
+edit.svgomg.net
+editpictureonline.com
+editsvg.online
+editsvgcode.com
+educba.com
+edukits.co
+eenglish.com
+eesforjobs.com
+efgh.com
+eggnored.tumblr.com
+eggradients.com
+eksisozluk.com
+electricity-magnetism.org
+electricman.space
+electricmaninc.com
+elephantlearning.com
+elest.io
+elpoderdeluniverso.com
+elsaspeak.com
+elysedodge.com
+emeditor.com
+emide.org
+emoji-translator.com
+emoji.aranja.com
+emojibetekenis.nl
+emojicombos.com
+emojicopy.com
+emojidb.org
+emojidictionary.emojifoundation.com
+emojifinder.com
+emojigraph.org
+emojiguide.org
+emojihub.org
+emojikeyboard.org
+emojipedia.nl
+emojipedia.org
+emojipicker.com
+emojirepo.org
+emojis.com
+emojiterra.com
+emojivoter.com
+encryptfiles.net
+endorphinbath.com
+englishlearning.com
+englishphonetics.net
+englishwithlucy.com
+entheosweb.com
+envato-downloader.com
+envato.fbselements.com
+envato.isyyy.com
+epdf.tips
+epigra.com
+epornany.com
+eporner.com
+epubblica.com
+epubbooks.com
+es.linux-console.net
+esecuredata.com
+eterstock.com
+etsy.com
+ettavee.com
+euroresidentes.es
+eurostreaming.pet
+evaeaston.com
+evaristegalois.org
+eveon.com
+every-layout.dev
+everypixel.com
+evileval.com
+evoto.ai
+expandi.io
+expertbeacon.com
+expertclipping.com
+expertstool.com
+explorerofthesoul.com
+expoilt.com
+extendsclass.com
+eyewitnessbible.org
+ezfavicon.com
+ezgif.com
+ezprompt.net
+faapy.com
+facebook.com
+facetuneapp.com
+fallontravels.com
+familypornhd.com
+fandom.com
+farmanager.com
+farrow-ball.com
+fashiontrendsetter.com
+fastcompany.com
+fasttech.xyz
+favicon.digital
+favicon.now
+favicon.pub
+favicongenerator.io
+faviconify.com
+fbcd.co
+feedreader.com
+felipecarabantes.com
+feroxbuster.com
+fex.net
+ffmpeg.asia
+ffmpegfromzerotohero.com
+fig.io
+file.io
+file.kiwi
+filedropshare.com
+fileinfo.com
+filerepo.com
+files.fm
+filesamples.com
+filetransfer.uvm.edu
+filmexxx.live
+filmscoop.it
+filmsenzalimiti.name
+filmtv.it
+findmysoft.com
+firealarm.com
+firebirdfirewalks.com
+firecompass.com
+firepowerseminars.com
+firewalking.com
+fishbase.se
+fisicatecnica.altervista.org
+fiverr.com
+flamingtext.com
+flashiat.net
+flatai.org
+flatfee.io
+flaticon.com
+flaticons.net
+fleshed.com
+flexclip.com
+flexitoolkit.com
+floelite.com
+flowbite-react.com
+flowbite.com
+flutter.com
+flutterbeads.com
+fluttercore.com
+fluttericon.cn
+flutterisfun.com
+flutteritalia.dev
+flutters.in
+flutterstuff.com
+fluttertalk.com
+fluttertpoint.in
+flutterxperts.com
+flyingmeat.com
+flyonui.com
+folge.me
+font-generator.com
+fontadvice.com
+fontbolt.com
+fontbundles.net
+fontchanger.cool
+fontchanger.net
+fontdownload.org
+fontesk.com
+fontgenerator.name
+fontget.com
+fontjedi.com
+fontmeme.com
+fontsempire.com
+fontsgoogle.com
+fontshop.com
+fontsonic.com
+fontspace.io
+fontstand.com
+fontz.net
+foodandwine.com
+ford-trucks.com
+formatswap.com
+formia.so
+forums.warframe.com
+fotoflexer.com
+fotojet.com
+fotor.com
+foxandhazel.com
+fpds.gov
+frame.io
+framesports.ai
+frankenphp.dev
+free-logo-design.net
+free-time.it
+free.fr
+freeconsulting.accessiway.com
+freeconvert.com
+freedesignfile.com
+freeebooks.com
+freefontsvault.com
+freefuckvids.com
+freegifmaker.me
+freegogpcgames.com
+freeicon.com
+freeicons.io
+freeillustrate.com
+freeillustrations.club
+freeillustrations.xyz
+freeimages.com
+freellustrations.com
+freelogocreator.com
+freelogodesign.org
+freelogogenerator.com
+freelogoservices.com
+freeones.com
+freepercentagecalculators.com
+freepik.com
+freepngpik.com
+freeporno.xxx
+freesatweb.it
+freesvgdownload.com
+freesvgillustration.com
+freetestdata.com
+freetinypng.com
+freetools.org
+freevector.com
+freewebillustrations.com
+freeworkservizi.it
+freshporno.net
+frolicme.com
+frontendhack.com
+frontendpik.com
+frontier.com
+frontporchmercantile.com
+fsymbols.com
+ftl-faster-than-light-ios.apps112.com
+ftlgame.com
+fullporner.com
+fuq.com
+fxnetworks.com
+g0dam.github.io
+g4dgetify.myshopify.com
+gadget-rumours.com
+gadgetadvisor.com
+gadgetgear.nl
+gadgethacks.com
+gadgetify-shop.de
+gadgetify.fun
+gadgetify.info
+gadgetify.shop
+gadgetifybd.com
+gadgetifygalaxy.com
+gadgetifyofficial.com
+gadgetifyshop.com
+gadgetifystore.com
+gadgetifyuk.com
+gadgetifyverse.com
+gadgetifyworld.com
+gadgetman.ie
+gadgets360.com
+gadgetstouse.com
+gadgettechstore.com.au
+gadgetzone.nl
+gadgify.us
+gaiauni.com
+gallery.yopriceville.com
+gamedevicons.com
+gamemake.org
+gamers-outlet.net
+gatewaygators.com
+gaymaletube.com
+gcalculate.com
+gcu.edu
+geekdrop.com
+geektonight.com
+geeky-gadgets.com
+genabel.org
+genfavicon.com
+genreadme.cloud
+genreadme.cloud
+get-emoji.com
+get-shell.com
+getastra.com
+getemoji.com
+getepic.com
+getillustrations.com
+getpercent.online
+getpronounce.com
+getsamplefiles.com
+getshared.com
+gettextbooks.com
+gettyimages.com
+gettyimages.in
+gettyimages.it
+getuicolors.com
+ggithubprofile.vercel.app
+gh-stats-gen.vercel.app
+giddyup.io
+giddyupcoffeehouse.com
+gififyai.com
+gifmake.com
+gifpal.com
+gifrun.com
+gigacalculator.com
+gilisoft.com
+girlsgogames.com
+git-fork.com
+git-hub-streak-stats.vercel.app
+git-readme-generator.vercel.app
+git-tower.com
+gitdevtool.com
+gitee.com
+gitglance.vercel.app
+github-profile-gpt.vercel.app
+github-readme-maker.vercel.app
+github-states-generator.vercel.app
+github-stats.com
+github.co.jp
+githubprofile.com
+githubstatsfordevs.netlify.app
+gitmemory.com
+gitmind.com
+gitranks.com
+gitread.dev
+gittyup.io
+gitzip.org
+gizmodo.com
+glacier.org
+glianni80.com
+globalfirewalkingassociation.com
+glockapps.com
+glotorrents.123proxy.app
+go-it.us
+go-to-zlibrary.com
+gobuses.com
+gog-games.com
+gog-games.net
+gogeticon.com
+gogogadgetguys.com
+gogunlocked.com
+goinnobuds.com
+goldtits.com
+goodfon.com
+goodporn.xxx
+gooeysoftware.com
+goservice.it
+goservice.net
+goserviceitalia.net
+goserviceline.com
+goservicellc.com
+goservicepro.com
+gospelebooks.net
+govanguard.com
+gowithus.com
+gr.com.ge
+graficsea.com
+granddynamics.com
+graphicdesignjunction.com
+graphicdesignresource.com
+graphicsfamily.com
+graphicsprings.com
+graphite.dev
+gratis-boek.nl
+gratisboekendownloaden.net
+gravit.io
+greenmangaming.com
+greproot.com
+gridicons.co.uk
+grok-pedia.com
+growhackscale.com
+gsrj.com
+guida-tv.org
+guidatv.quotidiano.net
+gunungkidulkab.go.id
+habr.com
+hackingloops.com
+hackshells.org
+hacksland.net
+hacktricks.net
+haikei.app
+hanishbagga.com
+hardcorepost.com
+hashes.com
+hcpl.overdrive.com
+hdhole.com
+hdqwalls.com
+hdwallpapers.in
+hdwallpapers.net
+hdwallpapers.org
+hebban.nl
+hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app
+hello.porn
+help-fast.com
+heroscreen.cc
+hex-rgb.com
+hex-to-rgb.com
+hexcolor.co
+heyreach.io
+hiddennumerology.com
+hightail.com
+hillelkepler.wordpress.com
+hisoftsroll.web.app
+hix.ai
+hnews42.com
+hobby.porn
+hockaday.org
+homeer.com
+homenetworkgeek.com
+hornybank.com
+horoscope.com
+horoscopo.com
+horoscopodehoy.com
+horoscopovirtual.com.br
+hostbor.com
+hotebonytube.com
+hotmovies.com
+housing.com
+houzz.com
+hover.dev
+how-to-say.com
+howdoyouspell.co
+howjsay.com
+howtoinstall.me
+howtopronounce.com
+hoyolab.com
+hqporn.xxx
+hstock.org
+html-css-js.com
+htmlbeautifier.org
+htmlcsscleaner.com
+htmlwasher.com
+httpstatus.io
+huaweicloud.com
+hubdigitalcontent.com
+hueshift.art
+huewheel.com
+hussainmustafa.com
+hvsry.org
+hwg.org
+hypic.app
+iamag.co
+icalculate.app
+icanvas.com
+icecreamapps.com
+icedit.net
+icofont.com
+icomoon.io
+icon-icons.com
+icon.com
+iconarchive.com
+iconcity.com
+iconduck.com
+iconer.app
+icones8.fr
+iconfinder.com
+icongenerate.com
+icongeneratorai.com
+iconian.com
+iconpacks.net
+iconpro.io
+icons-co.com
+icons-for-free.com
+icons.co.th
+icons.com
+icons8.com
+iconscout.com
+iconseq.org
+iconset.io
+iconsflow.com
+iconsguru.com
+iconshock.com
+iconsmind.com
+iconspedia.com
+iconsvg.co
+icoon.co
+idrive.com
+iemoji.com
+ifavicon.com
+ifonts.xyz
+igfonts.io
+ign.com
+ihs.com.tr
+ikea.com
+ikebehar.com
+ikegps.com
+ikesmartcity.com
+ikessandwich.com
+ilcorsaronero.link
+ilikeikes.com
+illustoon.com
+illustrae.co
+illustration.so
+illustrationkit.com
+illustroke.com
+ilovehue.co
+iloveimg.com
+image2clippath.com
+imagecolorpicker.com
+imageinpixel.com
+imagen-ai.com
+imageonline.co
+imageresizer.uk
+imageresizer.work
+imageworkindia.com
+img2go.com
+imggen.ai
+imgmodify.com
+imgonline.tools
+immigrationhelp.org
+imobie.com
+imparaflutter.it
+imprintplus.com
+imresizer.com
+in-kotlin.com
+indianrail.gov.in
+indianrailways.gov.in
+indiebound.org
+infoplease.com
+informer.com
+ingleseglutenfree.com
+ingodsimage.com
+inpixio.com
+inprnt.com
+insmind.com
+inspire2rise.com
+instaastro.com
+instafonts.io
+instagram.com
+instasize.com
+instausername.com
+intellipaat.com
+interlacekit.com
+intrepus.com
+invistanet.com.br
+ioflood.com
+ioriver.io
+ipburger.com
+ipiccy.com
+ipinfo.io
+iplocation.io
+ipt.br
+ipv6.rs
+irrigation.org
+iseepassword.com
+isitdown.me
+isoqar.com
+ispazio.net
+issoh.co.jp
+istockphoto.com
+it-connect.fr
+it.ign.com
+itectec.com
+itopvpn.com
+itying.com
+j-parc.jp
+j2team.org
+jacquelynclark.com
+jadwaltv.net
+jaguars.com
+jamesauble.com
+japaclip.com
+japanesehdporn.com
+javascriptobfuscator.com
+jclibrary.org
+jeetbhalu.hashnode.dev
+jeetintyagi.hashnode.dev
+jennifermaker.com
+jennymovies.com
+jitter.video
+jld-investigation.fr
+joannahosking.com
+joho.info
+joinlapd.com
+joinsafeworkforce.com
+josscreative.com
+joyofnumerology.com
+jp.tenable.com
+jpsoft.com
+jswpaints.in
+jtti.cc
+juejin.cn
+juggernaut-sec.com
+jumaani.com
+junookyo.com
+justfreefonts.com
+justgiving.com
+juststickers.in
+k4g.com
+kalarup.com
+kaomojikuma.com
+karbon.com
+karbonbikes.com
+karboncard.com
+karbonhq.com
+kdjingpai.com
+kettlewellcolours.co.uk
+keystonecustomdecks.com
+keywordsearch.com
+killfeed.co
+kimberlygeswein.com
+kingsridgecofc.org
+kink.com
+kismetwireless.net
+kit8.net
+kitco.com
+kitemetric.com
+kitploit.com
+kiwifonts.com
+kjelectric.com
+knoji.com
+kodekloud.com
+kombai.com
+korben.info
+krisp.ai
+lab.github.com
+lacolors.com
+lambdatest.com
+landmarkplastic.com
+langchain.com
+lanumerologia.com
+larksuite.com
+lasvegasmarket.com
+lazarobrand.com
+lazebny.io
+learn.hypehype.com
+learning-english-online.net
+learnmmd.com
+leftfootforward.org
+legacy.reactjs.org
+legacyicons.com
+legian.com
+legian.ee
+legian.nl
+legianbeachbali.com
+legionfonts.com
+legionnetwork.io
+legionxnft.io
+lemon8-app.com
+lenadesign.org
+leonardo.ai
+letsgoservices.org
+letsreadasia.org
+lettericon.com
+libris.nl
+libs.garden
+libsyn.com
+lightroom.adobe.com
+lightworkersnet.com
+lightxeditor.com
+lingojam.com
+linguee.nl
+linkcheck.org
+linkz.ai
+linuxconfig.org
+linuxhint.com
+linuxhostsupport.com
+linuxjournal.com
+linuxlinks.com
+linuxmint.hu
+linuxnasm.be
+liquid-glass-js.com
+liquidfiles.com
+liquidglassgen.com
+liteapks.com
+litfl.com
+livewallpapers4free.com
+lixvyao.com
+loading.io
+lobstertube.com
+logo.com
+logoai.com
+logobee.com
+logobook.com
+logocreator.io
+logodesign.net
+logodiffusion.com
+logogarden.com
+logogenie.cn
+logogenie.com
+logogenio.it
+logoleader.com
+logomaker.com
+logomakerr.ai
+logomakr.com
+logomaster.ai
+logopony.com
+logopony.it
+logosbio.com
+logotv.com
+logotypemaker.com
+lonerwolf.com
+longtake.it
+looka.com
+lookinbratz.com
+loom.com
+loplo.com
+lordicon.com
+loro-react-flow-example.vercel.app
+lovepik.com
+ludwig.guru
+lumamakers.com
+lumen.com
+lummi.ai
+luna.amazon.com
+lushome.com
+lutris-pharma.com
+lutris.com
+lutris.org
+luxa.org
+lvcdn.net
+lvmonorail.com
+lvmpd.com
+lvmsystems.com
+lycee-evaristegalois.fr
+madchild.it
+made.porn
+madeintext.com
+magecomp.com
+makeagif.com
+makeemoji.com
+makegif.org
+makra.itch.io
+mangoapps.com
+many.xxx
+manypixels.co
+mapstyle.withgoogle.com
+marcomondelli.net
+markaicode.com
+mass-customization.com
+massethicstraining.skillburst.com
+masterbundles.com
+mastercpe.com
+mastertrend.info
+mat6tube.com
+material-tailwind.com
+materialme.io
+mathconverse.com
+matomo.org
+matomocamp.org
+mattbeech.com
+maturefucktube.com
+maturetube.com
+mauriziogalluzzo.it
+mclaren.com
+md5hashing.net
+mdbootstrap.com
+media.io
+mediamodifier.com
+mediarealm.com.au
+mediumbloggers.com
+melonstube.com
+memphis.edu
+mention.com
+mercedesamgf1.com
+merkabamusic.com
+merkabaonline.com
+metaclippingpath.com
+metacritic.com
+meumapanumerologico.com
+michelelorenzoni.com
+miletus.org
+milfporn.tv
+milfporn8.net
+min2win.org
+mindbodygreen.com
+mindgems.com
+mindmapsunleashed.com
+mindmeister.com
+mindmup.com
+mindnode.com
+minhanumerologia.com
+minitool.com
+miniwebtool.com
+miro.com
+mlb.com
+mncollegedems.org
+mob.org
+mobilemoxie.com
+mobisoftinfotech.com
+mockitt.com
+mockofun.com
+mockoon.com
+mockplus.com
+moewalls.com
+mofos.com
+mojoauth.com
+mominitaly.com
+momjunction.com
+monicaheilmanart.com
+monsterinsights.com
+moregrannies.com
+mosalingua.com
+moshlife.com
+moshplanner.com
+motionbgs.com
+movavi.com
+movie.linksind.net
+moviefone.com
+moviemeter.nl
+movieswatchfreeonline.com
+msp360.com
+mtn.com
+multcloud.com
+muncievoice.com
+mutschler.dev
+mybard.com
+mybookcave.com
+mydadwroteaporno.com
+myebooks.mheducation.com
+myedit.online
+myfreecams.com
+mygreatlearning.com
+mylittlemagicshop.com
+mymovies.it
+mypercentagecalculator.com
+myperfectcolor.com
+myriadpro.com
+mysocialweb.it
+mysoftwarefree.com
+myvideoanalyser.com
+name-generator.org.uk
+namechk.com
+namesgenerator.io
+nanabanana.ai
+nanabanana.it
+nanakoshis.com
+nano-stix.com
+nano-vista.com
+nano.komputronik.pl
+nanobanana.ai
+nanoknee.com
+nanotek.lk
+narakeet.com
+nascompares.com
+nastypornvids.com
+nationalrail.co.uk
+naudio.app
+naudiosounds.com
+naughtyamerica.com
+nbe.com.eg
+ncry.org
+neep.com
+negoziocucina.it
+neo.space
+neoland.dev
+neosb.net
+netflix-news.atsit.in
+netseccloud.com
+netspotapp.com
+networksolutions.com
+neuraldsp.com
+neuralwriter.com
+newwaveart.com
+nextui.org
+nha.nl
+nicknamesearch.com
+nientepopcorn.it
+nieuwbouw-rijndael.nl
+ninja.it
+noodlemagazine.com
+northerncentralrailway.com
+notebookandpenguin.com
+noted.lol
+notegpt.io
+noto.ink
+notopizza.com
+nourishingexistence.com
+nseindia.com
+ntoa.org
+nucleoapp.com
+numberolgy.com
+numeragic.com
+numerana.com
+numerograph.com
+numerologatv.com
+numerologia-cotidiana.com
+numerologia.app
+numerologia.com.es
+numerologia.me
+numerologia.pro
+numerologia.uno
+numerologiabasica.com
+numerologiabymune.com
+numerologiagratis.net
+numerologiapura.com
+numerologist.com
+numerologos.com
+numerologycalculations.com
+numerologycalculator.ai
+numerologygenius.com
+numerologykey.com
+numerologysign.com
+numerrologic.com
+nutrifree.it
+nuvid.com
+nvimcolors.com
+nypost.com
+nyrr.org
+oakcitycoatings.com
+oasisneonsigns.co.uk
+occultscience.in
+oceanofpdf.com
+oceansofgamess.com
+offsec.tools
+oggiintv.eu
+oggiintv.kaleidosstudio.com
+ohsolovelyblog.com
+ok.xxx
+oklch.net
+oklch.org
+olderwomen.tv
+omgsymbol.com
+omnigenai.org
+onassar.github.io
+onboardbase.com
+once.sport
+onform.com
+online-convert.com
+online-ide.com
+online-image-editor.com
+online.visual-paradigm.com
+onlinebibliotheek.nl
+onlinegames.io
+onlineimageditor.com
+onlineornot.com
+onlinepngtools.com
+onlinetestcase.com
+ononoki.org
+onzetaal.nl
+open-minds.it
+openart.ai
+openculture.com
+openebooks.org
+opengrowth.com
+openreplay.com
+opensourceagenda.com
+optogatemicswitch.com
+orangetitles.com
+orcacore.com
+origano-leith.co.uk
+orologio.it
+orpha.net
+oryoy.com
+ottverse.com
+ovacen.com
+overchat.ai
+own3d.tv
+p2hp.com
+pablo-guides.com
+packers.com
+pagedart.com
+palettemaker.com
+pamsteele.org
+pardus.org.tr
+password-depot.de
+pastebin.freeswitch.org
+pathtoeagle.org
+patriots.com
+patrowl.io
+patterned.ai
+patternify.com
+patternpictures.com
+paulgo.io
+pc.net
+pcmag.com
+pdf.fachschaft.cl.uni-heidelberg.de
+pdf.kraisak.com
+pdfcoffee.com
+pdfslide.net
+peekvids.com
+penji.co
+pentesting.org
+percent-calculator.com
+percent-change.com
+percentage-calc.net
+percentage-calculate.com
+percentage-calculator.uk
+percentage-calculator
+percentage-online.com
+percentage.so
+percentagecal.com
+percentagecalculater.com
+percentagecalculation.com
+percentagecalculation.net
+percentagecalculator.cc
+percentagecalculator.mes.fm
+percentagecalculator.one
+percentagecalculator.org
+percentagecalculator.us
+percentagecalculator.zone
+percentagecalculatorhq.com
+percentagecalculators.org
+percentagecalculatorshub.com
+percentagefinder.net
+percentagefinder.org
+percentagegenius.com
+percentager.net
+percentages-calculator.com
+percentagescalculators.com
+percentcalc.com
+percentcalc.net
+percentcalculators.com
+percentpercentagecalculator.com
+percenttool.com
+perfectgirls.xxx
+perlego.com
+peterpengnz.github.io
+petri.com
+pexels.com
+phantomfiles.io
+philadelphiaeagles.com
+phona.co.uk
+phot.ai
+photoaid.com
+photoeditor.ai
+photoeditor.com
+photofunia.com
+photokit.com
+photoleapapp.com
+photonkit.com
+photopos.com
+photopt.com
+photoscissors.com
+php.cn
+php.com
+phpagency.com
+phpaspshell.com
+phpbamboo.com
+phpgroup.co.uk
+phphub.net
+phpshell.pro
+piatti.menu
+piceditor.io
+picjumbo.com
+picnik.com
+picroma.com
+picsart.com
+picsman.ai
+picsvg.com
+picswalls.com
+picwand.ai
+picwish.com
+piehost.com
+pikbest.com
+pikpng.com
+piktochart.com
+pikwizard.com
+pincel.app
+pinmaker.supercell.com
+pinterest.com
+pitchbook.com
+pixcap.com
+pixcores.com
+pixelbin.io
+pixelcut.ai
+pixelmator.com
+pixground.com
+pixlr.com
+pixoate.com
+pixteller.com
+pizap.com
+pjmedia.com
+placeholderimage.dev
+placeit.net
+planetebook.com
+planetnumerology.com
+play-python.asyncmove.com
+playminigames.net
+playstation.com
+playvids.com
+pngall.com
+pngmart.com
+pngtree.com
+pnw-custom.com
+pocket-lint.com
+podbase.com
+poindeo.com
+pokecut.com
+poki.com
+polyhedr.com
+polymertechnology.it
+poppydeyes.com
+porn.com
+porn62.com
+porn300.com
+porndig.com
+porner.to
+porngo.com
+pornhat.com
+pornhat.one
+pornhd.com
+pornhub.com
+pornhub.run
+pornhub.xxx
+pornhubpremium.com
+pornicom.com
+pornid.xxx
+pornjam.com
+pornkai.com
+pornmega.com
+porno-zona.com
+porno.com
+pornobrot.com
+pornogratisdiario.com
+pornone.com
+pornorama.com
+pornotube.com
+pornoxo.com
+pornpics.com
+pornslash.com
+pornspear.com
+pornstargold.com
+porntn.com
+porntv.com
+pornv.xxx
+pornworld.com
+pornxp.com
+porsche.com
+portaldeltarot.com
+porzo.com
+post.japanpost.jp
+postcode.nl
+povr.com
+powerbash.org
+preline.co
+prepostseo.com
+preveil.com
+prezo.jp
+primevue.org
+priv.au
+privacyaffairs.com
+privacybee.com
+prize.supplyframe.com
+procreate.com
+profileme.dev
+programma.sorrisi.com
+programmazionetv.com
+programmerhumor.io
+progress.guide
+progressier.com
+progsoft.net
+promeai.pro
+promova.com
+pronounce.com
+pronouncenames.com
+pronounceonline.com
+pronounceweb.com
+pronunciation.club
+pronunciationfinder.com
+pronunciationpro.com
+pronunciationwithemma.com
+protom.com
+proton.ai
+protonradio.com
+protontt.com
+provantage.com
+provya.net
+proxy-seller.com
+ptes.org
+pteu.fr
+pubx.dev
+punteggioseo.com
+puppeteerai.com
+puppeteers.org
+puppetnerd.com
+purecalculators.com
+puretaboo.com
+puretaboohd.com
+pussyspace.com
+pxbarn.com
+python-fiddle.com
+python-playground.netlify.app
+python.irobot.com
+pythonhosted.org
+pythonprogramming.altervista.org
+qiita.com
+qorno.com
+qrcodechimp.com
+qualcherisposta.it
+queenslibrary.overdrive.com
+quso.ai
+qwikcut.com
+r57.gen.tr
+r57c99.com
+r57shell.net
+r57tools.com
+rachelsenglish.com
+railroads.dot.gov
+railway-news.com
+railway-usa.com
+railwayage.com
+railwaycb.com
+railwaygazette.com
+railwayinterchange.org
+railwaypro.com
+random-username-generator.com
+random.css-pattern.com
+randomchoicegenerator.com
+randomgenerate.io
+randomgenerators.com
+randomusernamegenerator.org
+rare-gallery.com
+rawg.io
+rawpixel.com
+rc-astro.com
+rdns.com.au
+rdp-servers.com
+rdu.com
+react-awesome-components.vercel.app
+react-flow-dev.netlify.app
+react-flow.azurewebsites.net
+react-md.dev
+react-pdf-viewer.dev
+react.keepdesign.io
+reactcomponents.com
+reactflow.online
+reactstudio.com
+readme-gen.streamlit.app
+readme.linderhassinger.dev
+readme.rustc.cloud
+readshop.nl
+realitykings.com
+recraft.ai
+recurpost.com
+redpacketsecurity.com
+redporn.porn
+redtube.com
+redtube.net
+reebok.com
+reebokbyyou.com
+refine.dev
+reflectiz.com
+regexpal.com
+regextester.com
+remush.be
+renaultfanclub.com
+repeato.app
+repocloud.io
+repolaunch.com
+resizehood.com
+resizepanda.com
+resizepng.com
+restack.io
+restaurantguru.it
+restream.io
+retailmenot.com
+retool.com
+retouchinglabs.com
+retouchme.com
+retrovectors.com
+reverseimagesearcher.com
+reversely.ai
+rewind-ui.dev
+rexglass.com
+rgb.to
+rgbacolorpicker.com
+rgbcolorcode.com
+rgbtohex.net
+ridedart.com
+ridegobus.com
+ripcord.io
+ripcordarrowrest.com
+ripcordsecuritysoftware.com
+riptutorial.com
+ristorantequinoa.it
+ritdye.com
+riten.com
+ritten.com
+ritten.me
+riverheadnewsreview.timesreview.com
+rmzxw.com.cn
+robadadonne.it
+rock.porn
+romancebookworms.com
+rrtutors.com
+rsiweb.org
+rtands.com
+runoob.com
+runturkeytrot.ca
+saasdiscovery.com
+sabiduri.com
+sabr.org
+saclibrary.org
+safe-hr.com
+safecontractor.com
+sagegoddess.com
+samplefile.com
+sampleimages.com
+sampleshots.com
+sampletestfile.com
+sarahhearts.com
+satnam.de
+saundz.com
+scalebranding.com
+scan-me.cc
+scanme.digital
+scanmehome.com
+schemecolor.com
+scienceabc.com
+scoutles.com
+scoutlife.org
+scoutsmarts.com
+scrappybook.com
+screen-recorder.com
+screenapp.io
+screendemos.com
+screenrant.com
+screenworld.it
+scstatehouse.gov
+seahawks.com
+seankegel.com
+searchcode.com
+searchengine.com
+searx.bndkt.cz
+searx.bndkt.io
+searx.bunse.xyz
+searx.info
+searx.perennialte.ch
+searx.space
+searx.stream
+searx.thegpm.org
+searx.tiekoetter.com
+searxng.site
+searxng.tmiland.com
+secoda.co
+securityonline.info
+seeklogo.com
+sekurak.pl
+selfhostedworld.com
+sellercircle.co.uk
+send.app
+send.org
+sendbig.com
+sendfilestotv.app
+sendvid.com
+seozoom.com
+seozoom.it
+sequart.org
+sergiomauri.info
+seriousdetecting.com
+sermonillustrations.com
+service-go.com
+servicego.it
+servicego.us
+servicegocleaning.com
+servicetitan.com
+serviporno.com
+setaswall.com
+seventhlifepath.com
+sewsweetness.com
+sexlikereal.com
+sexmex.xxx
+sha256hash.org
+shadowboxes.com
+shallwelearn.com
+sharedfilespro.com
+sharedrop.io
+sharesome.com
+shecodes.io
+shellindir.org
+shellizm.com
+shooshtime.com
+shrink.media
+shutterstock.com
+sidelessons.com
+sigmaos.com
+simplemind.eu
+simplemindmap.com
+simplesvgeditor.com
+simplified.com
+simplifycpp.org
+simplycodes.com
+simplytranslate.com
+simyo.nl
+site24x7.com
+sitepreviewer.live
+sketch.metademolab.com
+sketchengine.eu
+sketchvalley.com
+skotechlearn.com
+skuola.net
+slashfilm.com
+slimframework.com
+smallseotools.com
+smart-ex.jp
+smartgadgetify.com
+smashingmagazine.com
+snapdrop.net
+snapedit.app
+snapgallery.site
+snappa.com
+snapwonders.com
+snipr.ai
+socratica.com
+soft98.ir
+soft112.com
+softaculous.com
+softonic.com
+softpedia.com
+sologo.ai
+solveyourtech.com
+soraapp.com
+soulnavigation.com
+soulsourcetarot.net
+soultarot.co
+soultarotguidance.com
+soundsofspeech.uiowa.edu
+sourcetreeapp.com
+spanishdict.com
+sparkylinux.org
+speakometer.net
+speckyboy.com
+specstechdb.com
+speechmeter.com
+speechninja.co
+speedsecrets.com
+spicevids.com
+spiritualinsights.info
+spolecznosc.ing.pl
+spotify.com
+sprachcaffe.com
+sprongo.com
+sproutvideo.com
+spyne.ai
+sshaudit.com
+ssi-schaefer.com
+ssipetro.com
+sslc-percentage-calculator.netlify.app
+ssojet.com
+sssh.com
+stackoom.com
+standardwool.uk
+starcss.com
+starship.xyz
+startupdefense.io
+staseraintv.com
+statsforgit.com
+status.epicgames.com
+status.io
+steelcitycollectibles.com
+stephanieevergreen.com
+stock.adobe.com
+stockimg.ai
+stocking-tease.com
+stocksnap.io
+storyset.com
+streamingcommunity.broker
+streamingcommunity.computer
+streamingcommunity.family
+streamingcommunityz.digital
+streamingcommunityz.email
+streamingcommunityz.fun
+streamingita.altadefinizione.ioch.org
+streaminglearningcenter.com
+strumentiseo.it
+studenti.it
+studycrumb.com
+stuff.tv
+suicide.org
+suicideforum.com
+summerlandfestival.it
+supaui.io
+superdesigner.co
+superguidatv.it
+superviz.com
+susano.re
+sushant747.gitbooks.io
+suzhou.gov.cn
+svedic.org
+svg-editor.com
+svg-to-png.net
+svgbackgrounds.com
+svgcolor.com
+svgeditor.com
+svgeditor.pro
+svgeditoronline.com
+svgmaker.io
+svgomg.net
+svgrepo.com
+svgtopng.com
+svgtrace.com
+svgvisualize.com
+swissadme.ch
+sxyprn.com
+sxyprn.net
+symbolsdecoded.com
+syncfusion.com
+tabler-icons-react.vercel.app
+tabler.io
+tablericons.com
+tacomapermits.org
+tailkits.com
+tailwindapp.com
+taiwancss.org
+talend.com
+talkpython.fm
+taplio.com
+taptap.io
+target.com
+tarot.com
+tarotalliance.com
+tarotfromscratch.com
+tarotofthefool.com
+tccmagic.com
+tcss.com
+tcss.eu
+tcss.net
+teacherspayteachers.com
+teamhackaday.com
+teamtriton.com
+techbloat.com
+techenet.com
+techgadget.gr
+technave.com
+techno-tools.it
+technotes.blog
+techwiser.com
+teck.in
+tecmint.com
+teknotel.com
+teletype.in
+televideoteca.it
+tella.com
+telsy.com
+tempfile.pro
+tencent.com
+tenereteam.com
+tenor.com
+test-ipv6.com
+texascreative.com
+texascss.net
+textcompare.io
+textemoji.org
+textstudio.com
+texture-packs.com
+textures.world
+textutilitytools.com
+tg24.sky.it
+tgbots.cc
+thatbacheloretteshow.com
+thatguyfromdelhi.com
+the-image-editor.com
+theblinkies.com
+thebookee.net
+thebrief.ai
+thecenterstaffingservices.com
+thecog.com
+thecolorpalettestudio.com
+thecriticalslidesociety.com
+thedandyliar.com
+theeverygirl.com
+thefatpaintcompany.com
+thegadgetflow.com
+thegadgetify.com
+thegadgetify.in
+thegamecrafter.com
+thehappyplanner.com
+theikefoundation.org
+thelanguagecloset.com
+thelinuxcode.com
+themeskingdom.com
+themodernham.com
+themorning.com
+thenumerologypower.com
+thepatterncollective.com
+thepercentcalculator.com
+thepercentcalculator.org
+thephp.foundation
+thepornguy.org
+therams.com
+theripcord.com
+thesoftwareguild.com
+thespruce.com
+thetrain.com
+thewindowsclub.com
+thewordfinder.com
+theyarehuge.com
+thibautprobst.fr
+thicktube.com
+thiings.co
+thisvid.com
+threads.com
+thumbzilla.com
+thunderbirdpizza.com
+tiava.com
+tik.porn
+tiktok.com
+tiledesk.com
+timberland.com
+tinyrituals.co
+tinytake.com
+tinytask.net
+tiradadetarot.gratis
+tivustream.com
+tmp.ninja
+tmpsend.com
+tnsocialstudies.org
+todalanumerologia.com
+today.it
+tonyrobbinsfirewalk.com
+toolexe.com
+tools-4all.com
+toolsbug.com
+toolset.mrw.it
+toolslick.com
+toolsurf.com
+toolversal.com
+toolxox.com
+topcoder.com
+tophonetics.com
+toppng.com
+torgamez.com
+tosbourn.com
+totalplumbingfl.com
+touchupimage.com
+trainingcenter.com
+transfermyfile.com
+transrealbooks.com
+tricountyhealthut.gov
+trinityrailwayexpress.org
+tripadvisor.co.nz
+tripadvisor.com
+troup.org
+truefonts.net
+tube8.com
+tubegalore.com
+tubemilf.com
+tubepleasure.com
+tubesafari.com
+turbologo.com
+tureng.com
+turhost.com
+turito.com
+tutorialkart.com
+tutorialspoint.com
+tuulialaine.com
+tv.fakings.com
+tv.zam.it
+tv8.it
+tvprofil.com
+tw-elements.com
+tweakers.net
+twelvesouth.com
+twitter.com
+twosamplelogo.org
+txcss.net
+u-porno.com
+ubunlog.com
+uclibc.org
+udemy.com
+uhdpaper.com
+ui.rechesoares.com
+uic.org
+uidownload.com
+uigradients.com
+ultrahorny.com
+ultrawidewallpapers.net
+umatechnology.org
+uniteforliteracy.com
+unogeeks.com
+unsafe.sh
+untitledui.com
+unvale.io
+up.com
+updatestar.com
+uptimerobot.com
+uptodown.com
+urbanfonts.com
+url-decode.com
+urldecoder.io
+usafawol.com
+usafonts.pro
+usalearns.org
+usapronunciation.com
+user-name-generator.com
+username-generator.net
+usernamegenerator.co
+usernamegenerator.com
+usernamegenerator.io
+usernamegeneratoronline.com
+utax.it
+uxwing.com
+v1sports.com
+v2.nat32.com
+vaizle.com
+valossa.com
+valuecom.com
+valuedate.io
+vanderveldeboeken.nl
+vaporesso.com
+vault80.com
+vdoc.pub
+vecteezy.com
+vector4free.com
+vectorart.ai
+vectorian.net
+vectorified.com
+vectorink.io
+vectorwindows.com
+vectr.com
+vellum.pub
+velocenetwork.com
+venngage.com
+vexels.com
+vgtimes.com
+vi.wikipedia.org
+videoanalysis.site
+videoconverterfactory.com
+videoinsight.pro
+videoinsights.ai
+videospornogratisx.net
+vietcatholicsydney.net
+vikings.com
+vintagestory.at
+vintagevectors.com
+violentmonkey.com
+vipwank.com
+virtualizare.net
+visitlakedistrict.com
+vistaprint.com
+visualgpt.io
+visualpercentagecalculator.com
+visualpharm.com
+vivid.com
+vixen.com
+vogue.mx
+voicecup.com
+vondy.com
+vosaic.com
+vrporn.com
+vsthemes.org
+vsubhash.wordpress.com
+wall.alphacoders.com
+wallhalla.com
+wallpaper.cam
+wallpaper.dog
+wallpaperaccess.com
+wallpapercat.com
+wallpapercave.com
+wallpapercg.com
+wallpapercrafter.com
+wallpaperdrop.com
+wallpaperflare.com
+wallpaperhub.app
+wallpapers-clan.com
+wallpapers.com
+wallpapers.video
+wallpapersafari.com
+wallpaperscraft.com
+wallpapersden.com
+wallpaperseveryday.com
+wallpapershigh.com
+wallpapershome.com
+wallpapersok.com
+wallpaperswide.com
+wallpaperwaifu.com
+wallpapic.com
+wallscloud.net
+walmart.com
+waltsbeefjerky.net
+wangjun.dev
+warbletoncouncil.org
+wavegenerator.app
+webcatalog.io
+webdeasy.de
+webshell.co
+webshell.lol
+webshell.my.id
+webshots.com
+webstatus.in
+webutility.io
+wellgames.com
+welstech.wels.net
+wethrift.com
+wfsb.com
+whatfontis.com
+whaticket.online
+whatismyipaddress.com
+whitehatinstitute.com
+wicked.com
+widget-club.com
+wifi-analyzer-pro.it.aptoide.com
+wifianalyzer.info
+wikihow.com
+wikihow.it
+wikihow.tech
+wikipedia.org
+winasm.org
+wind-ui.com
+windsurf.com
+winuxos.com
+wislibrary.net
+wondershare.com
+woodpunchsgraphics.com
+woolha.com
+workintool.com
+worldemojiawards.com
+worldemojiday.com
+worldofcoca-cola.com
+wowebook.net
+wpbeginner.com
+wpdean.com
+wphackedhelp.com
+wps.com
+wsoshell.org
+wsotools.com
+wsupercars.com
+wtools.io
+www.cookieserve.com
+www4.acenet.edu
+x.com
+xcafe.com
+xconfessions.com
+xgroovy.com
+xhaccess.com
+xhamster.com
+xhamster.desi
+xhamster2.com
+xhamster3.com
+xhopen.com
+xlnaudio.com
+xmind.app
+xmind.com
+xtrafondos.com
+xvideos.com
+xvideos.tube
+xvideos2.com
+xvideos3.com
+xxxbios.com
+xxxbule.com
+y2calculate.com
+yahoo.com
+yawintutor.com
+yayimages.com
+yaytext.com
+yce.perfectcorp.com
+ydnysh.hashnode.dev
+ydray.com
+yelp.com
+yelp.it
+yeschat.ai
+yhype.me
+yobase64decode.com
+youjizz.com
+yourcolorguru.com
+yourhoroscopereading.com
+yourtango.com
+yumpu.com
+yworks.com
+yxi.ai
+z-lib.ai
+z-lib.id
+z-library-project.com
+z-library.bz
+z-library.cc
+z-library.co
+z-library.godaddysites.com
+z-library.life
+z-library.sk
+zanvis.com
+zarla.com
+zaziltunich.com
+zedge.net
+zenn.dev
+zeusnews.it
+zh.z-lib.gs
+zhidao.baidu.com
+zhihu.com
+ziggo.nl
+zight.com
+zkiz.com
+zlib.net
+zlibrary.sk
+zlibrary.st
+zone-h.org
+zoominfo.com
+zoviz.com
+zsh-prompt-generator.site
+zzztube.com
