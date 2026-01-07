@@ -8,25 +8,26 @@ COPY blocked_domains.txt /tmp/blocked_domains.txt
 USER root
 RUN set -e && \
     echo "[INFO] Inizio generazione settings.yml" && \
-    # Genera la lista di domini formattati
-    DOMAINS_YAML="" && \
+    # Genera la lista di domini formattati in un file temporaneo
+    > /tmp/domains_formatted.txt && \
     while IFS= read -r domain || [ -n "$domain" ]; do \
         domain=$(echo "$domain" | sed 's/#.*$//' | xargs); \
         if [ -n "$domain" ]; then \
-            DOMAINS_YAML="${DOMAINS_YAML}      - ${domain}\n"; \
+            echo "      - ${domain}" >> /tmp/domains_formatted.txt; \
         fi; \
     done < /tmp/blocked_domains.txt && \
-    # Sostituisci il placeholder nel template
-    if grep -q "{{BLOCKED_DOMAINS}}" /tmp/settings.yml.template; then \
-        perl -pe "s/\{\{BLOCKED_DOMAINS\}\}/${DOMAINS_YAML}/g" /tmp/settings.yml.template > /etc/searxng/settings.yml; \
-        echo "[INFO] File settings.yml generato con successo!"; \
-    else \
-        echo "[ERROR] Placeholder {{BLOCKED_DOMAINS}} non trovato!"; \
+    # Sostituisci il placeholder nel template usando sed
+    sed '/{{BLOCKED_DOMAINS}}/r /tmp/domains_formatted.txt' /tmp/settings.yml.template | \
+    sed '/{{BLOCKED_DOMAINS}}/d' > /etc/searxng/settings.yml && \
+    echo "[INFO] File settings.yml generato con successo!" && \
+    # Verifica che il file non sia vuoto
+    if [ ! -s /etc/searxng/settings.yml ]; then \
+        echo "[ERROR] settings.yml è vuoto!"; \
         exit 1; \
     fi && \
     # Cleanup
     chown searxng:searxng /etc/searxng/settings.yml && \
-    rm -f /tmp/settings.yml.template /tmp/blocked_domains.txt
+    rm -f /tmp/settings.yml.template /tmp/blocked_domains.txt /tmp/domains_formatted.txt
 
 # Copia i file di personalizzazione
 COPY searx/templates/static/themes/simple/highlight.css /usr/local/searxng/searx/static/themes/simple/highlight.css
