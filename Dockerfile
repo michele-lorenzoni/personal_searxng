@@ -5,19 +5,23 @@ COPY searx/templates/static/themes/simple/img/favicon.png /usr/local/searxng/sea
 COPY searx/templates/static/themes/simple/img/favicon.svg /usr/local/searxng/searx/static/themes/simple/img/favicon.svg
 
 USER root
-# Scopri quale distro è e installa brotli
-RUN echo "=== Checking OS ===" && \
-    cat /etc/os-release && \
-    echo "=== Trying to install brotli ===" && \
-    (apt-get update && apt-get install -y brotli) || \
-    (yum install -y brotli) || \
-    (dnf install -y brotli) || \
-    echo "Failed to install brotli" && \
-    echo "=== Compressing favicon ===" && \
-    cd /usr/local/searxng/searx/static/themes/simple/img/ && \
+
+# Verifica PRIMA della compressione
+RUN echo "=== BEFORE compression ===" && \
+    ls -lah /usr/local/searxng/searx/static/themes/simple/img/favicon.* && \
+    echo "=== First 5 lines of custom SVG ===" && \
+    head -5 /usr/local/searxng/searx/static/themes/simple/img/favicon.svg
+
+# Comprimi
+RUN cd /usr/local/searxng/searx/static/themes/simple/img/ && \
     rm -f favicon.svg.gz favicon.svg.br && \
-    gzip -9 -k favicon.svg && \
-    (brotli -9 -k favicon.svg || echo "Brotli not available, skipping")
+    gzip -9 -k favicon.svg
+
+# Verifica DOPO la compressione
+RUN echo "=== AFTER compression ===" && \
+    ls -lah /usr/local/searxng/searx/static/themes/simple/img/favicon.* && \
+    echo "=== Verify original SVG is still there ===" && \
+    head -5 /usr/local/searxng/searx/static/themes/simple/img/favicon.svg
 
 COPY searx/templates/simple/base_index.html /usr/local/searxng/searx/templates/simple/base_index.html
 COPY searx/templates/simple/index.html /usr/local/searxng/searx/templates/simple/index.html
@@ -25,5 +29,11 @@ COPY searx/templates/simple/results.html /usr/local/searxng/searx/templates/simp
 COPY searx/templates/simple/icons.html /usr/local/searxng/searx/templates/simple/icons.html
 COPY searx/templates/simple/base.html /usr/local/searxng/searx/templates/simple/base.html
 COPY logo.png /usr/local/searxng/searx/static/themes/simple/img/searxng.png
+
+# Verifica FINALE prima di terminare il build
+RUN echo "=== FINAL check ===" && \
+    ls -lah /usr/local/searxng/searx/static/themes/simple/img/favicon.* && \
+    head -5 /usr/local/searxng/searx/static/themes/simple/img/favicon.svg
+
 RUN chown -R searxng:searxng /etc/searxng/settings.yml
 USER searxng
