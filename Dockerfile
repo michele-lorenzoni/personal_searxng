@@ -4,6 +4,7 @@ COPY settings.yml /etc/searxng/settings.yml
 
 COPY searx/templates/static/themes/simple/highlight.css /usr/local/searxng/searx/static/themes/simple/highlight.css
 COPY searx/templates/static/themes/simple/img/favicon.png /usr/local/searxng/searx/static/themes/simple/img/favicon.png
+COPY searx/templates/static/themes/simple/img/favicon.svg /usr/local/searxng/searx/static/themes/simple/img/favicon.svg
 COPY searx/templates/simple/base_index.html /usr/local/searxng/searx/templates/simple/base_index.html
 COPY searx/templates/simple/index.html /usr/local/searxng/searx/templates/simple/index.html
 COPY searx/templates/simple/results.html /usr/local/searxng/searx/templates/simple/results.html
