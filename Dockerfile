@@ -8,8 +8,7 @@ USER root
 
 RUN cd /usr/local/searxng/searx/static/themes/simple/img/ && \
     rm -f favicon.svg.gz favicon.svg.br && \
-    gzip -9 -k favicon.svg && \
-    brotli -9 -k favicon.svg
+    gzip -9 -k favicon.svg
 
 COPY searx/templates/simple/base_index.html /usr/local/searxng/searx/templates/simple/base_index.html
 COPY searx/templates/simple/index.html /usr/local/searxng/searx/templates/simple/index.html
