@@ -36,6 +36,7 @@ COPY searx/templates/static/themes/simple/img/favicon.svg /usr/local/searxng/sea
 COPY searx/templates/static/themes/simple/img/favicon.svg.gz /usr/local/searxng/searx/static/themes/simple/img/favicon.svg.gz
 COPY searx/templates/static/themes/simple/img/favicon.svg.br /usr/local/searxng/searx/static/themes/simple/img/favicon.svg.br
 
+COPY searx/templates/simple/searxng-wordmark.min.svg /usr/local/searxng/searx/templates/simple/searxng-wordmark.min.svg
 COPY searx/templates/simple/base_index.html /usr/local/searxng/searx/templates/simple/base_index.html
 COPY searx/templates/simple/index.html /usr/local/searxng/searx/templates/simple/index.html
 COPY searx/templates/simple/results.html /usr/local/searxng/searx/templates/simple/results.html
