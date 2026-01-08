@@ -34,9 +34,9 @@ RUN mkdir -p /usr/local/searxng/searx/static/custom && \
     chown searxng:searxng /usr/local/searxng/searx/static/custom
 
 # Copia i file JSON con gli URL
-COPY highlight_urls.json /usr/local/searxng/searx/static/custom/highlight_urls.json
-COPY unwanted_urls.json /usr/local/searxng/searx/static/custom/unwanted_urls.json
-COPY favorite_urls.json /usr/local/searxng/searx/static/custom/favorite_urls.json
+COPY searx/templates/static/custom/highlight_urls.json /usr/local/searxng/searx/static/custom/highlight_urls.json
+COPY searx/templates/static/custom/unwanted_urls.json /usr/local/searxng/searx/static/custom/unwanted_urls.json
+COPY searx/templates/static/custom/favorite_urls.json /usr/local/searxng/searx/static/custom/favorite_urls.json
 
 # Copia i file di personalizzazione
 COPY searx/templates/static/themes/simple/highlight.css /usr/local/searxng/searx/static/themes/simple/highlight.css
