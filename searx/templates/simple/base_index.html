@@ -9,6 +9,7 @@
   <meta name="description" content="SearXNG — a privacy-respecting, open metasearch engine">
   <meta name="keywords" content="SearXNG, search, search engine, metasearch, meta search">
   <meta name="generator" content="searxng/{{ searx_version }}">
+  <meta name="referrer" content="no-referrer">
   <meta name="robots" content="noarchive">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{% endblock %}{{ instance_name }}</title>
@@ -32,7 +33,7 @@
   <link rel="icon" href="{{ url_for('static', filename='img/favicon.png') }}" sizes="any">
   <link rel="icon" href="{{ url_for('static', filename='img/favicon.svg') }}" type="image/svg+xml">
   <link rel="apple-touch-icon" href="{{ url_for('static', filename='img/favicon.png') }}">
-  <link href="/searx/output.css" rel="stylesheet">
+  <link href="./../static/output.css" rel="stylesheet">
 </head>
 
 <body class="{{ endpoint }}_endpoint flex flex-col">
