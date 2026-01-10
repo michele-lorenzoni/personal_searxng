@@ -117,7 +117,7 @@
   
 /* Rimuovi bordi arrotondati dal bottone di ricerca nella home */
 #send_search {
-  border-radius: 0 !important;
+  border-radius: 2 !important;
 }
   
 /* Rimuovi bordi arrotondati dai risultati in evidenza */
