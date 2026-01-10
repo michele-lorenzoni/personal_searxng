@@ -12,6 +12,7 @@
     --color-gray-950: oklch(13% 0.028 261.692);
     --spacing: 0.25rem;
     --container-lg: 32rem;
+    --container-4xl: 56rem;
     --text-xl: 1.25rem;
     --text-xl--line-height: calc(1.75 / 1.25);
     --default-font-family: var(--font-sans);
@@ -211,6 +212,9 @@
   }
   .h-screen {
     height: 100vh;
+  }
+  .w-4xl {
+    width: var(--container-4xl);
   }
   .w-6 {
     width: calc(var(--spacing) * 6);
