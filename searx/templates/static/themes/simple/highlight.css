@@ -130,6 +130,7 @@
   transition: background 0.25s, color 0.25s;
   color: #FAFAFA !important;
   cursor: pointer !important;
+  border: 1px solid #FFAB00 !important;
 }
 
 #clear_search:hover,
