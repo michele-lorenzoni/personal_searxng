@@ -205,6 +205,9 @@
   .flex-row-reverse {
     flex-direction: row-reverse;
   }
+  .items-center {
+    align-items: center;
+  }
   .justify-center {
     justify-content: center;
   }
