@@ -38,6 +38,8 @@ COPY searx/templates/static/custom/highlight_urls.json /usr/local/searxng/searx/
 COPY searx/templates/static/custom/unwanted_urls.json /usr/local/searxng/searx/static/custom/unwanted_urls.json
 COPY searx/templates/static/custom/favorite_urls.json /usr/local/searxng/searx/static/custom/favorite_urls.json
 
+COPY searx/templates/output.css /usr/local/searxng/searx/static/output.css
+
 # Copia i file di personalizzazione
 COPY searx/templates/static/themes/simple/highlight.css /usr/local/searxng/searx/static/themes/simple/highlight.css
 COPY searx/templates/static/themes/simple/img/favicon.png /usr/local/searxng/searx/static/themes/simple/img/favicon.png
