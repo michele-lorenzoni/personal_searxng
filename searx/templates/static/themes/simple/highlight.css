@@ -183,6 +183,7 @@ a.link_on_top_about {
 
 #send_search {
 	transition: background 0.25s, color 0.25s;
+	color: red;
 }
 
 body {
