@@ -205,6 +205,9 @@
   .h-screen {
     height: 100vh;
   }
+  .flex-1 {
+    flex: 1;
+  }
   .border-collapse {
     border-collapse: collapse;
   }
