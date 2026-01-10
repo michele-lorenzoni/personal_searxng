@@ -295,6 +295,10 @@
     outline-style: var(--tw-outline-style);
     outline-width: 1px;
   }
+  .outline-none {
+    --tw-outline-style: none;
+    outline-style: none;
+  }
 }
 @property --tw-border-style {
   syntax: "*";
