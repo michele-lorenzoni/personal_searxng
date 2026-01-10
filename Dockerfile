@@ -11,10 +11,10 @@ RUN set -e && \
     # Genera la lista di domini formattati in un file temporaneo
     > /tmp/domains_formatted.txt && \
     while IFS= read -r domain || [ -n "$domain" ]; do \
-        domain=$(echo "$domain" | sed 's/#.*$//' | xargs); \
-        if [ -n "$domain" ]; then \
-            echo "      - ${domain}" >> /tmp/domains_formatted.txt; \
-        fi; \
+    domain=$(echo "$domain" | sed 's/#.*$//' | xargs); \
+    if [ -n "$domain" ]; then \
+    echo "      - ${domain}" >> /tmp/domains_formatted.txt; \
+    fi; \
     done < /tmp/blocked_domains.txt && \
     # Sostituisci il placeholder nel template usando sed
     sed '/{{BLOCKED_DOMAINS}}/r /tmp/domains_formatted.txt' /tmp/settings.yml.template | \
@@ -22,8 +22,8 @@ RUN set -e && \
     echo "[INFO] File settings.yml generato con successo!" && \
     # Verifica che il file non sia vuoto
     if [ ! -s /etc/searxng/settings.yml ]; then \
-        echo "[ERROR] settings.yml è vuoto!"; \
-        exit 1; \
+    echo "[ERROR] settings.yml è vuoto!"; \
+    exit 1; \
     fi && \
     # Cleanup
     chown searxng:searxng /etc/searxng/settings.yml && \
@@ -48,6 +48,7 @@ COPY searx/templates/static/themes/simple/img/favicon.svg.gz /usr/local/searxng/
 COPY searx/templates/static/themes/simple/img/favicon.svg.br /usr/local/searxng/searx/static/themes/simple/img/favicon.svg.br
 
 COPY searx/templates/simple/searxng-wordmark.min.svg /usr/local/searxng/searx/templates/simple/searxng-wordmark.min.svg
+COPY searx/templates/static/themes/simple/simple_search.html /usr/local/searxng/searx/static/themes/simple/simple_search.html
 COPY searx/templates/simple/base_index.html /usr/local/searxng/searx/templates/simple/base_index.html
 COPY searx/templates/simple/index.html /usr/local/searxng/searx/templates/simple/index.html
 COPY searx/templates/simple/results.html /usr/local/searxng/searx/templates/simple/results.html
