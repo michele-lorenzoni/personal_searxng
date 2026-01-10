@@ -11,6 +11,7 @@
     --color-gray-900: oklch(21% 0.034 264.665);
     --color-gray-950: oklch(13% 0.028 261.692);
     --spacing: 0.25rem;
+    --container-lg: 32rem;
     --text-xl: 1.25rem;
     --text-xl--line-height: calc(1.75 / 1.25);
     --default-font-family: var(--font-sans);
@@ -216,6 +217,12 @@
   }
   .w-24 {
     width: calc(var(--spacing) * 24);
+  }
+  .w-128 {
+    width: calc(var(--spacing) * 128);
+  }
+  .w-lg {
+    width: var(--container-lg);
   }
   .flex-1 {
     flex: 1;
