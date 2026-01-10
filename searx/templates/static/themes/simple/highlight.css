@@ -130,13 +130,13 @@
   transition: background 0.25s, color 0.25s;
   color: #FAFAFA !important;
   cursor: pointer !important;
-  border: 1px solid #FFAB00 !important;
 }
 
 #clear_search:hover,
 #send_search:hover {
   background-color: #FFC400 !important;
   color: #212121 !important;
+  border: 1px solid #FFAB00 !important;
 }
 
 /* Rimuovi bordi arrotondati dai risultati in evidenza */
