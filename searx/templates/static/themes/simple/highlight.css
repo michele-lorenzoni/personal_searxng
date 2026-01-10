@@ -177,6 +177,10 @@ a.link_on_top_about {
 	width: auto;
 }
 
+#clear_search:hover {
+	background-color: #FFC400 !important;
+}
+
 #send_search {
 	transition: background 0.25s, color 0.25s;
 }
