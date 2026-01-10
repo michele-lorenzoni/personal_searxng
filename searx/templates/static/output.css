@@ -211,6 +211,9 @@
   .h-screen {
     height: 100vh;
   }
+  .w-6 {
+    width: calc(var(--spacing) * 6);
+  }
   .flex-1 {
     flex: 1;
   }
