@@ -178,8 +178,14 @@
   .table {
     display: table;
   }
+  .h-6 {
+    height: calc(var(--spacing) * 6);
+  }
   .h-24 {
     height: calc(var(--spacing) * 24);
+  }
+  .h-\[24px\] {
+    height: 24px;
   }
   .h-screen {
     height: 100vh;
