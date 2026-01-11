@@ -207,6 +207,9 @@
   .w-3xs {
     width: var(--container-3xs);
   }
+  .w-full {
+    width: 100%;
+  }
   .w-xl {
     width: var(--container-xl);
   }
