@@ -12,6 +12,7 @@
     --color-gray-900: oklch(21% 0.034 264.665);
     --color-gray-950: oklch(13% 0.028 261.692);
     --spacing: 0.25rem;
+    --container-3xs: 16rem;
     --container-xl: 36rem;
     --text-7xl: 4.5rem;
     --text-7xl--line-height: 1;
@@ -203,6 +204,9 @@
   .h-screen {
     height: 100vh;
   }
+  .w-3xs {
+    width: var(--container-3xs);
+  }
   .w-xl {
     width: var(--container-xl);
   }
@@ -223,6 +227,9 @@
   }
   .flex-col {
     flex-direction: column;
+  }
+  .flex-row {
+    flex-direction: row;
   }
   .flex-row-reverse {
     flex-direction: row-reverse;
