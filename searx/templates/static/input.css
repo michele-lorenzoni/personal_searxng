@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'digital_dreamer';
-    src: url('/searx/templates/static/digital_dreamer.otf') format('opentype');
+    src: url('./digital_dreamer.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
