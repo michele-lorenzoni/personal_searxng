@@ -38,6 +38,7 @@ COPY searx/templates/static/custom/highlight_urls.json /usr/local/searxng/searx/
 COPY searx/templates/static/custom/unwanted_urls.json /usr/local/searxng/searx/static/custom/unwanted_urls.json
 COPY searx/templates/static/custom/favorite_urls.json /usr/local/searxng/searx/static/custom/favorite_urls.json
 
+COPY searx/templates/static/digital_dreamer.otf /usr/local/searxng/searx/static/digital_dreamer.otf
 COPY searx/templates/static/output.css /usr/local/searxng/searx/static/output.css
 
 # Copia i file di personalizzazione
