@@ -307,6 +307,9 @@
 .font-ubuntu_r {
   font-family: 'ubuntu_r', sans-serif;
 }
+* {
+  cursor: url(https://cur.cursors-4u.net/games/gam-4/gam335.cur), auto !important;
+}
 @property --tw-border-style {
   syntax: "*";
   inherits: false;
