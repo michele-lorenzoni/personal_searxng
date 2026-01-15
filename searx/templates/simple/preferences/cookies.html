@@ -23,7 +23,7 @@
     {{- _('Search URL of the currently saved preferences') -}}:{{- '' -}}
 </h4>{{- '' -}}
 <div class="selectable_url">{{- '' -}}
-    <pre>
+    <pre w-full overflow-x-auto>
     {{- url_for('index', _external=True) -}}?preferences={{- preferences_url_params|e -}}
     {%- raw -%}&amp;q=%s{%- endraw -%}
   </pre>{{- '' -}}
