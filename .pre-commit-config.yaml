@@ -1,0 +1,8 @@
+repos:
+  - repo: local
+    hooks:
+      - id: sort-txt-file
+        name: Sort text file alphabetically
+        entry: bash -c 'sort -o blocked_domains.txt blocked_domains.txt'
+        language: system
+        files: blocked_domains\.txt$
