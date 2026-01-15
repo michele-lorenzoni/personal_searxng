@@ -21,3 +21,9 @@
 .font-ubuntu_r {
     font-family: 'ubuntu_r', sans-serif;
 }
+
+@layer components {
+    .tabs>input:checked~section {
+        display: none;
+    }
+}
