@@ -65,4 +65,6 @@ COPY searx/templates/simple/icons.html /usr/local/searxng/searx/templates/simple
 COPY searx/templates/simple/base.html /usr/local/searxng/searx/templates/simple/base.html
 COPY logo.png /usr/local/searxng/searx/static/themes/simple/img/searxng.png
 
+COPY searx/templates/simple/preferences/footer.html /usr/local/searxng/searx/templates/simple/preferences/footer.html
+
 USER searxng
