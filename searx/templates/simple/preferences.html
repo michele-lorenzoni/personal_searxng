@@ -2,7 +2,7 @@
 {%- extends "simple/page_with_header.html" -%}
 
 {%- macro tabs_open() -%}
-<div class="tabs" role="tablist">
+<div class="tabs flex-col" role="tablist">
   {%- endmacro -%}
 
   {%- macro tab_header_button(name, id, label, active_tab) -%}
@@ -141,11 +141,6 @@
 
   {%- block head -%}
   <style>
-    .tabs {
-      display: flex;
-      flex-direction: column;
-    }
-
     .tab-buttons {
       display: flex;
       gap: 0.5rem;
@@ -163,17 +158,6 @@
       color: inherit;
       transition: all 0.2s;
       display: inline-block;
-    }
-
-    .tab-button:hover {
-      background: #e5e5e5;
-    }
-
-    .tab-button.active {
-      background: #fff;
-      border-bottom: 2px solid #fff;
-      margin-bottom: -2px;
-      font-weight: bold;
     }
   </style>
   {%- endblock -%}
