@@ -36,7 +36,7 @@
     {{- _('URL to restore your preferences in another browser') -}}:{{- '' -}}
 </h4>{{- '' -}}
 <div class="selectable_url">{{- '' -}}
-    <pre>
+    <pre class="w-full overflow-x-auto">
     {{- url_for('preferences', _external=True) -}}?preferences={{- preferences_url_params|e -}}{{- '' -}}
   </pre>{{- '' -}}
 </div>{{- '' -}}
@@ -48,7 +48,7 @@
 </h4>{{- '' -}}
 <div id="copy-hash-container">{{- '' -}}
     <div class="selectable_url">{{- '' -}}
-        <pre>
+        <pre class="w-full overflow-x-auto">
       {{- preferences_url_params|e }}
     </pre>{{- '' -}}
     </div>
