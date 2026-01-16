@@ -29,9 +29,9 @@
     <link href="./../static/output.css" rel="stylesheet">
 </head>
 
-<body class="{{ endpoint }}_endpoint flex flex-col h-screen bg-gray-950 text-gray-50 font-ubuntu_r">
+<body class="{{ endpoint }}_endpoint flex flex-col h-screen bg-gray-950 text-gray-50 font-ubuntu_r m-24">
     <main id="main_{{  self._TemplateReference__context.name|replace(" simple/", "" )|replace(".html", "" ) }}"
-        class="{{body_class}} flex flex-1 flex-col m-24">
+        class="{{body_class}} flex flex-1 flex-col">
         {% if errors %}
         <div class="dialog-error" role="alert">
             <a href="#" class="close" aria-label="close" title="close">×</a>
