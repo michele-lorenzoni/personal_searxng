@@ -6,3 +6,9 @@ repos:
         entry: bash -c 'sort -o blocked_domains.txt blocked_domains.txt'
         language: system
         files: blocked_domains\.txt$
+      
+      - id: sort-json-files
+        name: Sort JSON files alphabetically
+        entry: npx sort-package-json
+        language: system
+        files: \.json$
