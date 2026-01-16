@@ -6,9 +6,9 @@
   {%- endmacro -%}
 
   {%- macro tab_header_button(name, id, label, active_tab) -%}
-  <a href="?tab={{ id }}" id="tab-label-{{ id }}" class="tab-button {% if active_tab == id %}active{% endif %}"
-    role="tab" aria-controls="tab-content-{{ id }}"
-    aria-selected="{% if active_tab == id %}true{% else %}false{% endif %}">
+  <a href="?tab={{ id }}" id="tab-label-{{ id }}"
+    class="tab-button {% if active_tab == id %}active{% endif %} bg-gray-900 border border-gray-800 p-2" role="tab"
+    aria-controls="tab-content-{{ id }}" aria-selected="{% if active_tab == id %}true{% else %}false{% endif %}">
     {{ label }}
   </a>
   {%- endmacro -%}
@@ -161,7 +161,7 @@
   <form id="search_form" method="post" action="{{ url_for('preferences') }}" autocomplete="off" class="flex-col">
     {{- tabs_open() -}}
 
-    <div class="tab-buttons flex bg-gray-900 border border-gray-800 p-2">
+    <div class="tab-buttons flex">
       {{- tab_header_button('maintab', 'general', _('General'), active_tab) -}}
       {{- tab_header_button('maintab', 'ui', _('User interface'), active_tab) -}}
       {{- tab_header_button('maintab', 'privacy', _('Privacy'), active_tab) -}}
