@@ -158,10 +158,10 @@
   </div>
   {%- endif -%}
 
-  <form id="search_form" method="post" action="{{ url_for('preferences') }}" autocomplete="off" class="flex-col mb-4">
+  <form id="search_form" method="post" action="{{ url_for('preferences') }}" autocomplete="off" class="flex-col">
     {{- tabs_open() -}}
 
-    <div class="tab-buttons flex">
+    <div class="tab-buttons flex mb-4">
       {{- tab_header_button('maintab', 'general', _('General'), active_tab) -}}
       {{- tab_header_button('maintab', 'ui', _('User interface'), active_tab) -}}
       {{- tab_header_button('maintab', 'privacy', _('Privacy'), active_tab) -}}
