@@ -2,18 +2,21 @@
 {%- extends "simple/page_with_header.html" -%}
 
 {%- macro tabs_open() -%}
-<div class="tabs flex-col" role="tablist">
-  {%- endmacro -%}
+<div class="tabs" role="tablist">
+{%- endmacro -%}
 
-  {%- macro tab_header_button(name, id, label, active_tab) -%}
-  <a href="?tab={{ id }}" id="tab-label-{{ id }}"
-    class="tab-button {% if active_tab == id %}active{% endif %} bg-gray-900 border border-gray-800 p-2 mr-6" role="tab"
-    aria-controls="tab-content-{{ id }}" aria-selected="{% if active_tab == id %}true{% else %}false{% endif %}">
-    {{ label }}
-  </a>
-  {%- endmacro -%}
+{%- macro tab_header_button(name, id, label, active_tab) -%}
+<a href="?tab={{ id }}"
+   id="tab-label-{{ id }}"
+   class="tab-button {% if active_tab == id %}active{% endif %}"
+   role="tab"
+   aria-controls="tab-content-{{ id }}"
+   aria-selected="{% if active_tab == id %}true{% else %}false{% endif %}">
+  {{ label }}
+</a>
+{%- endmacro -%}
 
-  {%- macro tabs_close() -%}
+{%- macro tabs_close() -%}
 </div>
 {%- endmacro -%}
 
@@ -21,15 +24,17 @@
 {%- if checked == '?' -%}
 {{- icon_small('alert') -}}
 {%- else -%}
-<input type="checkbox" {%- if name %} name="{{ name }}" {%- endif %} value="None" {%- if checked %} checked {%- endif
-  -%}{%- if disabled %} disabled {%- endif -%}>
+<input type="checkbox" {%- if name %} name="{{ name }}" {%- endif %} value="None" {%- if checked %} checked {%- endif -%}{%- if disabled %} disabled {%- endif -%}>
 {%- endif -%}
 {%- endmacro -%}
 
 {%- macro checkbox_onoff_reversed(name, checked, labelledby) -%}
-<input type="checkbox" {{- ' ' -}} name="{{ name }}" {{- ' ' -}} id="{{ name }}" {{- ' ' -}} {%- if labelledby -%}
-  aria-labelledby="{{ labelledby }}" {{- ' ' -}}{%- endif -%} class="checkbox-onoff reversed-checkbox" {{- ' ' -}} {%-
-  if checked -%} checked{%- endif -%}>
+<input type="checkbox" {{- ' ' -}}
+       name="{{ name }}" {{- ' ' -}}
+       id="{{ name }}" {{- ' ' -}}
+       {%- if labelledby -%} aria-labelledby="{{ labelledby }}"{{- ' ' -}}{%- endif -%}
+       class="checkbox-onoff reversed-checkbox"{{- ' ' -}}
+       {%- if checked -%} checked{%- endif -%}>
 {%- endmacro -%}
 
 {%- macro plugin_preferences(section) -%}
@@ -38,8 +43,7 @@
 <fieldset>{{- '' -}}
   <legend>{{ _(plugin.name) }}</legend>{{- '' -}}
   <div class="value">
-    {{- checkbox_onoff_reversed('plugin_' + plugin.id, plugin.id not in allowed_plugins, 'plugin_labelledby' +
-    plugin.id) -}}
+    {{- checkbox_onoff_reversed('plugin_' + plugin.id, plugin.id not in allowed_plugins, 'plugin_labelledby' + plugin.id) -}}
   </div>{{- '' -}}
   <div class="description" id="{{ 'plugin_labelledby' + plugin.id }}">
     {{- _(plugin.description) -}}
@@ -56,15 +60,14 @@
   <p class="engine-description"></p>{{- '' -}}
   <p><a href="{{about.website}}" rel="noreferrer">{{about.website}}</a></p>{{- '' -}}
   {%- if about.wikidata_id -%}
-  <p><a href="https://www.wikidata.org/wiki/{{about.wikidata_id}}"
-      rel="noreferrer">wikidata.org/wiki/{{about.wikidata_id}}</a></p>
+  <p><a href="https://www.wikidata.org/wiki/{{about.wikidata_id}}" rel="noreferrer">wikidata.org/wiki/{{about.wikidata_id}}</a></p>
   {%- endif -%}
   {%- if search_engine.enable_http -%}
   <p>{{- icon_big('exclamation-sign', 'No HTTPS') -}}{{- _('No HTTPS')-}}</p>
   {% endif -%}
   {%- if reliabilities.get(search_engine.name, {}).errors or reliabilities.get(search_engine.name, {}).checker -%}
   <a href="{{ url_for('stats', engine=search_engine.name|e) }}" {{- ' ' -}}
-    title="{{ _('View error logs and submit a bug report') }}">
+     title="{{ _('View error logs and submit a bug report') }}">
     {{- _('View error logs and submit a bug report') -}}
   </a>
   {%- endif -%}
@@ -91,12 +94,8 @@
   <span class="stacked-bar-chart" aria-hidden="true">
     {%- if max_rate95 is not none and max_rate95 > 0 -%}
     <div class="stacked-bar-chart-median bar{{ (100 * (stats[engine_name].time / max_rate95))|round }}"></div>{{- '' -}}
-    <div
-      class="stacked-bar-chart-rate80 bar{{ (100 * ((stats[engine_name].rate80 - stats[engine_name].time) / max_rate95))|round }}">
-    </div>{{- '' -}}
-    <div
-      class="stacked-bar-chart-rate95 bar{{ (100 * ((stats[engine_name].rate95 - stats[engine_name].rate80) / max_rate95))|round }}">
-    </div>{{- '' -}}
+    <div class="stacked-bar-chart-rate80 bar{{ (100 * ((stats[engine_name].rate80 - stats[engine_name].time) / max_rate95))|round }}"></div>{{- '' -}}
+    <div class="stacked-bar-chart-rate95 bar{{ (100 * ((stats[engine_name].rate95 - stats[engine_name].rate80) / max_rate95))|round }}"></div>{{- '' -}}
     <span class="stacked-bar-chart-rate100"></span>
     {%- endif -%}
   </span>{{- '' -}}
@@ -114,9 +113,20 @@
 {%- set checker_result = reliabilities.get(engine_name, {}).get('checker', []) -%}
 {%- set errors = reliabilities.get(engine_name, {}).get('errors', []) -%}
 {%- if r != None -%}
-{%- if r <= 50 -%} {% set label='danger' -%} {%- elif r < 80 -%} {%- set label='warning' -%} {%- elif r < 90 %} {%- set
-  label='' -%} {%- else -%} {%- set label='success' -%} {%- endif -%} {% else %} {%- set r='' -%} {%- endif -%} {%- if
-  checker_result or errors -%} <td class="{{ label }} column-reliability">{{- '' -}}
+{%- if r <= 50 -%}
+  {% set label = 'danger' -%}
+{%- elif r < 80 -%}
+  {%- set label = 'warning' -%}
+{%- elif r < 90 %}
+  {%- set label = '' -%}
+{%- else -%}
+  {%- set label = 'success' -%}
+{%- endif -%}
+{% else %}
+{%- set r = '' -%}
+{%- endif -%}
+{%- if checker_result or errors -%}
+<td class="{{ label }} column-reliability">{{- '' -}}
   <a href="{{ url_for('stats', engine=engine_name|e) }}">{{- '' -}}
     <span>
       {{- icon_big('alert', 'The engine is not reliabled') }} {{ r -}}
@@ -131,142 +141,180 @@
     <p>{{ error }}</p>{{- '' -}}
     {%- endfor -%}
   </div>{{- '' -}}
-  </td>
-  {%- else -%}
-  <td class="{{ label }}">{% if r %}<span>{{ r }}</span>
-    {%- endif -%}
-  </td>
-  {%- endif -%}
-  {%- endmacro -%}
+</td>
+{%- else -%}
+<td class="{{ label }}">{% if r %}<span>{{ r }}</span>
+{%- endif -%}
+</td>
+{%- endif -%}
+{%- endmacro -%}
 
-  {%- block linkto_preferences -%}{%- endblock -%}
+{%- block head -%}
+<style>
+  .tabs {
+    display: flex;
+    flex-direction: column;
+  }
 
-  {%- block content -%}
+  .tab-buttons {
+    display: flex;
+    gap: 0.5rem;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 1rem;
+  }
 
-  {%- set active_tab = request.args.get('tab', 'general') -%}
+  .tab-button {
+    padding: 0.75rem 1.5rem;
+    background: #f5f5f5;
+    border: 1px solid #ccc;
+    border-bottom: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.2s;
+    display: inline-block;
+  }
 
-  <h1 class="text-5xl mb-6">{{ _('Preferences') }}</h1>
+  .tab-button:hover {
+    background: #e5e5e5;
+  }
 
-  {%- if request.args.get('preferences_preview_only') == 'true' -%}
-  <div class="dialog-warning-block">
-    <p>{{ _("This is a preview of the settings used by the 'Search URL' you used to get here.") }}</p>
-    <ul>
-      <li>{{ _('Press save to copy these preferences to your browser.') }}</li>
-      <li>{{ _('Click here to view your browser preferences instead:') }} <a
-          href="{{ url_for('preferences') }}">/preferences</a></li>
-    </ul>
+  .tab-button.active {
+    background: #fff;
+    border-bottom: 2px solid #fff;
+    margin-bottom: -2px;
+    font-weight: bold;
+  }
+</style>
+{%- endblock -%}
+
+{%- block linkto_preferences -%}{%- endblock -%}
+
+{%- block content -%}
+
+{%- set active_tab = request.args.get('tab', 'general') -%}
+
+<h1>{{ _('Preferences') }}</h1>
+
+{%- if request.args.get('preferences_preview_only') == 'true' -%}
+<div class="dialog-warning-block">
+  <p>{{ _("This is a preview of the settings used by the 'Search URL' you used to get here.") }}</p>
+  <ul>
+    <li>{{ _('Press save to copy these preferences to your browser.') }}</li>
+    <li>{{ _('Click here to view your browser preferences instead:') }} <a href="{{ url_for('preferences') }}">/preferences</a></li>
+  </ul>
+</div>
+{%- endif -%}
+
+<form id="search_form" method="post" action="{{ url_for('preferences') }}" autocomplete="off" class="flex-col">
+  {{- tabs_open() -}}
+
+  <div class="tab-buttons">
+    {{- tab_header_button('maintab', 'general', _('General'), active_tab) -}}
+    {{- tab_header_button('maintab', 'ui', _('User interface'), active_tab) -}}
+    {{- tab_header_button('maintab', 'privacy', _('Privacy'), active_tab) -}}
+    {{- tab_header_button('maintab', 'engines', _('Engines'), active_tab) -}}
+    {{- tab_header_button('maintab', 'query', _('Special Queries'), active_tab) -}}
+    {{- tab_header_button('maintab', 'cookies', _('Cookies'), active_tab) -}}
   </div>
-  {%- endif -%}
 
-  <form id="search_form" method="post" action="{{ url_for('preferences') }}" autocomplete="off" class="flex-col">
-    {{- tabs_open() -}}
-
-    <div class="tab-buttons flex mb-4">
-      {{- tab_header_button('maintab', 'general', _('General'), active_tab) -}}
-      {{- tab_header_button('maintab', 'ui', _('User interface'), active_tab) -}}
-      {{- tab_header_button('maintab', 'privacy', _('Privacy'), active_tab) -}}
-      {{- tab_header_button('maintab', 'engines', _('Engines'), active_tab) -}}
-      {{- tab_header_button('maintab', 'query', _('Special Queries'), active_tab) -}}
-      {{- tab_header_button('maintab', 'cookies', _('Cookies'), active_tab) -}}
-    </div>
-
-    {# tab: general #}
-    {% if active_tab == 'general' %}
-    <section id="tab-content-general" role="tabpanel">
-      {%- if 'categories' not in locked_preferences -%}
-      <fieldset>
-        <legend>{{- _('Default categories') -}}</legend>
-        {% set display_tooltip = false %}
-        {% include 'simple/categories.html' %}
-      </fieldset>
-      {%- endif -%}
-      {%- if 'language' not in locked_preferences -%}
-      {%- include 'simple/preferences/language.html' -%}
-      {% endif %}
-      {%- if 'autocomplete' not in locked_preferences -%}
-      {%- include 'simple/preferences/autocomplete.html' -%}
-      {%- endif -%}
-      {%- if 'favicon' not in locked_preferences -%}
-      {%- include 'simple/preferences/favicon.html' -%}
-      {%- endif -%}
-      {% if 'safesearch' not in locked_preferences %}
-      {%- include 'simple/preferences/safesearch.html' -%}
-      {%- endif -%}
-      {%- include 'simple/preferences/tokens.html' -%}
-      {{- plugin_preferences('general') -}}
-      {%- if 'doi_resolver' not in locked_preferences %}
-      {%- include 'simple/preferences/doi_resolver.html' -%}
-      {%- endif -%}
-    </section>
+  {# tab: general #}
+  {% if active_tab == 'general' %}
+  <section id="tab-content-general" role="tabpanel">
+    {%- if 'categories' not in locked_preferences -%}
+    <fieldset>
+      <legend>{{- _('Default categories') -}}</legend>
+      {% set display_tooltip = false %}
+      {% include 'simple/categories.html' %}
+    </fieldset>
+    {%- endif -%}
+    {%- if 'language' not in locked_preferences -%}
+    {%- include 'simple/preferences/language.html' -%}
     {% endif %}
+    {%- if 'autocomplete' not in locked_preferences -%}
+    {%- include 'simple/preferences/autocomplete.html' -%}
+    {%- endif -%}
+    {%- if 'favicon' not in locked_preferences -%}
+    {%- include 'simple/preferences/favicon.html' -%}
+    {%- endif -%}
+    {% if 'safesearch' not in locked_preferences %}
+    {%- include 'simple/preferences/safesearch.html' -%}
+    {%- endif -%}
+    {%- include 'simple/preferences/tokens.html' -%}
+    {{- plugin_preferences('general') -}}
+    {%- if 'doi_resolver' not in locked_preferences %}
+    {%- include 'simple/preferences/doi_resolver.html' -%}
+    {%- endif -%}
+  </section>
+  {% endif %}
 
-    {# tab: ui #}
-    {% if active_tab == 'ui' %}
-    <section id="tab-content-ui" role="tabpanel">
-      {%- if 'locale' not in locked_preferences -%}
-      {%- include 'simple/preferences/ui_locale.html' -%}
-      {%- endif -%}
-      {%- if 'theme' not in locked_preferences -%}
-      {%- include 'simple/preferences/theme.html' -%}
-      {%- endif -%}
-      {%- if 'results_on_new_tab' not in locked_preferences -%}
-      {%- include 'simple/preferences/results_on_new_tab.html' -%}
-      {%- endif -%}
-      {%- if 'search_on_category_select' not in locked_preferences -%}
-      {%- include 'simple/preferences/search_on_category_select.html' -%}
-      {%- endif -%}
-      {%- include 'simple/preferences/hotkeys.html' -%}
-      {%- include 'simple/preferences/urlformatting.html' -%}
-      {{- plugin_preferences('ui') -}}
-    </section>
-    {% endif %}
+  {# tab: ui #}
+  {% if active_tab == 'ui' %}
+  <section id="tab-content-ui" role="tabpanel">
+    {%- if 'locale' not in locked_preferences -%}
+    {%- include 'simple/preferences/ui_locale.html' -%}
+    {%- endif -%}
+    {%- if 'theme' not in locked_preferences -%}
+    {%- include 'simple/preferences/theme.html' -%}
+    {%- endif -%}
+    {%- if 'results_on_new_tab' not in locked_preferences -%}
+    {%- include 'simple/preferences/results_on_new_tab.html' -%}
+    {%- endif -%}
+    {%- if 'search_on_category_select' not in locked_preferences -%}
+    {%- include 'simple/preferences/search_on_category_select.html' -%}
+    {%- endif -%}
+    {%- include 'simple/preferences/hotkeys.html' -%}
+    {%- include 'simple/preferences/urlformatting.html' -%}
+    {{- plugin_preferences('ui') -}}
+  </section>
+  {% endif %}
 
-    {# tab: privacy #}
-    {% if active_tab == 'privacy' %}
-    <section id="tab-content-privacy" role="tabpanel">
-      {%- if 'method' not in locked_preferences -%}
-      {%- include 'simple/preferences/method.html' -%}
-      {%- endif -%}
-      {%- if 'image_proxy' not in locked_preferences -%}
-      {%- include 'simple/preferences/image_proxy.html' -%}
-      {%- endif -%}
-      {%- if 'query_in_title' not in locked_preferences -%}
-      {%- include 'simple/preferences/query_in_title.html' -%}
-      {%- endif -%}
-      {{- plugin_preferences('privacy') -}}
-    </section>
-    {% endif %}
+  {# tab: privacy #}
+  {% if active_tab == 'privacy' %}
+  <section id="tab-content-privacy" role="tabpanel">
+    {%- if 'method' not in locked_preferences -%}
+    {%- include 'simple/preferences/method.html' -%}
+    {%- endif -%}
+    {%- if 'image_proxy' not in locked_preferences -%}
+    {%- include 'simple/preferences/image_proxy.html' -%}
+    {%- endif -%}
+    {%- if 'query_in_title' not in locked_preferences -%}
+    {%- include 'simple/preferences/query_in_title.html' -%}
+    {%- endif -%}
+    {{- plugin_preferences('privacy') -}}
+  </section>
+  {% endif %}
 
-    {# tab: engines #}
-    {% if active_tab == 'engines' %}
-    <section id="tab-content-engines" role="tabpanel">
-      <p>{{- _('Currently used search engines') -}}</p>
-      {{- tabs_open() -}}
+  {# tab: engines #}
+  {% if active_tab == 'engines' %}
+  <section id="tab-content-engines" role="tabpanel">
+    <p>{{- _('Currently used search engines') -}}</p>
+    <div class="engines-container">
       {%- include 'simple/preferences/engines.html' -%}
-      {{- tabs_close() -}}
-    </section>
-    {% endif %}
+    </div>
+  </section>
+  {% endif %}
 
-    {# tab: query #}
-    {% if active_tab == 'query' %}
-    <section id="tab-content-query" role="tabpanel">
-      {%- if answer_storage -%}
-      {%- include 'simple/preferences/answerers.html' -%}
-      {%- endif -%}
-    </section>
-    {% endif %}
+  {# tab: query #}
+  {% if active_tab == 'query' %}
+  <section id="tab-content-query" role="tabpanel">
+    {%- if answer_storage -%}
+    {%- include 'simple/preferences/answerers.html' -%}
+    {%- endif -%}
+  </section>
+  {% endif %}
 
-    {# tab: cookies #}
-    {% if active_tab == 'cookies' %}
-    <section id="tab-content-cookies" role="tabpanel">
-      {%- include 'simple/preferences/cookies.html' -%}
-    </section>
-    {% endif %}
+  {# tab: cookies #}
+  {% if active_tab == 'cookies' %}
+  <section id="tab-content-cookies" role="tabpanel">
+    {%- include 'simple/preferences/cookies.html' -%}
+  </section>
+  {% endif %}
 
-    {{- tabs_close() -}}
+  {{- tabs_close() -}}
 
-    {# footer with save & reset buttons #}
-    {%- include 'simple/preferences/footer.html' -%}
+  {# footer with save & reset buttons #}
+  {%- include 'simple/preferences/footer.html' -%}
 
-  </form>{{- '' -}}
-  {%- endblock -%}
+</form>{{- '' -}}
+{%- endblock -%}
