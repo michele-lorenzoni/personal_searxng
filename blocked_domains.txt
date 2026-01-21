@@ -507,6 +507,7 @@ clipsafari.com
 closedlooplabs.com
 clrn.org
 clubunescocuneo.it
+cluely.com
 cnblogs.com
 cn.linux-console.net
 cn.linux-terminal.com
@@ -2669,6 +2670,7 @@ shooshtime.com
 shop-pro.jp
 shoshitamam.com
 shrink.media
+shudder.com
 shutterstock.com
 sidelessons.com
 sierranevada.com
@@ -3340,6 +3342,7 @@ ytvideodownloader.online
 yumpu.com
 yworks.com
 yxi.ai
+zalgo.org
 zanvis.com
 zarla.com
 zaziltunich.com
