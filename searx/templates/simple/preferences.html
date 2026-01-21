@@ -234,6 +234,8 @@
 
 <h1>{{ _('Preferences') }}</h1>
 
+<!-- Debug: active_tab = {{ active_tab }} -->
+
 {%- if request.args.get('preferences_preview_only') == 'true' -%}
 <div class="dialog-warning-block">
   <p>{{ _("This is a preview of the settings used by the 'Search URL' you used to get here.") }}</p>
@@ -244,7 +246,8 @@
 </div>
 {%- endif -%}
 
-<form id="search_form" method="post" action="{{ url_for('preferences') }}" autocomplete="off" class="flex-col">
+<form id="search_form" method="post" action="{{ url_for('preferences') }}?tab={{ active_tab }}" autocomplete="off" class="flex-col">
+  <input type="hidden" name="tab" value="{{ active_tab }}">
   {{- tabs_open() -}}
 
   <div class="tab-buttons">
