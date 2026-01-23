@@ -748,6 +748,7 @@ dev.to
 devuurwerkhandel.nl
 de.wikipedia.org
 de.wordpress.org
+dfviewer.com
 dhiwise.com
 dictionary.com
 digilibraries.com
@@ -1024,6 +1025,7 @@ floelite.com
 floorewall.com
 flowbite.com
 flowbite-react.com
+flufi.me
 flutterbeads.com
 flutter.com
 fluttercore.com
@@ -1545,6 +1547,7 @@ inprnt.com
 insmind.com
 inspire2rise.com
 instaastro.com
+instadp.com
 instafonts.io
 instagram.com
 instapv.com
@@ -2288,6 +2291,7 @@ picsman.ai
 picspectra.com
 picsvg.com
 picswalls.com
+picuki.site
 picwand.ai
 picwish.com
 piehost.com
