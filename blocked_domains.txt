@@ -517,6 +517,8 @@ cnblogs.com
 cn.linux-console.net
 cn.linux-terminal.com
 cnvmp3.com
+cn.wordpress.org
+cn.wordpress.org
 cocce.it
 cockdude.com
 cocodoc.com
@@ -744,6 +746,7 @@ devsnap.me
 dev.to
 devuurwerkhandel.nl
 de.wikipedia.org
+de.wordpress.org
 dhiwise.com
 dictionary.com
 digilibraries.com
@@ -1315,6 +1318,7 @@ guidatv.quotidiano.net
 gunungkidulkab.go.id
 gutjahr.biz
 g-vloeren.nl
+haax.fr
 habr.com
 hackingloops.com
 hackshells.org
@@ -1584,6 +1588,8 @@ javahihi.net
 javascriptobfuscator.com
 javatpoint.com
 jav.guru
+ja.wordpress.org
+ja.wordpress.org
 jclibrary.org
 jdoodle.com
 jeetbhalu.hashnode.dev
