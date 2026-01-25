@@ -1619,7 +1619,9 @@ intrepus.com
 inumeriprimi.com
 invideo.io
 invistanet.com.br
+invoice.2go.com
 invoicegenerator.com
+invoicegeneratoronline.vercel.app
 invoicegeneratorr.netlify.app
 invoicegenerators.net
 invoicemaker.com
@@ -2840,6 +2842,7 @@ sidelessons.com
 sierranevada.com
 sigmaos.com
 silent2026.blogspot.com
+simple-invoice-generator.com
 simplemind.eu
 simplemindmap.com
 simplesvgeditor.com
