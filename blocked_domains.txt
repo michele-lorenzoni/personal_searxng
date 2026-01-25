@@ -1239,6 +1239,7 @@ geekdrop.com
 geektonight.com
 geeky-gadgets.com
 genabel.org
+generatefakename.com
 genfavicon.com
 genreadme.cloud
 genreadme.cloud
@@ -2090,6 +2091,7 @@ myvideoanalyser.com
 naheed.pk
 nailsfactory.es
 namechk.com
+namegenefy.com
 name-generator.org.uk
 namesgenerator.io
 namu.wiki
@@ -2626,6 +2628,7 @@ randomchoicegenerator.com
 random.css-pattern.com
 randomgenerate.io
 randomgenerators.com
+randommer.io
 random-username-generator.com
 randomusernamegenerator.org
 randomwordgenerator.com
