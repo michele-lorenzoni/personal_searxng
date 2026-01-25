@@ -1137,6 +1137,7 @@ freeillustrate.com
 freeillustrations.club
 freeillustrations.xyz
 freeimages.com
+freeinvoicebuilder.com
 freellustrations.com
 freelogocreator.com
 free-logo-design.net
@@ -1619,8 +1620,10 @@ inumeriprimi.com
 invideo.io
 invistanet.com.br
 invoicegenerator.com
+invoicegeneratorr.netlify.app
 invoicegenerators.net
 invoicemaker.com
+invoicer.ai
 ioflood.com
 ioriver.io
 ipaddress.com
