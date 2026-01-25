@@ -2204,6 +2204,7 @@ once.sport
 onecalendar.nl
 onewaymail.com
 onewaymail.net
+oneway.org
 onform.com
 onionride.com
 onionsites.org
@@ -2221,6 +2222,7 @@ onlinepngtools.com
 onlinetestcase.com
 online.visual-paradigm.com
 onlyhentaistuff.com
+onmail.com
 ononoki.org
 onzetaal.nl
 openart.ai
