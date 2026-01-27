@@ -1422,6 +1422,7 @@ hdwallpapers.in
 hdwallpapers.net
 hdwallpapers.org
 hebban.nl
+heise.de
 hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app
 hellobar.com
 hellobarinc.com
