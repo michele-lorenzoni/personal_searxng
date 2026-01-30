@@ -419,6 +419,7 @@ bright.nl
 brittanyavenue.com
 broese.nl
 broncosports.com
+brotherwisegames.com
 browsee.io
 browxy.com
 browzwear.com
@@ -1544,6 +1545,7 @@ hoyolab.com
 hqporn.xxx
 hrcms-prod.mass.gov
 hstock.org
+html5games.com
 htmlbeautifier.org
 htmlcsscleaner.com
 html-css-js.com
@@ -3775,5 +3777,6 @@ zone-h.org
 zoominfo.com
 zoviz.com
 zsh-prompt-generator.site
+zynga.com
 zywvvd.com
 zzztube.com
