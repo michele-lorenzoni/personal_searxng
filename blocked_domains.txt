@@ -286,6 +286,7 @@ base64decode.tools
 base64.online
 basecamp.com
 bashcommands.com
+bash.ogulcanaydogan.com
 bashpromptgenerator.blogspot.com
 bassmaster.com
 batchtools.pro
@@ -2644,6 +2645,7 @@ proinvoicegenerator.com
 promeai.pro
 promli.com
 promova.com
+promptgen.netlify.app
 pronounce.com
 pronouncenames.com
 pronounceonline.com
