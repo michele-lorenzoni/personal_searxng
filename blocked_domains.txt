@@ -2971,6 +2971,7 @@ sharesome.com
 shecodes.io
 shellindir.org
 shellizm.com
+sherlockosint.com
 s-hertogenbosch.nl
 shiftedit.net
 shirttuning.nl
@@ -3604,6 +3605,8 @@ whatfontis.com
 whaticket.online
 whatismyipaddress.com
 whatsappweb.com.co
+whatsmyname.dev
+whatsmyname.io
 wheree.com
 whimsical.com
 whitehatinstitute.com
