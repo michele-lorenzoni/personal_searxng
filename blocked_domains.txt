@@ -485,6 +485,8 @@ caparra.ai
 capcut.com
 capterra.nl
 capybara-game.com
+cardgames.io
+cardgamesolitaire.com
 carlaaston.com
 carrabbas.com
 carrabbasoriginal.com
@@ -1303,6 +1305,7 @@ gallery.yopriceville.com
 gamedevicons.com
 gamemake.org
 gamers-outlet.net
+gamescard.net
 gamesnacks.com
 gamespew.com
 gamigo.com
@@ -3088,6 +3091,7 @@ softonic.com
 softpedia.com
 sogou.com
 sohu.com
+solitaired.com
 sologo.ai
 solveyourtech.com
 soma-zone.com
@@ -3691,6 +3695,7 @@ workintool.com
 worldcruisevacations.com
 worldemojiawards.com
 worldemojiday.com
+worldofcardgames.com
 worldofcoca-cola.com
 wowebook.net
 wow.gifts
