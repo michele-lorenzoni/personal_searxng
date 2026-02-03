@@ -1287,6 +1287,7 @@ fulltaboo.tv
 fumettologica.it
 fun.com
 funda.nl
+funnygames.nl
 fuq.com
 fuqer.com
 fusionhomepk.com
@@ -1321,6 +1322,7 @@ gaiauni.com
 gal-estaudois.fr
 gallery.yopriceville.com
 gamedevicons.com
+gamehollywood.com
 gamemake.org
 gamenerdz.com
 gamers-outlet.net
@@ -3683,8 +3685,13 @@ weather.com
 webcatalog.io
 webcli.jp
 webdeasy.de
+webgamer.io
+webgames.convergence.ai
+webgames.cz
+webgames.in
 webgames.io
 webgames.me
+webgames.my
 webgamesonline.com
 webptogif.org
 webshell.co
