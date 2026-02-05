@@ -1355,6 +1355,12 @@ generatefakename.com
 genfavicon.com
 genreadme.cloud
 genreadme.cloud
+geodash.org
+geometrydashfullversion.io
+geometrydash-lite.io
+geometrydash-subzero.io
+geometry-games.io
+geometrylitepc.io
 getapp.nl
 getastra.com
 getdrawings.com
