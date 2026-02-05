@@ -3372,6 +3372,7 @@ tempmail100.com
 temp-mail.app
 temp-mail.io
 tempmail.ninja
+tempmail.so
 temp-number.com
 temp-number.online
 temp-number.org
