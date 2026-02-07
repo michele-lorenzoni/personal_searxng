@@ -3455,6 +3455,7 @@ tempmail100.com
 tempmail3.com
 temp-mail.app
 temp-mail.asia
+tempmail.co
 tempmail.email
 tempmail.ing
 temp-mail.io
