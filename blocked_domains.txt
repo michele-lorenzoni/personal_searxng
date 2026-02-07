@@ -3458,12 +3458,14 @@ tempmail100.com
 tempmail3.com
 temp-mail.app
 temp-mail.asia
+tempmailbox.net
 tempmail.co
 tempmail.email
 tempmail.ing
 temp-mail.io
 tempmail.la
 tempmail.lol
+tempmail.net
 tempmail.ninja
 tempmailo.com
 tempmail.plus
@@ -3776,6 +3778,7 @@ velocenetwork.com
 venge.io
 venngage.com
 venturingtheworld.com
+verify32.com
 vexels.com
 vgtimes.com
 vidaliaonionfestival.com
