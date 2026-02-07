@@ -3484,6 +3484,7 @@ tempmail.ninja
 tempmailo.com
 tempmailonline.co
 tempmail.plus
+tempmail.sbs
 tempmail.sk
 tempmail.so
 tempmailto.com
