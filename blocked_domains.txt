@@ -1676,6 +1676,10 @@ hrcms-prod.mass.gov
 hstock.org
 html5games.com
 htmlbeautifier.org
+html-color.codes
+htmlcolorcodes.com
+html-color-codes.info
+htmlcolors.com
 htmlcsscleaner.com
 html-css-js.com
 htmlwasher.com
