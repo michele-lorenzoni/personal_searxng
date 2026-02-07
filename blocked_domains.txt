@@ -1004,6 +1004,7 @@ elsevierpublications.org
 elysedodge.com
 emacs-china.org
 emaildatabaseusa.com
+emailfake.com
 emailondeck.com
 emailproleads.com
 email-templates.com
@@ -3551,6 +3552,7 @@ theripcord.com
 therussianstore.com
 thesoftwareguild.com
 thespruce.com
+thetemp.email
 thetrain.com
 thewindowsclub.com
 thewordfinder.com
